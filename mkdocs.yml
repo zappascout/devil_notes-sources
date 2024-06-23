@@ -1,0 +1,69 @@
+# NB: to serve locally use '$ mkdocs serve' then take address from bottom and open in browser. if doesn't work prob means the port is still connected from the last time used to serve the page. To fix this, open task manager and end the task for the port. Then try again. OR use '$ mkdocs serve --dev-addr= . or at Terminal command type 'ps -a' to see all the ports and then 'kill -9 <port number>' to kill the port.
+
+site_name: Devil in the Stack Notes & Sources
+site_url:
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+    - navigation.top
+    - search: suggest
+    - search: highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+  language: en
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: teal
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: teal
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+
+extra:
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://x.com/wiresmith
+    - icon: fontawesome/brands/mastodon
+      link: https://mastodon.social/@andrew_smith_author
+    - icon: fontawesome/brands/github
+      link: https://mastodon.social/@andrew_smith_author
+
+markdown extensions:
+  - pymdownx.highlight:
+    anchor_lineums: true
+    auto_title: true
+    linenums: true
+    linenums_style: "table"
+    linespans: "span"
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - admonition
+  - pymdownx.arithmatex:
+      generic: true
+  - footnotes
+  - pymdownx. details
+  - pymdownx.superfences
+  - pymdownx.mark
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+
+copyright: Copyright &copy; 2024 Andrew Smith
+
