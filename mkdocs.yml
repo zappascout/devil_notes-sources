@@ -1,8 +1,26 @@
-# NB: to serve locally use '$ mkdocs serve' then take address from bottom and open in browser. if doesn't work prob means the port is still connected from the last time used. To fix, on command line type 'ps -a' to see all the ports and then 'kill -9 <port number>' to kill the port.
+# NB: to serve locally use '$ mkdocs serve' then take address from bottom and open in browser. if doesn't work prob means the port is still connected from the last time used. To fix, on command line type 'ps -a' to see all the ports and then 'kill -9 <port number>' to kill the port. The port number will be the 5-digit number at the start of the port serving mkdocs
 
-site_name: Devil in the Stack Notes & Sources
+# Welcome to MkDocs
+
+# For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+
+# Commands
+
+# * `mkdocs new [dir-name]` - Create a new project.
+# * `mkdocs serve` - Start the live-reloading docs server.
+# * `mkdocs build` - Build the documentation site.
+# * `mkdocs -h` - Print help message and exit.
+
+# project configuration
+site_name: Devil in the Stack || Notes & Sources
 site_url:
 language: en
+
+nav:
+  - About: 'index.md'
+  - Code: 'notes.md'
+  - 'chapter 1': '1.md'
+  - '2': '2.md'
 
 theme:
   name: material
@@ -39,7 +57,7 @@ theme:
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: indigo
-      accent: teal
+      accent: amber
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
@@ -69,6 +87,7 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
   - pymdownx.mark
+  - pymdownx.betterem
   - attr_list
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
