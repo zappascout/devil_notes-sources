@@ -19,8 +19,10 @@ language: en
 nav:
   - About: 'index.md'
   - Code: 'notes.md'
-  - 'chapter 1': '1.md'
+  - '0': 'notes_0_devil.md'
+  - '1': '1.md'
   - '2': '2.md'
+
 
 theme:
   name: material
@@ -36,6 +38,7 @@ theme:
   # - navigation.tabs
   # - navigation.tabs.sticky
   # - navigation.sections
+  # - navigation.prune
     - search: suggest
     - search: highlight
     # add 'search exclusion' to exclude pages/sections from search. see docs
@@ -92,6 +95,10 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
+
+plugins:
+  - search
+  - open-in-new-tab
 
 copyright: Copyright &copy; 2024 Andrew Smith
 
