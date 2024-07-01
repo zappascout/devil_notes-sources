@@ -18,11 +18,28 @@ language: en
 
 nav:
   - About: index.md
+  - Instructions: instructions.md
+  - Prologues 0+1: notes_0_devil.md
+  - chapter 1: notes_1_devil.md
+  - 2: notes_2_devil.md
+  - 3: notes_3_devil.md
+  - 4: notes_4_devil.md
+  - 5: notes_5_devil.md
+  - 6: notes_6_devil.md
+  - 7: notes_7_devil.md
+  - 8: notes_8_devil.md
+  - 9: notes_9_devil.md
+  - 10: notes_10_devil.md
+  - 11: notes_11_devil.md
+  - 12: notes_12_devil.md
+  - 13: notes_13_devil.md
+  - 14: notes_14_devil.md
+  - 15: notes_15_devil.md
+  - 16: notes_16_devil.md
+  - 17: notes_17_devil.md
+  - 18: notes_18_devil.md
+  - 19: notes_19_devil.md
   - Code: notes.md
-  - 0: notes_0_devil.md
-  - 1-4: notes_1-4_devil.md
-  - 2: 2.md
-
 
 theme:
   name: material

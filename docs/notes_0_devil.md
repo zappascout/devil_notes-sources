@@ -1,8 +1,8 @@
-#**Prologues**
+#**Prologues 0+1**
 ##**If...**
 ##**Then...**
-###xi
-==I decided to investigate=:
+###p. xi
+==I decided to investigate==:
 Then wrote the first UK magazine article on the subject, for the Sunday Times ([He invented
 Bitcoin. He's worth $500m. Nobody knows who he is.][satoshi], March 2, 2014.) This
 makes interesting reading now considering what we know—and don't
@@ -19,7 +19,7 @@ would end up in and enable Bitcoin's mining algorithm.
 ###xiii
 =="open source" creative model . . . one prominent business exec
 decried as "communism"==:
-Identity to be revealed later.
+Identity to be revealed.
 
 ###xv
 ==an ex-colleague who now edited BBC TV's flagship current affairs
@@ -36,7 +36,7 @@ state==][surkov], *Financial Times*, June 18, 2021.
 heart==:
 For a superb accounting of this, consult Gabriel Gatehouse's BBC
 Radio 4 series on Surkov, [The Puppetmaster: The story of the most
-powerful man you==ve never heard of][puppetmaster], originally broadcast in 2019.
+powerful man you've never heard of][puppetmaster], originally broadcast in 2019.
 [puppetmaster]:https://www.bbc.co.uk/programmes/m0003js6
 
 ==an infowar technique called Reflexive Control==:
