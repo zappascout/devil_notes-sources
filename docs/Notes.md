@@ -31,7 +31,7 @@ print(some_shit)
 ```
 
 ### add title
-``` py title='dullfunc.py'
+``` py title===dullfunc.py==
 # for python formatting
 def dullfunc (muck, brass)
 x = codswallop
@@ -39,7 +39,7 @@ y = collywobble
 print(some_shit)
 ```
 ### add line numbers
-``` py title='dullfunc.py' linenums='1'
+``` py title===dullfunc.py== linenums===1==
 # for python formatting
 def dullfunc (muck, brass)
 x = codswallop
@@ -48,7 +48,7 @@ print(some_shit)
 ```
 
 ### add line highlighting
-``` py title='dullfunc.py' linenums='1' hl_lines="2 3"
+``` py title===dullfunc.py== linenums===1== hl_lines="2 3"
 # for python formatting
 def dullfunc (muck, brass)
 x = codswallop

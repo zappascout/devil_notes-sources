@@ -1,4 +1,4 @@
-# NB: to serve locally use '$ mkdocs serve' then take address from bottom and open in browser. if doesn't work prob means the port is still connected from the last time used. To fix, on command line type 'ps -a' to see all the ports and then 'kill -9 <port number>' to kill the port. The port number will be the 5-digit number at the start of the port serving mkdocs
+# NB: to serve locally use ==$ mkdocs serve== then take address from bottom and open in browser. if doesn't work prob means the port is still connected from the last time used. To fix, on command line type ==ps -a== to see all the ports and then ==kill -9 <port number>== to kill the port. The port number will be the 5-digit number at the start of the port serving mkdocs
 
 # Welcome to MkDocs
 
@@ -17,11 +17,11 @@ site_url:
 language: en
 
 nav:
-  - About: 'index.md'
-  - Code: 'notes.md'
-  - '0': 'notes_0_devil.md'
-  - '1': '1.md'
-  - '2': '2.md'
+  - About: index.md
+  - Code: notes.md
+  - 0: notes_0_devil.md
+  - 1-4: notes_1-4_devil.md
+  - 2: 2.md
 
 
 theme:
@@ -41,7 +41,7 @@ theme:
   # - navigation.prune
     - search: suggest
     - search: highlight
-    # add 'search exclusion' to exclude pages/sections from search. see docs
+    # add 'search exclusion== to exclude pages/sections from search. see docs
     - content.tabs.link
     - content.code.annotation
     - content.code.copy

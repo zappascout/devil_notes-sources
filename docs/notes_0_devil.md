@@ -2,7 +2,7 @@
 ##**If...**
 ##**Then...**
 ###xi
-==I decided to investigate:==
+==I decided to investigate=:
 Then wrote the first UK magazine article on the subject, for the Sunday Times ([He invented
 Bitcoin. He's worth $500m. Nobody knows who he is.][satoshi], March 2, 2014.) This
 makes interesting reading now considering what we know—and don't
@@ -28,15 +28,15 @@ This was Ian Katz, then editor of *Newsnight*.
 
 ==Vladislav Surkov . . . advisor to Russian president Vladimir V.
 Putin==:
-See [Vladislav Surkov: 'An overdose of freedom is lethal to a
-state'][surkov], *Financial Times*, June 18, 2021.
+See [Vladislav Surkov: ==An overdose of freedom is lethal to a
+state==][surkov], *Financial Times*, June 18, 2021.
 [surkov]:https://www.ft.com/content/1324acbb-f475-47ab-a914-4a96a9d14bac
 
 ==a fan of Black Sabbath and Tupac Shakur who quoted Ginsberg by
 heart==:
 For a superb accounting of this, consult Gabriel Gatehouse's BBC
 Radio 4 series on Surkov, [The Puppetmaster: The story of the most
-powerful man you've never heard of][puppetmaster], originally broadcast in 2019.
+powerful man you==ve never heard of][puppetmaster], originally broadcast in 2019.
 [puppetmaster]:https://www.bbc.co.uk/programmes/m0003js6
 
 ==an infowar technique called Reflexive Control==:
