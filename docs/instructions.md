@@ -1,3 +1,5 @@
+why is this here? don't like footnotes
+
 EXPLAIN how to navigate the Note & Sources
 
 code repo

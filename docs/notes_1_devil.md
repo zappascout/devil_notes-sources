@@ -1,5 +1,5 @@
 #**CHAPTER 1**
-##**Revenge of the SpaghettiOs**
+##**"Revenge of the SpaghettiOs"**
 ###p. 3
 ==A *shift-devil*, she called it==:
 These thoughts from one of the first serious programmers I spoke to, one

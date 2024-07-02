@@ -1,6 +1,6 @@
 #**Prologues 0+1**
-##**If...**
-##**Then...**
+##**"If..."**
+##**"Then..."**
 ###p. xi
 ==I decided to investigate==:
 Then wrote the first UK magazine article on the subject, for the Sunday Times ([He invented

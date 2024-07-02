@@ -1,5 +1,5 @@
-#**CHAPTER 3**
-##**The Real Moriarty**
+#**CHAPTER 5**
+##**"The Real Moriarty"**
 ###p. 52
 ==Byron's epochal postwar generational lament, *Childe Harold's
 Pilgrimage*==: a confusing title, perhaps, until you know that "childe"
@@ -45,5 +45,5 @@ friends and colleagues==:
 see Desmond McHale and Yvonne Cohen, *New Light
 on George Boole*
 
-==a trio of long letters supplied by Boole\'s mathematician
+==a trio of long letters supplied by Boole's mathematician
 confidante Joseph Hill==: ibid, p184

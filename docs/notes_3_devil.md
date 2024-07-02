@@ -1,5 +1,5 @@
 #**CHAPTER 3**
-##**PyLadies and Code Freaks**
+##**"PyLadies and Code Freaks"**
 ###p. 22
 ==hence the lower prices \[in Marin\]==:
 Jan, who had lived in the Bay Area before, urges me to point out that we were at the border of
