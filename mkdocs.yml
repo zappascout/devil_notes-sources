@@ -64,6 +64,14 @@ theme:
     - content.code.copy
 
   palette:
+  # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: purple
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
 
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
@@ -73,15 +81,6 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
-
-    # Palette toggle for light mode
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: indigo
-      accent: purple
-      toggle:
-        icon: material/weather-night
-        name: Switch to dark mode
 
 extra:
   social:
