@@ -40,9 +40,9 @@ print("Hello World!")
 In this way they avoid the equivalent in C, namely:
 
 ```c
-#include \<stdio.h\>
+#include \[]:stdio.h\>
 
-#include \<stdlib.h\>
+#include \[]:stdlib.h\>
 
 int main(void)
 

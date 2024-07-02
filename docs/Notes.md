@@ -21,7 +21,7 @@ print(whatever)
 
 ## for a specific language
 ### with language formatting
-<!-- note how MKdocs builds out the menu here -->
+[]:!-- note how MKdocs builds out the menu here -->
 ``` py
 # for python formatting
 def dullfunc (muck, brass)
