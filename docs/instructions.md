@@ -1,6 +1,8 @@
 why is this here? don't like footnotes
 
 EXPLAIN how to navigate the Note & Sources
+top menus vs left menu
+search
 
 code repo
 links to learning resources on website
