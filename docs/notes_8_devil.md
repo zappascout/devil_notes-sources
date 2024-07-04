@@ -1,11 +1,11 @@
 #**CHAPTER 8**
 ##**"Hilarity Ensues"**
-###128
+###p. 128
 ==The program owes most to Diffie==:
 PowerPoint has traditional been attributed to Robert Gaskins and Dennis Austin Forethought Inc.,
 before being bought by Microsoft. But in a [*New Yorker* feature][yorker] from May
 28, 2001, Ian Parker reveals that it was in fact Diffie. This was like
-discovering "that Lenin had invented the stapler," he said.
+discovering "that Lenin had invented the stapler," he memorably noted.
 [yorker]:https://www.newyorker.com/magazine/2001/05/28/absolute-powerpoint
 
 ###129

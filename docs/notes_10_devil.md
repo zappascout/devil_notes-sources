@@ -1,6 +1,6 @@
 #**CHAPTER 10**
 ##"A Kind of Gentleness"
-###185
+###p. 185
 ==a new blog post [Nicholas] wrote took me aback==:
 Read it [here][ntoll].
 [ntoll]:https://ntoll.org/article/compassion/
