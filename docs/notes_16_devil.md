@@ -34,7 +34,7 @@ brought Dijkstra's *Selected Writings* to camp and now find myself
 quoting the master—specifically:
 >We are in the midst of an exciting process of clarification, of
 improvement of our understanding of the true nature of the programming
-task and its intrinsic difficulties]. A few notes
+task and its intrinsic difficulties. A few notes
 of warning, however, are not out of place, because, to my great regret,
 already now progress is being oversold. Simple souls have been made to
 believe that we have a retail shop in Philosopher's Stones that, by
@@ -53,8 +53,8 @@ As reported in *Wired*, ibid.. The *FT*
 reporter Rana Foroohar, in her book *Don't Be Evil: The Case Against
 Big Tech*, notes that Google refers to the process of controlling
 research and reporting as "social and intellectual capture". For a
-digest of Foroohar's case, see "[Don't Be Evil][rana]: The Case Against Big Tech
-by Rana Foroohar review — break up the giants][]," *The Times* (UK),
+digest of Foroohar's case, see "[Don't Be Evil: The Case Against Big Tech
+by Rana Foroohar review — break up the giants][rana]," *The Times* (UK),
 October 31, 2019.
 [rana]:https://www.thetimes.co.uk/article/don-t-be-evil-the-case-against-big-tech-by-rana-foroohar-review-break-up-the-giants-gwrjmwcfw
 
