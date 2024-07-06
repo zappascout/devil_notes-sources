@@ -91,7 +91,7 @@ but is not of it.
 
 ###326
 ==shocking sexual misconduct==:
-*New York Times*, October 25, 2018, "[How Google Protected Andy Rubin, the 'Father of Android][androi]'."
+*New York Times*, October 25, 2018, "[How Google Protected Andy Rubin, the 'Father of Android'][androi]."
 [androi]:https://www.nytimes.com/2018/10/25/technology/google-sexual-harassment-andy-rubin.html
 
 ###327
