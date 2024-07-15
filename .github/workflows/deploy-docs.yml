@@ -41,6 +41,6 @@ jobs:
         server: ${{ secrets.FTP_SERVER }}
         username: ${{ secrets.FTP_USERNAME }}
         password: ${{ secrets.FTP_PASSWORD }}
+        port: 21
         local-dir: site/
-        server-dir: home3/zappascout/public_html/devil/notes/ # Adjust this to your server's path
-        git-ftp-args: --insecure
+        server-dir: /home3/zappascout/public_html/devil/notes/ # Adjust this to your server's path
