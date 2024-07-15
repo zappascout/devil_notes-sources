@@ -14,7 +14,6 @@
 # project configuration
 site_name: Devil in the Stack || Notes & Sources
 site_url:
-language: en
 
 nav:
   - About: index.md
