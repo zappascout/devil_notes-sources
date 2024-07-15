@@ -43,4 +43,4 @@ jobs:
         password: ${{ secrets.FTP_PASSWORD }}
         port: 21
         local-dir: site/
-        server-dir: /home3/zappascout/public_html/devil/notes # Adjust this to your server's path
+        server-dir: /home3/zappascout/public_html/devil/notes/ # Adjust this to your server's path
