@@ -501,7 +501,7 @@ university==:
 From the [2020 Stack Overflow survey][survey], [education section][ed]
 This is another demographic question that has since been dropped from
 the survey.
-[survey]:[https://insights.stackoverflow.com/survey/2020
+[survey]:https://insights.stackoverflow.com/survey/2020
 [ed]:https://insights.stackoverflow.com/survey/2020#education
 
 ==the top three feeder colleges to Silicon Valley as UC
