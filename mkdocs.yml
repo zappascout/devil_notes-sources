@@ -13,7 +13,7 @@
 
 # project configuration
 site_name: Devil in the Stack || Notes & Sources
-site_url: http://andrewsmithauthor.com/devil/notes
+site_url: http://andrewsmithauthor.com/devil/notes/
 
 nav:
   - About: index.md
