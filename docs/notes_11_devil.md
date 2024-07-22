@@ -1,6 +1,5 @@
 #**CHAPTER 11**
-##**"THE GUN ON THE MANTELPIECE"**
-
+##**"THE GUN ON THE MANTELPIECE"**  
 
 ###p. 223
 ==Finally, in line 38 we *call* the function, causing it to run==
