@@ -1,5 +1,5 @@
 #**CHAPTER 11**
-##**"THE GUN ON THE MANTELPIECE"**  \
+##**"THE GUN ON THE MANTELPIECE"**
 ###p. 223
 ==Finally, in line 38 we *call* the function, causing it to run==
 The insult_engine code is accessible, properly formatted in color, in the "Code" page of these Notes & Sources. Download the Mu editor (my suggestion because it's so
