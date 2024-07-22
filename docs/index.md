@@ -1,13 +1,17 @@
 
 # About these Notes
 
-journalistic rules for sources
+Under construction (by me - steep learning curve!). Expected online July 23
 
-get denser as goes on through chapters
+This page will explain:
 
-hope will be a living resource
+the journalistic rules for sources
 
-contact for problems/issues/stories...won't be able to reply.
+that the notes get denser as the book progresses through the chapters
+
+my hope that these notes will become a living resource
+
+contact details for problems/issues/suggested additions, corrections etc.
 
 
 
