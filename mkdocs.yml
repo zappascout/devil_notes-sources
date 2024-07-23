@@ -46,14 +46,14 @@ theme:
     - navigation.sections
     - toc.integrate
     - navigation.top
-  instant nav needs site_url to be given above: enable when that's done
-  - navigation.instant
-  - navigation.instant.progess   # shows progress on slow connections
-  - navigation.instant.preview
-  - navigation.tabs
-  - navigation.tabs.sticky
-  - navigation.sections
-  - navigation.prune
+  # instant nav needs site_url to be given above: enable when that's done
+  # - navigation.instant
+  # - navigation.instant.progess   shows progress on slow connections
+  # - navigation.instant.preview
+  # - navigation.tabs
+  # - navigation.tabs.sticky
+  # - navigation.sections
+  # - navigation.prune
     - search: suggest
     - search: highlight
     # add 'search exclusion== to exclude pages/sections from search. see docs
