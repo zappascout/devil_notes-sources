@@ -114,7 +114,7 @@ markdown_extensions:
 plugins:
   - search
   - open-in-new-tab
-  - exclude-search:
+  - search_exclude:
       exclude:
         - index.md
         - instructions.md
