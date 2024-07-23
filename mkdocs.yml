@@ -116,8 +116,8 @@ plugins:
   - open-in-new-tab
   - exclude-search:
       exclude:
-        - index.md
-        - instructions.md
+      - index.md
+      - instructions.md
 
 copyright: Copyright &copy; 2024 Andrew Smith
 
