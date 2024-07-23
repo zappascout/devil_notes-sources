@@ -16,7 +16,7 @@ site_name: Devil in the Stack || Notes & Sources
 site_url: http://andrewsmithauthor.com/devil/notes/
 
 nav:
-  - About: index.md
+  - About these Notes: index.md
   - Instructions: instructions.md
   - Prologues 0+1: notes_0_devil.md
   - chapter 1: notes_1_devil.md
