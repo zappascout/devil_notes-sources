@@ -3,7 +3,7 @@ When I started thinking about Notes & Sources for *Devil in the Stack*, I knew t
 2.  Sources alone could increase the size of the book by 20%.  
 3.  Flipping between main text and Notes can be irritating.
 
-The solution seemed obvious\*: put them online. In my mind's eye I saw a reader with a handsome print book in one hand and a very dry martini in the other, with Notes & Sources open on a nearby phone or tablet, ready to be consulted while reading or maybe at the end of a chapter. Obviously, things seldom turn out as we imagined (©Jean Paul Sartre) so feel free to swap out the martini for a glass of wine—or even tea.
+The solution seemed obvious: put them online.\* In my mind's eye I saw a reader with a handsome print book in one hand and a very dry martini in the other, with Notes & Sources open on a nearby phone or tablet, ready to be consulted while reading or maybe at the end of a chapter. Obviously, things seldom turn out as we imagined (©Jean Paul Sartre) so feel free to swap out the martini for a glass of wine—or even tea.
 
 Here's how these Notes work. The top menu shows all the available pages: click to enter the desired chapter. Once on a chapter page, the menu on the left allows navigation by page number within that chapter, allowing readers to jump to any zone of interest. Scroll or jump back up and the top menu reappears.  
 
