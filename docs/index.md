@@ -18,7 +18,7 @@ Apart from being a log of sources, these Notes also include anecdotes, stories,
 quotes and thoughts I couldn't include in the main text without disrupting the
 flow. You'll find that both (notes and sources) are distributed unevenly, as
 required. So where the notes for early chapters may be relatively sparse, those
-for crazier ones from 5 onwards can be extensive. I've also included some code
+for deeper ones from 5 onwards can be extensive. I've also included some code
 from the book, just because it looks so much better in its natural habitat, in
 color, online. I hope to enable the code to be run, using PyScript, in due
 course (watch this space.)
