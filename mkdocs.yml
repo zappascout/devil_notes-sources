@@ -114,10 +114,10 @@ markdown_extensions:
 plugins:
   - search
   - open-in-new-tab
-  - search_exclude:
-      exclude:
-        - index.md
-        - instructions.md
+  # - search_exclude:
+  #     exclude:
+  #       - index.md
+  #       - instructions.md
 
 copyright: Copyright &copy; 2024 Andrew Smith
 
