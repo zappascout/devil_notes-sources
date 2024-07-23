@@ -32,23 +32,3 @@ Gremlins dictate that replying directly by email will probably be impossible,
 but please know that, whether a suggestion ends up being incorporated or
 not, constructive contributions have my sincerest respect and thanks. Mastodon
 and X are where these thanks are most likely to be posted. — Andrew S, July 2024
-
-
-
-
-
-
-<!-- Under construction (by me - steep learning curve!). Expected online July 23
-
-This page will explain:
-
-the journalistic rules for sources
-
-that the notes get denser as the book progresses through the chapters
-
-my hope that these notes will become a living resource
-
-contact details for problems/issues/suggested additions, corrections etc. -->
-
-
-
