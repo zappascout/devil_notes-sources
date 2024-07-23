@@ -17,7 +17,7 @@ site_url: http://andrewsmithauthor.com/devil/notes/
 
 nav:
   - About these Notes: index.md
-  - Instructions: instructions.md
+  - How to use: instructions.md
   - Prologues 0+1: notes_0_devil.md
   - chapter 1: notes_1_devil.md
   - 2: notes_2_devil.md
@@ -46,14 +46,14 @@ theme:
     - navigation.sections
     - toc.integrate
     - navigation.top
-  # instant nav needs site_url to be given above: enable when that's done
-  # - navigation.instant
-  # - navigation.instant.progess   shows progress on slow connections
-  # - navigation.instant.preview
-  # - navigation.tabs
-  # - navigation.tabs.sticky
-  # - navigation.sections
-  # - navigation.prune
+  instant nav needs site_url to be given above: enable when that's done
+  - navigation.instant
+  - navigation.instant.progess   # shows progress on slow connections
+  - navigation.instant.preview
+  - navigation.tabs
+  - navigation.tabs.sticky
+  - navigation.sections
+  - navigation.prune
     - search: suggest
     - search: highlight
     # add 'search exclusion== to exclude pages/sections from search. see docs
