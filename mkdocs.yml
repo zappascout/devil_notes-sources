@@ -1,4 +1,4 @@
-# NB: to serve locally use ==$ mkdocs serve== then take address from bottom and open in browser. if doesn't work prob means the port is still connected from the last time used. To fix, on command line type ==ps -a== to see all the ports and then ==kill -9 []:port number>== to kill the port. The port number will be the 5-digit number at the start of the port serving mkdocs. then  use 'mkdocs serve' again. if working the address will offer local address http://127.0.0.1:8000/ - just press option and click on the link to open in browser.
+# NB: to serve locally use ==$ mkdocs serve== then take address from bottom and open in browser. if doesn't work prob means the port is still connected from the last time used. To fix, on command line type ps -a to see all the ports and then kill -9 []:port number>== to kill the port. The port number will be the 5-digit number at the start of the port serving mkdocs. then  use 'mkdocs serve' again. if working the address will offer local address http://127.0.0.1:8000/ - just press option and click on the link to open in browser.
 
 # Welcome to MkDocs
 
