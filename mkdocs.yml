@@ -54,9 +54,9 @@ theme:
   # - navigation.tabs.sticky
   # - navigation.sections
   # - navigation.prune
-    - search: suggest
-    - search: highlight
-    # add 'search exclusion== to exclude pages/sections from search. see docs
+    # - search: suggest
+    # - search: highlight
+  # add 'search exclusion== to exclude pages/sections from search. see docs
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
