@@ -43,4 +43,3 @@ jobs:
         password: ${{ secrets.FTP_PASSWORD }}
         local-dir: site/
         server-dir: /devil/notes/ # Adjust this to your server's path
-        port: 21
