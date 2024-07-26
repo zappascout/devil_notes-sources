@@ -1,4 +1,4 @@
-name: Deploy MkDocs to HostGator
+name: Deploy MkDocs Site
 
 on:
   workflow_dispatch:
@@ -9,6 +9,7 @@ on:
 jobs:
   deploy:
     runs-on: macos-latest
+
     steps:
     - uses: actions/checkout@v2
 
@@ -35,11 +36,11 @@ jobs:
     - name: Build MkDocs site
       run: mkdocs build --verbose
 
-    - name: Upload to HostGator via FTP
+    - name: Upload to HostGator via SFTP
       uses: SamKirkland/FTP-Deploy-Action@4.2.0
       with:
         server: ${{ secrets.FTP_SERVER }}
         username: ${{ secrets.FTP_USERNAME }}
         password: ${{ secrets.FTP_PASSWORD }}
         local-dir: site/
-        server-dir: /devil/notes/ # Adjust this to your server's path
+        server-dir: /public_html/devil/notes/ # Adjust this to your server's path
