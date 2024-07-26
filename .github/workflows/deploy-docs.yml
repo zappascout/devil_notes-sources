@@ -8,7 +8,7 @@ on:
 
 jobs:
   deploy:
-    runs-on: macos-latest
+    runs-on: ubuntu-latest
 
     steps:
     - uses: actions/checkout@v2
@@ -36,7 +36,7 @@ jobs:
     - name: Build MkDocs site
       run: mkdocs build --verbose
 
-    - name: Upload to HostGator via SFTP
+    - name: Upload to HostGator via FTP
       uses: SamKirkland/FTP-Deploy-Action@4.2.0
       with:
         server: ${{ secrets.FTP_SERVER }}
