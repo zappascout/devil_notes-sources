@@ -88,6 +88,9 @@ extra:
       link: https://mastodon.social/@andrew_smith_author
     - icon: fontawesome/brands/github
       link: https://mastodon.social/@andrew_smith_author
+  analytics:
+    provider: google
+    property: G-X372058789
 
 markdown_extensions:
   - pymdownx.highlight:
