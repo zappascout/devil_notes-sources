@@ -90,7 +90,7 @@ extra:
       link: https://mastodon.social/@andrew_smith_author
   analytics:
     provider: google
-    property: G-X372058789
+    property: G-YSSFLYWTNE
 
 markdown_extensions:
   - pymdownx.highlight:
