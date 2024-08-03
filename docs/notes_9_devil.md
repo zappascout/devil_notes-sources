@@ -5,7 +5,16 @@
 inspired job==:
 And his name was Jack Greenberg
 
-###162
+###162  
+==That animate_zombies function== as it would appear in a code editor like Mu or VS Code:  
+```Python
+def animate_zombies():
+    for zombie in zombies:
+        zombie.frame += 1
+        if zombie.frame == 5:
+            zombie.frame = 1
+```  
+
 ==I was long puzzled that the word "argument" should be employed
 for this purpose==:
 For lovers of the long grass, there's a [delightful etymological discussion][stackex] on StackExchange.
