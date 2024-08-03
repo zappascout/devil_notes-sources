@@ -1,7 +1,7 @@
 #**CHAPTER 11**
 ##**"THE GUN ON THE MANTELPIECE"**
 ###p. 215
-Code looks so much better in its natural habitat, color-coded and onscreen. Here are the three versions of the Shakespearian Insult Engine in this much happier environment, from least to most sophisticated. I hope soon to have them runnable using a new offshoot of Python called "PyScript", which (like JavaScript) can run in a web browser—a big deal in the coding world. PyScript, incidentally, is the project Nicholas Tollervey works on at Anaconda. A pleasing connection.
+Code looks so much better in its natural habitat, color-coded and onscreen. Here are the three versions of the Shakespearian Insult Engine in this much happier environment, from least to most sophisticated. I hope soon to have them runnable using a new offshoot of Python called "PyScript", which (like JavaScript) can run in a web browser—a big deal in the coding world. PyScript, incidentally, is the project Nicholas Tollervey works on at Anaconda. A pleasing symmetry.
 ```Python
 from random import choice
 
