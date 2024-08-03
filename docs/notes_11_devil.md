@@ -1,6 +1,116 @@
 #**CHAPTER 11**
 ##**"THE GUN ON THE MANTELPIECE"**
-###p. 223
+###p. 215
+Code looks so much better in its natural habitat, color-coded and onscreen. Here are the three versions of the Shakespearian Insult Engine in this much happier environment, from least to most sophisticated. I hope soon to have them runnable using a new offshoot of Python called "PyScript", which (like JavaScript) can run in a web browser—a big deal in the coding world. PyScript, incidentally, is the project Nicholas Tollervey works on at Anaconda. A pleasing connection.
+```Python
+from random import choice
+
+adjA = [
+    "mammering",
+    "saucy",
+    "beslubbering",
+    "spleeny",
+    "yeasty",
+    "mewling"
+]
+adjB = [
+    "rump-fed",
+    "plume-plucked",
+    "onioneyed",
+    "clay-brained",
+    "beetle-headed",
+]
+noun = [
+    "bugbear",
+    "flap-dragon",
+    "hedgepig",
+    "joithead",
+    "lewdster",
+    "moldwarp",
+]
+
+word1 = choice(adjA)
+word2 = choice(adjB)
+word3 = choice(noun)
+insult = f"{word1} {word2} {word3}"
+print(insult)
+```  
+
+```Python  
+from random import choice
+
+adjA = [
+    "mammering",
+    "saucy",
+    "beslubbering",
+    "spleeny",
+    "yeasty",
+    "mewling"
+]
+adjB = [
+    "rump-fed",
+    "plume-plucked",
+    "onioneyed",
+    "clay-brained",
+    "beetle-headed",
+]
+noun = [
+    "bugbear",
+    "flap-dragon",
+    "hedge-pig",
+    "joithead",
+    "lewdster",
+    "moldwarp",
+]
+
+print(f"{choice(adjA)} {choice(adjB)} {choice(noun)}!")
+```  
+
+```Python
+from random import choice
+
+adjA = [
+    "paunchy",
+    "reeky",
+    "lumpish",
+    "rank",
+    "goatish",
+    "surly"
+]
+adjB = [
+    "tickle-brained",
+    "weather-beaten",
+    "sheep-biting",
+    "swag-bellied"
+]
+noun = [
+    "codpiece",
+    "puttock",
+    "minnow",
+    "maggot-pie",
+    "pie-face",
+    "varlot"
+]
+
+
+def insult_engine():
+    bardish_insult_bank = []
+    for i in range(100):
+        insult_i = f"{choice(adjA)} {choice(adjB)} {choice(noun)}!"
+        if insult_i not in bardish_insult_bank:
+            bardish_insult_bank.append(insult_i)
+    next_action = input("Generate a Bardish insult? (y/n): ")
+    while next_action == "y":
+        print(f"\n{bardish_insult_bank.pop(0)}")
+        next_action = input("\nPrithy another? (y/n): ")
+    else:
+        return f"\nFarewell, thou {bardish_insult_bank[0]}\n"
+
+
+insult_engine()
+```  
+
+###223
 ==Finally, in line 38 we *call* the function, causing it to run==
 The insult_engine code is accessible, properly formatted in color, in the "Code" page of these Notes & Sources. Download the Mu editor (my suggestion because it's so
 immediate and easy to use, but there are plenty of others available free to use) and run the
