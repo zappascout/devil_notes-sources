@@ -46,7 +46,7 @@ producing disastrous results][meet]."
 [meet]:https://www.technologyreview.com/2023/03/10/1069602/meredith-broussard-interview/
 
 ###269
-==popular TV shows thought to have been canceled algorithmically==
+==popular TV shows thought to have been canceled algorithmically==:
 "I was disappointed, obviously," [Lisa Hanawalt told
 *Wired*][lisa] in September 2020 after the cancellation of her show *Tuca &
 Bertie* by Netflix.
@@ -87,7 +87,7 @@ as reductive==:
 For more detail see also *MIT Technology Review*, "[LinkedIn's job-matching AI was biased. The company's solution? More
 AI][linkd]," June 23 2021, and "[Auditors are testing hiring algorithms for bias,
 but there's no easy fix][fix]," 11 February, 2021.
-[link]:https://www.technologyreview.com/2021/06/23/1026825/linkedin-ai-bias-ziprecruiter-monster-artificial-intelligence/
+[linkd]:https://www.technologyreview.com/2021/06/23/1026825/linkedin-ai-bias-ziprecruiter-monster-artificial-intelligence/
 [fix]:https://www.technologyreview.com/2021/02/11/1017955/auditors-testing-ai-hiring-algorithms-bias-big-questions-remain/
 
 ==flung like digital spanners into the works of everything from
