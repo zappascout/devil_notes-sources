@@ -16,7 +16,7 @@ FAA's Review of the Boeing 737 MAX][sum]," November 18, 2020.
 ==the FAA had grown cozy with Boeing==:
 For an early summary of the issues around the two 737 Max crashes, see *The New York Times*,
 "[After a Lion Air 737 Max Crashed in October, Questions About the Plane
-Arose][aft]," Feb, 3, 2019. for a careful and highly readable perspective on
+Arose][aft]," Feb, 3, 2019. For a careful and highly readable perspective on
 this see *The New Yorker*, "[The Case Against Boeing][the]," by Alec MacGillis,
 November 11, 2019.
 [aft]:https://www.nytimes.com/2019/02/03/world/asia/lion-air-plane-crash-pilots.html
