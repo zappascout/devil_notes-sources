@@ -3,7 +3,7 @@
 ###p. 289
 ==Skewed male, white and Asian at first, the group diversified
 over the months==:
-On my first night I counted 28 people, of whom six were women and two were black, with a couple of experienced retired
+On my first night I counted 28 people, of whom six were women and two were Black, with a couple of experienced retired
 coders present, too. By the time I moved to the bigger San Francisco
 group, the Oakland group had grown at least fifty percent and the
 proportions of women and people of color had roughly doubled.
