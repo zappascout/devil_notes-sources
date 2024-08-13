@@ -936,7 +936,7 @@ in Tech][happ]," August 13, 2019:
 >'People would write stuff like that every
 month,' says one former Google executive. When the subject of trying to
 diversify Google's workforce comes up in big meetings and internal
-forums, one black female employee says, 'You pretty much need to wait
+forums, one Black female employee says, 'You pretty much need to wait
 about 10 seconds before someone jumps in and says we're lowering the
 bar.'
 [happ]:https://longreads.com/2019/08/13/three-years-of-misery-inside-google-the-happiest-company-in-tech/
