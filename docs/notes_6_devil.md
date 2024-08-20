@@ -35,8 +35,8 @@ highly recommended.
 ###76
 ==the signal reaches that neighbor neuron at best 50 percent of
 the time==: from "[Stochastic resonance in Hodgkin-Huxley neuron induced
-by unreliable synaptic transmission][neuron]", Guo et al, Journal of Theoretical
-Biology, Volume 308, 7 September 2012: "Several previous experimental
+by unreliable synaptic transmission][neuron]", Guo et al, *Journal of Theoretical
+Biology*, Volume 308, 7 September 2012: "Several previous experimental
 studies have found that the successful rate of a postsynaptic neuron
 responding to the presynaptic spike input is typically less than fifty
 percent (Allen and Stevens, 1994, Branco and Staras, 2009, Rosenmund et
@@ -51,5 +51,5 @@ behaviors of neuronal networks (Friedrich and Kinzel, 2009, Kinzel,
 2007), enhance signal propagation capability in feedforward neuronal
 networks (Guo and Li, 2011), lead to energy-efficient neural computation
 (Levy and Baxter, 2002), as well as improve performance in a sequence
-learning model of hippocampal neurons (Sullivan and Levy, 2003).
+learning model of hippocampal neurons (Sullivan and Levy, 2003)."
 [neuron]:https://www.sciencedirect.com/science/article/abs/pii/S0022519312002767>
