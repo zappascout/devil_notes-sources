@@ -15,8 +15,7 @@ write.
 
 ###54
 ==Lord Byron's first speech on ascending to the House of Lords==:
-From *Hansard*, [Debate on the 1812 Framework Bill][debate]. And guess what,
-through the magic of the internet you can follow this debate.
+And guess what, through the magic of the internet you can follow this debate. From *Hansard*, [Debate on the 1812 Framework Bill][debate].
 [debate]:https://api.parliament.uk/historic-hansard/lords/1812/feb/27/frame-work-bill
 
 ###55
@@ -43,7 +42,7 @@ Technology, 2008.
 ==After George's death, Mary solicited recollections from his many
 friends and colleagues==:
 see Desmond McHale and Yvonne Cohen, *New Light
-on George Boole*
+on George Boole*.
 
 ==a trio of long letters supplied by Boole's mathematician
 confidante Joseph Hill==: ibid, p184
