@@ -118,13 +118,12 @@ Rivetter, as women were forced back into the home. "Rosie the Riveter"
 was a fictional character used to front a World War II campaign to bring
 American women into industry, to perform work traditionally done by the
 men away fighting. The campaign was wildly successful, and women
-participating in heavy industrial jobs during the war grew to be known
+participating in heavy industrial jobs during the war came to be known
 as "Rosies." A superb 1980 documentary (*Rosie the Riveter* by Connie
-Field) tells the by-turns delightful and heartbreaking story of Rosies'
+Field) tells the by-turns delightful and heartrending story of Rosies'
 entry into industry and the campaign to push them back out when the men
 came home.
-    And anyone who feels they haven't experienced enough fury or depression
-over irrational and regressive prejudice in the last few years could do
+    And anyone who feels they haven't experienced enough fury or despair over irrational prejudice in the last few years could do
 very much worse than approach the online PDF of Jennifer S. Light's
 *When Computers Were Women*. This will make you feel bad, but also good,
 because it has so much fascinating detail about these truly remarkable
@@ -145,7 +144,7 @@ oral history archived at the Computer History Museum in 2008
 than anyone bar Turing==: See Dyson, ibid. Von Neumann thought the future
 would be all about baking "rich functionality" into the hardware;
 thought programming would be a tedious technical exercise. By contrast,
-Turing saw the machine as a relatively trivial template for
+Turing saw the machine as a relatively trivial vehicle for
 software—saw programming as a potentially fascinating pursuit, a view
 subsequently proven by the ENIAC women.
 
