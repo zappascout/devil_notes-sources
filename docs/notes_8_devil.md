@@ -80,10 +80,10 @@ when memory became free.
   
 The most dramatic moment of the first moon landing duly came when, at 30,000 feet and with the "Eagle" lunar lander
 descending rapidly, an alarm sounded in the lander's cabin and Buzz
-Aldrin saw the now famous "1202" code flash onto his computer screen,
+Aldrin saw the now infamous "1202" code flash onto his computer screen,
 which he monitored while Armstrong stood at the flight controls. For
 years non-experts assumed this to have been a bug in the software, but
-Margaret Hamilton has spent much of her life explaining that this was
+Margaret Hamilton has spent much of her life explaining that it was
 intentional—and probably saved the first landing. For chapter and verse here, see my book *Moondust: In
 Search of the Men Who Fell to Earth* or Andy Chaikin's superb *A Man on the Moon*. This was no small feat because the
 Apollo Guidance Computer had less computing power than a recordable greeting card today (see Ellen Stofan of the National
@@ -147,7 +147,7 @@ California, 1968
 percent within a few years==:
 Ensmenger, ibid, p239
 
-==PAT performance as no better a gauge of coding potential than
+==PAT performance was no better a gauge of coding potential than
 eye color==:
 Ensmenger, ibid. Also see Lawrence J. Mazlack, "Identifying
 Potential to Acquire Programming Skill," *Communications of the ACM*,
