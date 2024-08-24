@@ -62,8 +62,7 @@ the end of 1968, with a first landing on the horizon, she was 32 and
 often forced to take daughter Lauren to work on evenings and at weekends while
 her team toiled all hours on software to control the spaceships. Poor
 girl, we might think, before learning that as compensation the waiting
-child was allowed to play on the Apollo flight simulator, making her
-probably the only human to have learned to land a Lunar Module
+child was allowed to play on the Apollo flight simulator, making her the only human to have learned to land a Lunar Module
 before she could drive a car.  
   
 Then one day Lauren crashed a simulated landing in mysterious circumstances.
@@ -77,7 +76,44 @@ lunar circumnavigatory flight, proved them wrong. Caution validated,
 Hamilton was allowed to insert a "BAILOUT" routine designed to warn
 astronauts when the Apollo Guidance Computer was at risk of overflow,
 restarting essential tasks and scheduling less important ones to run
-when memory became free.
+when memory became free.  
+  
+The most dramatic moment of the first moon landing duly came when, at 30,000 feet and with the "Eagle" lunar lander
+descending rapidly, an alarm sounded in the lander's cabin and Buzz
+Aldrin saw the now famous "1202" code flash onto his computer screen,
+which he monitored while Armstrong stood at the flight controls. For
+years non-experts assumed this to have been a bug in the software, but
+Margaret Hamilton has spent much of her life explaining that this was
+intentional—and probably saved the first landing. For chapter and verse here, see my book *Moondust: In
+Search of the Men Who Fell to Earth* or Andy Chaikin's superb *A Man on the Moon*. This was no small feat because the
+Apollo Guidance Computer had less computing power than a recordable greeting card today (see Ellen Stofan of the National
+Air and Space Museum, writing in *Slate*: "[The Apollo Guidance Computer
+was a marvel: As Poppy Northcutt, who calculated Apollo's
+return-to-Earth trajectories, told me, the AGC had less computing power
+than the greeting cards today that record a personal message. Yet it
+worked][poppy].") Poppy Northcutt, incidentally, was [the only woman in NASA's flight
+control room][only] during the first landing.  
+  
+As a demonstration of how easy it is to get this stuff wrong, with
+sometimes catastrophic consequences, G. J. Meyers' book *Software
+Reliability: Principles and Practices* offers the tale of how NASA lost
+their first Mariner space probe in 1962 to a comma accidently typed as a
+period in the guidance program, turning what should have been a loop
+into a variable assignment. By this account (quoted in Ensmenger,
+ibid), the FORTRAN statement "DO 3 1 = 1,3" became "DO 3 1 = 1.3".
+Hilarity did not ensue. Mariner 2 launched successfully not long after.
+[More recent reporting][recent] suggests that the culprit may have been a hyphen,
+as reported contemporaneously in the *New York Times*, July 27, 1962,
+and quoted in [a 1987 thread on *Risks Digest, Vol. 5, Issue #66*][thread]. Lovers
+of detailed computing arcana with love this. The *2001: A Space
+Odyssey* author Arthur C. Clarke dubbed this particular shift devil "the
+most expensive hyphen in history" (in Arthur C. Clarke, *The Promise of
+Space*, 1968.)
+[poppy]:https://slate.com/technology/2019/10/consequential-computer-code-software-history.html
+[only]:https://www.astronomy.com/space-exploration/poppy-northcutt-the-only-woman-in-the-apollo-control-room/
+[recent]:https://www.nytimes.com/1962/07/28/archives/for-want-of-hyphen-venus-rocket-is-lost-yt19630104xmllost-hyphen.html
+[thread]:http://catless.ncl.ac.uk/Risks/5.66.html#subj1
+
 
 ==Suddenly programmers became important==:
 See Ensmenger, ibid, for more on this.
@@ -85,7 +121,7 @@ See Ensmenger, ibid, for more on this.
 ==paternalistic mandarins chose to classify the work of pioneers
 like Alan Turing==:
 from Marie Hicks, *Programmed Inequality: How
-Britain Discarded Women Technologists and lost Its Edge in Computing*:
+Britain Discarded Women Technologists and Lost Its Edge in Computing*:
 "The British case is different: in Britain, gendered labor change was
 part of a topdown government initiative to computerize. Not only women
 but also the explicit structural discrimination against them played a
@@ -95,46 +131,6 @@ failure of the British computing industry."
 ==a small study of professionals==:
 Walter McNamara and John Hughes studied [57 professional programmers with an average age of 25][57].
 [57]:https://www.researchgate.net/publication/230267512_A_Review_of_Research_on_the_Selection_of_Computer_Programmers
-
-==the girl exposed a software problem while playing in the lunar
-lander flight simulator==:
-The most dramatic moment of the first moon landing came when, at 30,000 feet and with the "Eagle" lunar lander
-descending rapidly, an alarm sounded in the lander's cabin and Buzz
-Aldrin saw the now famous "1202" code flash onto his computer screen,
-which he monitored while Armstrong stood at the flight controls. For
-years non-experts assumed this to have been a bug in the software, but
-Margaret Hamilton has spent much of her life explaining that this was
-intentional—and probably saved the first landing, after her daughter
-discovered an edge case in which the lander always crashed in
-simulation. For chapter and verse here, see my book *Moondust: In
-Search of the Men Who Fell to Earth*. This was no small feat because the
-Apollo Guidance Computer had less computing power than a greeting card
-you record your own message in today (see Ellen Stofan of the National
-Air and Space Museum, writing in *Slate*: "[The Apollo Guidance Computer
-was a marvel: As Poppy Northcutt, who calculated Apollo's
-return-to-Earth trajectories, told me, the AGC had less computing power
-than the greeting cards today that record a personal message. Yet it
-worked][poppy].") Poppy Northcutt, incidentally, was [the only woman in NASA's flight
-control room][only] during the first landing.
-    As a demonstration of how easy it is to get this stuff wrong, with
-sometimes catastrophic consequences, G. J. Meyers' book *Software
-Reliability: Principles and Practices* offer the tale of how NASA lost
-their first Mariner space probe in 1962 to a comma accidently typed as a
-period in the guidance program, turning what should have been a loop
-into a variable assignment. By this account, from (quoted in Ensmenger,
-ibid), the FORTRAN statement "DO 3 1 = 1,3" became "DO 3 1 = 1.3".
-Hilarity did not ensue. Mariner 2 launched successfully not long after.
-[More recent reporting][recent] suggests that the culprit may have been a hyphen,
-as reported contemporaneously in the *New York Times*, July 27, 1962,
-and quoted in [a 1987 thread on *Risks Digest, Vol. 5, Issue #66*][thread]. Lovers
-of detailed computing arcana with love this. The *2001: A Space
-Odyssey* author Arthur C. Clarke dubbed this supposed shift devil "the
-most expensive hyphen in history" (in Arthur C. Clarke, *The Promise of
-Space*, 1968.)
-[poppy]:https://slate.com/technology/2019/10/consequential-computer-code-software-history.html
-[only]:https://www.astronomy.com/space-exploration/poppy-northcutt-the-only-woman-in-the-apollo-control-room/
-[recent]:https://www.nytimes.com/1962/07/28/archives/for-want-of-hyphen-venus-rocket-is-lost-yt19630104xmllost-hyphen.html
-[thread]:http://catless.ncl.ac.uk/Risks/5.66.html#subj1
 
 ###142
 ==the entire population of Sing Sing prison in New York was
