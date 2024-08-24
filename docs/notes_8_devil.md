@@ -65,7 +65,8 @@ girl, we might think, before learning that as compensation the waiting
 child was allowed to play on the Apollo flight simulator, making her
 probably the only human to have learned to land a Lunar Module
 before she could drive a car.  
-    Then one day Lauren crashed a simulated landing in mysterious circumstances.
+  
+Then one day Lauren crashed a simulated landing in mysterious circumstances.
 Her alarmed mother traced the problem to a mistakenly activated
 pre-launch program called "P01," which sprang to life mid-flight and
 gatecrashed the memory, overloading and then paralyzing the computer
