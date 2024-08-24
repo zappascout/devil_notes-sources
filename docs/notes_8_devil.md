@@ -2,8 +2,8 @@
 ##**"Hilarity Ensues"**
 ###p. 128
 ==The program owes most to Diffie==:
-PowerPoint has traditional been attributed to Robert Gaskins and Dennis Austin Forethought Inc.,
-before being bought by Microsoft. But in a [*New Yorker* feature][yorker] from May
+PowerPoint has traditionally been attributed to Robert Gaskins and Dennis Austin Forethought Inc.,
+before being bought by Microsoft. But in a [*New Yorker*][yorker] feature from May
 28, 2001, Ian Parker reveals that it was in fact Diffie. This was like
 discovering "that Lenin had invented the stapler," he memorably noted.
 [yorker]:https://www.newyorker.com/magazine/2001/05/28/absolute-powerpoint
@@ -21,12 +21,12 @@ before a leap year, when New Year's Day falls on September 12.
 
 ###134
 =="And we haven't even left Australia yet"==:
-[Australian time zones][zones].
-[zones]:https://info.australia.gov.au/about-australia/facts-and-figures/time-zones-and-daylight-saving
+Here are those [Australian time zones][zones].
+[zones]:https://www.timeanddate.com/time/zone/australia
 
 ###139
 ==In 1984, women accounted for almost 40 percent of CS degrees==:
-*New York Times* "[The Secret History of Women in Coding][secret]"
+*New York Times* "[The Secret History of Women in Coding][secret]."
 [secret]:https://www.nytimes.com/2019/02/13/magazine/women-coding-computer-programming.html
 
 ==Bureau of Labor Statistics figures from 1987==:
@@ -34,7 +34,7 @@ Figures from the Bureau of Labor Statistics, quoted in Caroline Clarke Hayes' es
 "Computer Science: The Incredible Shrinking Woman," in Misa, ibid (p. 33).
 
 ==there would have been *no women programmers* by 2020==:
-figures from 2015 and surrounding Stack Overflow surveys.
+This extrapolation based on figures from 2015 and surrounding Stack Overflow surveys.
 
 ###140
 ==in 2013 it felt more like they were threatened and wanted to
@@ -59,13 +59,13 @@ How so? Hamilton was Director of Apollo Flight Computer Programming at MIT durin
 credited with having coined the term "software engineering" in an
 effort to get her profession taken more seriously by NASA managers. At
 the end of 1968, with a first landing on the horizon, she was 32 and
-often forced to take Lauren to work on evenings and at weekends while
+often forced to take daughter Lauren to work on evenings and at weekends while
 her team toiled all hours on software to control the spaceships. Poor
-girl, one might think, before learning that as compensation the waiting
+girl, we might think, before learning that as compensation the waiting
 child was allowed to play on the Apollo flight simulator, making her
-probably the only human being to have learned to land a Lunar Module
-before she could drive a car.
-    One day Lauren crashed a simulated landing in mysterious circumstances.
+probably the only human to have learned to land a Lunar Module
+before she could drive a car.  
+    Then one day Lauren crashed a simulated landing in mysterious circumstances.
 Her alarmed mother traced the problem to a mistakenly activated
 pre-launch program called "P01," which sprang to life mid-flight and
 gatecrashed the memory, overloading and then paralyzing the computer
