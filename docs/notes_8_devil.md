@@ -234,7 +234,7 @@ clueless about what coding involved.
 chuckled, "when we ran into a lot of difficulty because the key metric
 for programmer productivity at IBM was the number of lines of code
 produced. Our people would go in and reduce the number of lines of code,
-generating negative productivity in IBM's eyes. BillGates used to
+generating negative productivity in IBM's eyes. Bill Gates used to
 call this 'The race to build the world's heaviest airplane.'
 
 ==from the early eighties to nineties Ada became the new
@@ -244,8 +244,9 @@ Boeing 777 and Canadian and British air traffic control systems make use
 of it, as do French TGV high-speed trains and metro systems in New York,
 London, Paris and Hong Kong. For more detail on the rise and fall of
 languages, there is a wonderful, fluid graphic showing the rise and fall
-of languages on YouTube, called "Most Popular Programming Languages 1965
-— 2022"[]:https://www.youtube.com/watch?v=qQXXI5QFUfw
+of languages on YouTube, called ["Most Popular Programming Languages 1965
+— 2022"][rise]
+[rise]:https://www.youtube.com/watch?v=qQXXI5QFUfw
 
 ==Apple Computers' 1984 Superbowl ad for the first Macintosh==:
 See this on YouTube[]:https://www.youtube.com/watch?v=ErwS24cBZPc
