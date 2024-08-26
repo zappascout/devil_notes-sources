@@ -332,12 +332,12 @@ the domestic industry by the mid 1970s. In contrast to the American
 experience, there are few individual women's names we can point to in
 early British computing, because no one was acknowledging or keeping
 records of what they did. As the author notes:
->Most women in this study did not make major contributions as
+> Most women in this study did not make major contributions as
 individuals, but they were important as a class of workers on whose
 shoulders was laid incredible technological responsibility with little
 corresponding economic or social status.
     Hicks also sounds a warning for the US.
->The experience of Britain in the 20th century has many similarities to
+> The experience of Britain in the 20th century has many similarities to
 the US context in the 21st century . . . The failure of Britain's
 thriving midcentury computer industry serves as an unhappy reminder of
 the ways in which technologies can rarely fix social or economic
