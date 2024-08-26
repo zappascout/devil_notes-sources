@@ -361,12 +361,11 @@ on pseudo-medical claims that it would disrupt menstruation==:
 As detailed in Francesca Wade's much-admired book *Square Haunting*, on
 the lives of five women writers in London's Mecklenburgh Square in
 Bloomsbury between the wars. Not only did male intellectuals fear the
-demise of menstruation and expansion of licentiousness. Spinster
+demise of menstruation and expansion of licentiousness: spinster
 teachers, it seemed, might peddle "oblique and distorted conceptions of
 love," with women's widespread employment further presaging "an
 apocalyptic war between the sexes, culminating in the ultimate
-extinction of the race." Which, on this evidence, no one could have
-complained about.
+extinction of the race." About which it would have been hard to complain, on the evidence.
 
 ==James Damore . . . claiming women have evolved to be inferior
 at tasks like programming==:
@@ -394,7 +393,7 @@ Confidence Gap In Men And Women: Why It Matters And How To Overcome It][gap],"
 [gap]:https://www.forbes.com/sites/jackzenger/2018/04/08/the-confidence-gap-in-men-and-women-why-it-matters-and-how-to-overcome-it/?sh=21153583bfa1
 
 ###151
-==SheAnna Kiefer is now a full-stack programmer==:
+==Anna Kiefer is now a full-stack programmer==:
 Since we met, Anna has worked at a number of Bay Area companies, gained a
 Master's in Computer Science at California Polytechnic State
 University, and at time of going to press is a Senior Software Engineer
