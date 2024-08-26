@@ -323,7 +323,7 @@ establishment of a highly masculine programming subculture."
 
 ==there was a deliberate expulsion of women from programming
 in Britain==:
-according to Hicks, this involved the creation of a new
+According to Hicks, this involved the creation of a new
 work grade for programmers, to which feminized lower grades were
 specifically denied access. She constructs a compelling case that, where
 the UK led the world in computing at the end of World War II, the
@@ -336,14 +336,17 @@ records of what they did. As the author notes:
 individuals, but they were important as a class of workers on whose
 shoulders was laid incredible technological responsibility with little
 corresponding economic or social status.  
-    Hicks also sounds a warning for the US.
+
+    Hicks also sounds a warning for the US.  
+
 >The experience of Britain in the 20th century has many similarities to
 the US context in the 21st century . . . The failure of Britain's
 thriving midcentury computer industry serves as an unhappy reminder of
 the ways in which technologies can rarely fix social or economic
 problems and how they instead often make real the limited and myopic
 goals of small but powerful segments of society.  
-    See Marie Hicks, *Programmed Inequality: How Britain Discarded Women
+
+See Marie Hicks, *Programmed Inequality: How Britain Discarded Women
 Technologists and Lost Its Edge in Computing*. Also *Gender Codes: Why
 Women are Leaving Computing*, ed Thomas J. Misa (p. 16)
 
