@@ -249,30 +249,25 @@ of languages on YouTube, called ["Most Popular Programming Languages 1965
 [rise]:https://www.youtube.com/watch?v=qQXXI5QFUfw
 
 ==Apple Computers' 1984 Superbowl ad for the first Macintosh==:
-See this on YouTube[]:https://www.youtube.com/watch?v=ErwS24cBZPc
+See this on [YouTube][yt].
+[yt]:https://www.youtube.com/watch?v=ErwS24cBZPc
 
 ==managerial elegies to the unmanageability of programmers==:
-for detail see Ensmenger, ibid
+for detail see Ensmenger, ibid.
 
 ==four hundred-plus languages involved in its sprawling array of
 Cold War projects==:
 Wikipedia is good on this.
 
 ###145
-==*The Art of Computer* Programming . . . provided an
-intellectual foundation==:
-Over time I will learn to agree with Knuth
-that writing code "can be an aesthetic experience much like composing
-poetry."
-
 ==The word "algorithm" didn't appear in *Webster's New World
 Dictionary* until 1957==:
 Knuth, *The Art of Computer Programming: vol.1,
-Fundamental Algorithms* p1. The estimable Merriam-Webster cites the
+Fundamental Algorithms*, page 1. The estimable *Merriam-Webster* cites the
 first recorded use of the word as occurring in 1699.
 
 ==Debate about the real-world utility of *Curriculum '68*==:
-From Ensmenger, ibid, p133: "Not everyone agreed with the theoretical turn
+From Ensmenger, ibid, p.133: "Not everyone agreed with the theoretical turn
 that computer science took in the late 1960s. For many occupational
 computer programmers, most of what was happening in theoretical computer
 science seemed irrelevant or even counter-productive, a 'sort of
@@ -340,14 +335,14 @@ records of what they did. As the author notes:
 >Most women in this study did not make major contributions as
 individuals, but they were important as a class of workers on whose
 shoulders was laid incredible technological responsibility with little
-corresponding economic or social status.
+corresponding economic or social status.<
     Hicks also sounds a warning for the US.
 >The experience of Britain in the 20th century has many similarities to
 the US context in the 21st century . . . The failure of Britain's
 thriving midcentury computer industry serves as an unhappy reminder of
 the ways in which technologies can rarely fix social or economic
 problems and how they instead often make real the limited and myopic
-goals of small but powerful segments of society.
+goals of small but powerful segments of society.<
     See Marie Hicks, *Programmed Inequality: How Britain Discarded Women
 Technologists and Lost Its Edge in Computing*. Also *Gender Codes: Why
 Women are Leaving Computing*, ed Thomas J. Misa (p. 16)
