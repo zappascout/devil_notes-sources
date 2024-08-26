@@ -267,7 +267,7 @@ Fundamental Algorithms*, page 1. The estimable *Merriam-Webster* cites the
 first recorded use of the word as occurring in 1699.
 
 ==Debate about the real-world utility of *Curriculum '68*==:
-From Ensmenger, ibid, p.133: "Not everyone agreed with the theoretical turn
+From Ensmenger, ibid (p. 133): "Not everyone agreed with the theoretical turn
 that computer science took in the late 1960s. For many occupational
 computer programmers, most of what was happening in theoretical computer
 science seemed irrelevant or even counter-productive, a 'sort of
@@ -411,14 +411,14 @@ The U.S. Bureau of Labor Statistics [ups these percentages in all cases][stats],
 There is no way to know the precise composition of the coding population, but nearly all coders use
 and are committed to Stack Overflow, so it seems likely to provide as
 accurate a snapshot as we can get. Significantly, the SO survey also
-tallies with subjective experience and impressions.
+tallies with subjective experience and impressions. A little shockingly, the 2023 and 2024 surveys dropped all demographic categories apart from age—anf it's hard not to suspect this is because the fuller demographic picture was embarrassing to the industry. 
 [stats]:https://www.bls.gov/cps/cpsaat11.htm
 
 ==close to a third have been on the job less than two years (etc)==:
 Figures taken from Stack Overflow surveys 2018-21. The most recent
 surveys available as I write here suggest a slow broadening on these
 fronts. The 2023 survey suggests 75% of pro coders to have fewer than 15
-years experience on the job, where 2024 gives the equivalent figure as
+years' experience on the job, where 2024 gives the equivalent figure as
 71%. In 2024, 60% of professional respondents were under 35 years old.
 It looks like people are sticking with the profession and growing into
 it more than they did. These more recent surveys dropped most of the
@@ -435,7 +435,7 @@ McIlwain's *Black Software: The Internet and Racial Justice, from the
 AfroNet to Black Lives Matter* and Ruha Benjamin's *Race After
 Technology* have begun to excavate the limited but significant role
 Black people were able to claim for themselves in the annals of
-computing, while anatomizing the ways people of color were are
+computing, while anatomizing the ways people of color were/are
 consciously or unconsciously disadvantaged by not having a proportionate
 seat at the software table in the U.S. It remains the case that the
 ratio of Black and Hispanic coders to their proportion of the population
@@ -467,11 +467,11 @@ According to Stack overflow surveys from 2018 to 2022.
 
 ==Stewart Butterfield...was originally named Dharma==:
 *Inc* magazine, "[Slack Is Our Company of the Year. Here's Why Everybody's
-Talking About It][slack]"
+Talking About It][slack]."
 [slack]:https://www.inc.com/magazine/201512/jeff-bercovici/slack-company-of-the-year-2015.html
 
 ==In January 2021, the firm was sold==:
-[*MarketWatch*, December 1, 2020][watch]
+[*MarketWatch*, December 1, 2020][watch].
 [watch]:https://www.marketwatch.com/story/salesforces-deal-for-slack-creates-a-bigger-threat-to-microsoft-11606869032
 
 ==75 percent of programmers have at least one parent who went to
@@ -496,7 +496,7 @@ in the top 1 percent==:
 researchers—with no apparent irony—dub the "bottom 60 percent"==:
 Neither are the figures quoted unique to America—or code. A few years
 ago, there was an outcry in the UK press over figures showing that top
-earners at the BBC in a broad range categories included very few were
+earners at the BBC in a broad range of categories included very few were
 women and almost no people of color. A reckoning ensued, which most
 reasonable people welcomed. Using [available information from public
 records][info], however, I found something hidden in the figures that went all
@@ -520,7 +520,7 @@ a year earlier.
 
 ==one-third of US adults have under-graduate degrees==:
 United States [Census figures for 2018][census]. These numbers appear to be fairly
-constant
+constant.
 [census]:https://www.census.gov/library/stories/2019/02/number-of-people-with-masters-and-phd-degrees-double-since-2000.html
 
 ###155
@@ -531,25 +531,19 @@ constant
 
 ==William Shockley . . . a virulently racist and paranoid man==:
 See *Stanford Daily News*, the "[Eugenics on the Farm][eugenics]" series of articles
-by Ben Maldonado
+by Ben Maldonado. In logic there is a category of argument called a *reductio ad
+absurdum*, which refers to a proposition that, in being stated, proves
+itself false (the classic being "I do not exist.") Shockley may have
+had a feel for materials, but like a lot of technologists he clearly
+struggled to weigh nondeterministic evidence with any degree of sophistication. His claim of superior intelligence on grounds of race is a clear case of *reductio ad absurdum*, given the preponderance of evidence to the
+contrary.
 [eugenics]:https://stanforddaily.com/author/benjamin-maldonado/
 
 ==Nazis...citing California statues in their defense at
 Nuremberg==:
 See "[Eugenics and the Nazis—the California Connection][nazi]" by
-Edwin Black, *San Francisco Chronicle*, November 9, 2003
+Edwin Black, *San Francisco Chronicle*, November 9, 2003.
 [nazi]:https://www.sfgate.com/opinion/article/Eugenics-and-the-Nazis-the-California-2549771.php
-
-==William Shockley . . . was a virulently racist and paranoid
-man==:
-In logic there is a category of argument called a *reductio ad
-absurdum*, which refers to a proposition that, in being stated, proves
-itself false (the classic being "I do not exist.") Shockley may have
-had a feel for materials, but like a lot of technologists he clearly
-struggled to weigh evidence with any degree of any complexity or nuance.
-His claim of superior intelligence on grounds of race is a clear case of
-*reductio ad absurdum*, given the preponderance of evidence to the
-contrary.
 
 ###156
 ==The point I want to make is not about fairness==:
@@ -587,7 +581,7 @@ Worldwide][uber]"
 [uber]:https://www.nytimes.com/2017/03/03/technology/uber-greyball-program-evade-authorities.html
 
 ###158
-==a tool to help sales agents fraudulently obtain the licenses==:
+==a tool to help sales agents fraudulently obtain [their] licenses==:
 *Vanity Fair*, Feb 9, 2017, "[Zenefits, of Sex-in-Stairwells Fame, Fires
 Nearly Half Its Staff][staff]"
 [staff]:https://www.vanityfair.com/news/2017/02/zenefits-fires-nearly-half-its-staff
