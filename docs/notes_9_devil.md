@@ -344,17 +344,17 @@ After almost seven years at Stack Overflow, Hanlon moved
 to a company called Process Street.
 
 ==the New York office of Jay Hanlon==:
-Like so much else in the city, Gotham tech has been drifting over the East River into Brooklyn,
-but I find Stack Overflow hanging on in Manhattan, working hard to bring
+Like so much else in the city, Gotham tech has been drifting over the East River into Brooklyn
+but I found Stack Overflow hanging on in Manhattan, working hard to bring
 techie quirk to one of the world's least quirky generic
-environments—the 28^th^ floor of a midtown office block. "It gets a
+environments—the 28th floor of a midtown office block. "It gets a
 little toasty in here," Hanlon grinned as he adjusted a fan by his
 desk, noting that when the office fittings rulebook was being dispatched
-in a fit of disruption upon the company's arrival, someone wondered why
-those square-assed analog jockeys of the past had never noticed you
+in a fit of "disruption" upon the company's arrival, someone wondered why
+those square-assed analog monkeys of the past had never noticed you
 could fit more rooms into a space if you made them hexagonal, only to
-learn the poor dead saps probably had but didn't do it because it turns
-out to be a terrible, terrible idea. Now we know.
+learn that the poor dead saps probably had known, but didn't do it because it turns
+out to be a terrible, terrible idea. Now we know, too.
 
 ###181
 ==The Yahoo Answers problem==:
