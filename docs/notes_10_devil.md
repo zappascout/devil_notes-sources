@@ -90,7 +90,7 @@ from the Star Trek universe."
 
 ###193
 ==Mark "they trust me, dumb fucks" Zuckerberg==:
-For an inventory of this and other windows onto the Zuckerberg "soul" see "['Embarrassing And Damaging' Zuckerberg IMs Confirmed By Zuckerberg, The New Yorker][soul]," *Business Insider*, September 13, 2010.
+For an inventory of this and other windows onto Zuckerberg's reptilian soul see "['Embarrassing And Damaging' Zuckerberg IMs Confirmed By Zuckerberg, The New Yorker][soul]," *Business Insider*, September 13, 2010.
 [soul]:https://www.businessinsider.com/embarrassing-and-damaging-zuckerberg-ims-confirmed-by-zuckerberg-the-new-yorker-2010-9?op=1
 
 ###194
@@ -114,7 +114,7 @@ One of Trubshaw's favorites among the single-user games was called
 *Zork*, often referred to as "Dungeon"—hence the whimsical-seeming
 continued designation of this platform as "Multi-User Dungeon" (MUD),
 even though many MUDs have had nothing to do with wizards or sorcery
-(and have sometimes been geared to worthy real-world purposes). Meeting
+(and have sometimes been geared to worthy real-world purposes.) Meeting
 a need, MUD1, as it became known, caught on fast and soon spawned other
 MUDs built on the same language and logic, which Nicholas and I would
 follow.
@@ -125,7 +125,7 @@ when serious computing had stopped) prior to becoming the world's first
 multi-user computer fantasy game in 1980 when Essex connected to the
 ARPANET. Trubshaw and the fellow students who pitched into his effort
 wrote in assembly language, before converting to BCPL, a precursor to C.
-We, *naturellement*, used Python.
+Naturally, we used Python.
 
 ###195
 ==LambdaMOO is still going==:
@@ -145,8 +145,8 @@ for the arrival of Facebook was hiding in plain view.
 ###196
 ==obscure late sixties to early seventies English musical
 outgrowth called the Canterbury Scene==:
-for anyone interested, Canterbury is a sleepy town on the southeast coast of England, close the
-nearest point to France, and beginning in the late sixties somehow
+For anyone interested, Canterbury is a sleepy town on the southeast coast of England, close to the
+nearest point to France, famous for the magnificent Canterbury Cathedral, HQ of the Anglican Church. Beginning in the late sixties it somehow
 produced a stream of extraordinary bands, among them Soft Machine,
 Caravan, Gong and Camel—essentially inventing Prog Rock. Good places
 to start are with Caravan's timeless *The Land of Grey and Pink*, or in
