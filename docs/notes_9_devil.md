@@ -3,7 +3,7 @@
 ###p. 159
 ==a friend of a friend who is in his early 20s . . . does an
 inspired job==:
-And his name was Jack Greenberg
+And his name was Jack Greenberg.
 
 ###162  
 ==That animate_zombies function== as it would appear in a code editor like Mu or VS Code:  
@@ -22,7 +22,7 @@ For lovers of the long grass, there's a [delightful etymological discussion][sta
 
 ###165
 ==In British English, where "git" is synonymous with "asshole"==:
-Torvalds was perfectly well aware of this useage. In the FAQ section of
+Torvalds was well aware of this useage. In the FAQ section of
 the Linux kernel site, he is quoted as having said "[I'm an egotistical
 bastard][torv1], and I name all my projects after myself. First 'Linux', [now
 'Git][torv2].'"
@@ -34,7 +34,7 @@ Code of *Conflict*==:
 For a decent account of Torvald's (perhaps former?) attitude to his work, reputation and community, see "[Linus
 Torvalds Defends His Right to Shame Linux Kernel Developers][shame]," from
 *ArsTechnnica* in 2013. The piece is subheaded "'My culture is
-cursing: Linux kernel world is a hostile place—by design"
+cursing: Linux kernel world is a hostile place—by design."
 [shame]:https://arstechnica.com/information-technology/2013/07/linus-torvalds-defends-his-right-to-shame-linux-kernel-developers/
 
 ==the day was saved by a women's tutorial site called Women
@@ -47,7 +47,7 @@ software engineer at HubSpot.
 ###166
 ==At the end of 2022, site administrators claimed more than
 eighty million users==:
-This from a February 2020 [company blog][blog]. Not only is this a big number, it is almost double the corresponding
+This from a February 2020 [company blog][blog]. Not only is 80m a big number, it is almost double the corresponding
 figure from just 15 months earlier. The 100m repo milestone was reached
 in November 2018 according to another official [GitHub blog][gitblog]. At that point new repos
 were being created every 1.6 seconds, three-fifths of them outside the
@@ -57,27 +57,25 @@ US.
 
 ==John Conway's thrilling evolution simulator, *Game of Life*==:
 *Wikipedia*'s "Conway's Game of Life" page is decent on this, but the
- site is immense fun, inviting you to [make your own cellular automata][cell]. This is what the web was made for.
+ site itself is immense fun, inviting you to [make your own cellular automata][cell]. This is what the web was made for.
 [cell]:https://playgameoflife.com
-
-==ending—deliriously—with the assembly language source code
-for the Apollo 11 lunar module==:
-This was posted to GitHub as recently as 2016. Apollo fans
-may further enjoy the ABC New piece, "[Apollo 11's Source Code Has Tons
-of Easter Eggs, Including an Ignition File Titled 'Burn Baby Burn:
-There are jokes, Shakespeare quotes and a reference to the Black Power
-movement][burn]."
-[burn]:https://abcnews.go.com/Technology/apollo-11s-source-code-tons-easter-eggs-including/story?id=4051522
 
 ==GitHub remained the rare example of a high-profile American
 website that almost never got hacked==:
 Which said, on occasion hackers have targeted GitHub pages inconvenient to the Chinese government with
 denial-of-service attacks. "[How Will Microsoft Handle GitHub's
-Controversial Code?][ms]," *Wired*, 2 June, 2018
+Controversial Code?][ms]," *Wired*, 2 June, 2018.
 [ms]:https://www.wired.com/story/microsoft-github-code-moderation
 
-==the assembly language source code for the Apollo 11 lunar
-module==:
+==ending—deliriously—with the assembly language source code
+for the Apollo 11 lunar module==:
+This was posted to GitHub as recently as 2016. Apollo fans
+may further enjoy the ABC News piece, "[Apollo 11's Source Code Has Tons
+of Easter Eggs, Including an Ignition File Titled 'Burn Baby Burn:
+There are jokes, Shakespeare quotes and a reference to the Black Power
+movement][burn]."
+[burn]:https://abcnews.go.com/Technology/apollo-11s-source-code-tons-easter-eggs-including/story?id=4051522  
+
 Even an untrained eye can recognize the caution baked into
 *Burn Baby Burn*, the program designed to ignite the lunar lander rocket
 and shoot Armstrong and Aldrin back into space from the surface of the
