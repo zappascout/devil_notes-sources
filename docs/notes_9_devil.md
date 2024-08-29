@@ -306,11 +306,11 @@ in his orbit took on a given issue, he always managed to find one to the
 left of it, until, like a schooner sailing off the western edge of a
 map, it would end up in the East and seem weirdly conservative. I still
 remember the day he came in raving about this new thing called Linux,
-which would undermine the corporate overlords at Microsoft and Apple and
+which would undermine the corporate overlords at Microsoft and
 return computing to the masses . . .
-    And of course I had no idea what he was talking about. The most
+    And of course I didn't quite undestand his excitement at the time. The most
 enthusiastic early inhabitants of cyberspace and the PC revolution in
-the UK were the self-styled "Zippies," or "hippies with computers," of
+the UK were the self-styled "Zippies" (meaning "hippies with computers") of
 the club scene: one of the earliest pieces of writing I did for a
 national newspaper was about the first public demonstration of the
 internet at Megatripolis, the weekly trance-techno night at the Heaven
