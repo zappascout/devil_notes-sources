@@ -188,7 +188,7 @@ a Silicon Valley leader][trump]," *Vox*, February 12, 2020.
 ==Steve Ballmer branded Linus Torvalds's talismanic open-source
 operating system Linux communist==:
 Fifteen years later, in 2016, [Reuters reported him as having softened his position][reuters]. According to a [GitHub blog][gith] at the end of 2018, the company's open source VS Code editor by then
-had taken contributions from more developers than any other project,
+had taken open source contributions from more developers than any other project,
 with a whopping 19,000. And it is a terrific editor.
 [reuters]:https://www.reuters.com/article/us-microsoft-ballmer-linux-idUSKCN0WC2RA
 [gith]:https://github.blog/2018-11-08-100M-repos
@@ -266,7 +266,7 @@ The neutral terms "FOSS" and "FLOSS" are sometimes used to cover free
 *and* open source software.
 
 ==Stallman took the "hacker ethic" to heart==:
-For more detail, see Levy, *Hackers* (p. 437-9)
+For more detail, see Levy, *Hackers* (p. 437-9).
 
 ###176
 =="in some ways I feel I ought to be dead"==:
@@ -280,25 +280,21 @@ and prevent my birth, I wouldn't do it. But I sure wish I hadn't had
 so much pain."
 
 ==By his own account, RMS has spent most of his life in pain==:
-Nicholas likens Richard Stallman to Beethoven, a generous analogy that I
+Nicholas (as a classically trained musician) likens Richard Stallman to Beethoven, a generous analogy that I
 like.
 
 ###178
 ==less fanfare than the contemporaneous introduction of small
 plastic balls into cans of "draught" Guinness==:
-Which won the Queen's Award for Technological Achievement that same year. Internet
-schminternet.
+Which, and this is true, won the Queen's Award for Technological Achievement that year (1991.) Internet
+schminternet. [*The History of Guinness: Our Story*][balls]
+[balls]:https://www.guinness.com/en-my/our-story
+
 
 ==The Linux community seemed to resemble a great babbling
 bazaar==:
 Eric S. Raymond, *The Cathedral and the Bazaar: Musings on
-Linux and Open Source by an Accidental Revolutionary* (p. p21)
-
-==the contemporaneous introduction of small plastic balls into
-cans of "draught" Guinness==:
-Which, and this is true, won the Queen's Award for Technological Achievement that year (1991.) Internet
-schminternet. [*The History of Guinness: Our Story*][balls]
-[balls]:https://www.guinness.com/en-my/our-story
+Linux and Open Source by an Accidental Revolutionary* (p. p21).
 
 ###179
 ==Linux, like the web itself, looked like a utopian revelation==:
