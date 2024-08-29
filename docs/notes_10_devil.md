@@ -161,8 +161,8 @@ More detail on his thinking [here][brown].
 problem==:
 This is of course Mark Benioff. See *The Guardian*,
 "[Salesforce CEO: tech billionaires 'hoard their money' and won't help
-homeless][beni]." Or for a slightly more jaundiced view of the CEO (or mor nuanced,
-depending on how you see these things,) *Wired*, "[The Gospel of Wealth
+homeless][beni]." Or for a slightly more jaundiced view of the CEO (or more nuanced,
+depending how you see these things,) *Wired*, "[The Gospel of Wealth
 According to Mark Benioff][beni2]."
 [beni]:https://www.theguardian.com/technology/2018/oct/17/salesforce-ceo-marc-benioff-san-francisco-homeless-interview>
 [beni2]:https://www.wired.com/story/gospel-of-wealth-according-to-marc-benioff/>\]
@@ -172,8 +172,7 @@ he did it in a week==:
 Seeing this, Nicholas notes, "To be fair, that's like asking a cellist to learn to play fretless bass. They're
 VERY similar instruments and the cellist already has a bunch of
 important musical context and physical skill they can easily transfer to
-the bass." I later find this to be true for myself as well (though at a
-more modest level, obviously.)
+the bass."
 
 ###204
 ==Say player KingGeorgeV has just entered our Limerick Lounge==:
@@ -192,8 +191,8 @@ years.
 ==I look up some of Beck's talks and find a charismatic
 speaker==:
 I especially enjoyed this talk from 2020 on "[Continued Learning: The
-Beauty of Maintenance][beauty]". Incidentally, I reached
-out to Kent Beck but got no response (which is fine.)
+Beauty of Maintenance][beauty]". Incidentally, I did reach
+out to Kent Beck.
 [beauty]:https://www.youtube.com/watch?v=3gib0hKYjB0
 
 ###212
