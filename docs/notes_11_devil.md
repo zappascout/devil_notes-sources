@@ -207,6 +207,6 @@ is brain activity and this means the self, which comes from the mind, is
 separate and we don't really belong. But we're all part of each others'
 lives. The mind is not just brain activity. When we realize it's this
 relational process, there's this huge shift in this sense of
-belonging."
+belonging."  
     I'm starting to realize there's a word that fits this sense of *unbelonging*, this denial of our relational essence, well: abstraction.
 [mind]:https://qz.com/866352/scientists-say-your-mind-isnt-confined-to-your-brain-or-even-your-body
