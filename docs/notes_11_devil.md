@@ -165,17 +165,14 @@ symbol is known as the "assignment operator" because we use it to
 oysters, but from its appearance (:=). Technically known as the
 "assignment expression," its function is a little obscure and I'm not
 sure I would have voted for its adoption. I do trust that Guido knows
-better than me, though—and that this is not a matter of life and death—unlike a vociferous minority of Pythonistas. More on the Walrus Operator controversy [here][wal]
+better than me, though—and that this is not a matter of life and death—unlike a vociferous minority of Pythonistas. More on the Walrus Operator controversy [here][wal].
 [wal]:https://www.youtube.com/watch?v=KN2TTiGpDvM&t=13s
 
 ###232
 ==anything new will change your brain==:
 "[The Knowledge][know]" is a 150-year-old process by which would-be London cabbies memorizes the name and
 location of every street within a six-mile radius of Charing Cross in
-the center of London—sadly now a little compromised by satnav. More recently researchers
-writing in the journal *Nature Human Behaviour* claim to have found a
-"Pokemon region" of the brain in adults who played with Pokemon cards
-as children ("[A Pokémon-sized window into the human brain][poke]," 6 May, 2019.)
+the center of the city—sadly now a little compromised by satnav. More recently researchers writing in the journal *Nature Human Behaviour* claim to have found a "Pokemon region" of the brain in adults who played with Pokemon cards as children ("[A Pokémon-sized window into the human brain][poke]," 6 May, 2019.) Something lovely about this.
 [know]:https://tfl.gov.uk/info-for/taxis-and-private-hire/licensing/learn-the-knowledge-of-london
 [poke]:https://www.nature.com/articles/s41562-019-0594-6
 
@@ -211,4 +208,5 @@ separate and we don't really belong. But we're all part of each others'
 lives. The mind is not just brain activity. When we realize it's this
 relational process, there's this huge shift in this sense of
 belonging."
+    I'm starting to realize there's a word that fits this sense of *unbelonging*, this denial of our relational essence, well: abstraction.
 [mind]:https://qz.com/866352/scientists-say-your-mind-isnt-confined-to-your-brain-or-even-your-body
