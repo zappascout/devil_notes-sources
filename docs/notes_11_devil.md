@@ -1,7 +1,7 @@
 #**CHAPTER 11**
-##**"THE GUN ON THE MANTELPIECE"**
+##**"The Gun on the Mantelpiece"**
 ###p. 215
-Code looks so much better in its natural habitat, color-coded and onscreen. Here are the three versions of the Shakespearian Insult Engine in this much happier environment, from least to most sophisticated. I hope soon to have them runnable using a new offshoot of Python called "PyScript", which (like JavaScript) can run in a web browser—a big deal in the coding world. PyScript, incidentally, is the project Nicholas Tollervey works on at Anaconda. A pleasing symmetry.
+Code looks so much better in its natural habitat, color-coded and onscreen. Here are the three versions of the Shakespearian Insult Engine in this much happier environment, from least to most sophisticated. I hope soon to have them runnable using a new offshoot of Python called "PyScript", which (like JavaScript) can run in a web browser—a big deal in the coding world. PyScript, incidentally, is the project Nicholas Tollervey now works on at Anaconda. A pleasing symmetry.
 ```Python
 from random import choice
 
@@ -112,11 +112,13 @@ insult_engine()
 
 ###223
 ==Finally, in line 38 we *call* the function, causing it to run==
-The insult_engine code is accessible, properly formatted in color, in the "Code" page of these Notes & Sources. Download the Mu editor (my suggestion because it's so
-immediate and easy to use, but there are plenty of others available free to use) and run the
-program at your leisure. This code will include the full 40-item insult
-lists—many thanks to the British Library (one of my favorite places in
-the entire world) for these.
+Download the Mu editor (my suggestion because it's free and so
+immediate and easy to use, but there are plenty of others available free to use) and run the Insult Engine at your leisure. If you're feeling adventurous, substitute the six-word lists lists of adjectives and nouns with the full 40-word lists given below. Props to the British Library for maintaining these.
+```Python
+adjA = ['mammering', 'saucy', 'beslubbering', 'spleeny', 'yeasty', 'artless', 'bawdy', 'bootless', 'churlish', 'cockered', 'clouted', 'craven', 'currish', 'dankish', 'dissembling', 'droning', 'errant', 'fawning', 'fobbing', 'froward', 'frothy', 'gleeking', 'goatish', 'gorbellied', 'impertinent', 'infectious', 'jarring', 'loggerheaded', 'lumpish', 'mangled', 'mewling', 'paunchy', 'pribbling', 'puking', 'puny', 'qualling', 'rank', 'reeky', 'roguish', 'ruttish', 'spleeny', 'spongy', 'surly', 'tottering', 'unmuzzled', 'vain', 'venomed', 'villainous', 'warped', 'wayward', 'weedy']
+adjB = ['rump-fed', 'plume-plucked', 'base-court', 'bat-fouling', 'beef-witted','onion-eyed', 'flap-mouthed', 'beetle-headed', 'boil-brained', 'clapper-clawed', 'clay-brained', 'common-kissing', 'crook-pated', 'dismal-dreaming', 'dizzy-eyed', 'doghearted', 'dread-bolted', 'earth-vexing', 'elf-skinned', 'fat-kidneyed', 'fen-sucked', 'fly-bitten', 'folly-fallen', 'fool-born', 'full-gorged', 'guts-griping', 'half-faced', 'hasty-witted', 'hedge-born', 'hell-hated', 'idle-headed', 'ill-breeding', 'ill-nurtured', 'knotty-pated', 'milk-livered', 'motley-minded', 'pottle-deep', 'pox-marked', 'reeling-ripe', 'rough-hewn', 'rude-growing', 'shard-born', 'sheep-biting', 'spur-galled', 'swag-bellied', 'tardy-gated', 'tickle-brained', 'toad-spotted', 'unchin-snouted', 'weather-bitten']
+noun = ['clotpole', 'flap-dragon', 'gudgeon', 'hedge-pig', 'malt-worm', 'apple-john', 'baggage', 'barnacle', 'bladder', 'boar-pig', 'bugbear', 'bum-bailey', 'canker-blossom', 'clack-dish', 'coxcomb', 'codpiece', 'death-token', 'dewberry', 'flaxwench', 'flirt-gill', 'foot-licker', 'fustilarian', 'giglet', 'haggard', 'harpy', 'horn-beast', 'hugger-mugger', 'joithead', 'lewdster', 'lout', 'maggot-pie', 'mammet', 'measle', 'minnow', 'miscreant', 'moldwarp', 'mumble-news', 'nut-hook', 'pigeon-egg', 'pignut', 'puttock', 'pumpion', 'ratsbane', 'scut', 'skainsmate', 'strumpet', 'varlot', 'vassal', 'whey-face', 'wagtail']
+```
 
 ###227
 ==no language is an island and there are things to worry about
