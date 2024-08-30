@@ -126,10 +126,10 @@ here, too==:
 Not that the outside world is giving us a free pass.
 Shortly before conference, there was a media story about an abrupt leap
 in demand for university computer science (CS) courses, at the same time
-the industry is thought to be sucking up actual and would-be teachers.
-In reaction to the increased demand, colleges start offering CS places
-only to those accepted in advance of arrival, a move some academics
-consider likely to disadvantage already underrepresented groups, who are
+the industry was sucking up actual and would-be teachers.
+In reaction to the increased demand, colleges would start offering CS places
+only to those accepted them in advance of arrival, a move some academics
+considered likely to disadvantage already underrepresented groups—who are
 less likely to have taken CS in high school. See *The New York Times*,
 "[The Hard Part of Computer Science? Getting Into Class][compsci]."
 [compsci]:https://www.nytimes.com/2019/01/24/technology/computer-science-courses-college.html
@@ -149,28 +149,24 @@ misinformation, refine facial recognition technology for use by
 totalitarians, write bias-reinforcing software that lends special
 interests a cloak of bogus objectivity—to the point where software is
 both miraculous enabler and existential threat. But there is no mention
-of any threat in what amounts to a giant collective self-delusion. I
+of any threat here, in what amounts to a giant collective self-delusion. I
 re-enter the conference hall feeling bereft, leaf through the
 recruitment leaflets in my swag bag and find the parade of boasts about
 "Making the world a better place," most of them specious at best. Even
-at the most trivial level II find myself wondering, "Have none of these
+at the most trivial level I find myself wondering, "Have none of these
 people seen *Silicon Valley*?"
 
 ###229
 ==the controversial Python Enhancement Proposal (or PEP)
 admitting the Walrus Operator into the language==:
 It may be hard for non-programmers to understand how something so small could cause so much
-trouble. "Operator" is the term for a symbol that performs an
-operation: the plus sign (+) and minus sign (-) are operators, as is the
-asterisk used to denote multiplication. In computing the "equals"
+trouble. As explained earlier, "operator" is the term for a symbol that performs an operation: the plus sign (+) and minus sign (-) are operators, as is the asterisk used to denote multiplication. In computing the "equals"
 symbol is known as the "assignment operator" because we use it to
-*assign* values to variables, as in x = 7, while "is equal to" is denoted
-by two standard equals signs together (==). The "Walrus Operator" gets
-its colloquial moniker not, per Lewis Carroll, from a penchant for
+*assign* values to variables, as in x = 7, while "is equal to/the same as" is denoted by two standard equals signs together (==). The "Walrus Operator" gets its colloquial moniker not, per Lewis Carroll, from a penchant for
 oysters, but from its appearance (:=). Technically known as the
 "assignment expression," its function is a little obscure and I'm not
 sure I would have voted for its adoption. I do trust that Guido knows
-better than me, though. More on the Walrus Operator controversy [here][wal]
+better than me, though, and that this is not a matter of life and death, unlike a vociferous minority of Pythonistas. More on the Walrus Operator controversy [here][wal]
 [wal]:https://www.youtube.com/watch?v=KN2TTiGpDvM&t=13s
 
 ###232
