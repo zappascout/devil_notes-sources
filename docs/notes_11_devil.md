@@ -165,7 +165,7 @@ symbol is known as the "assignment operator" because we use it to
 oysters, but from its appearance (:=). Technically known as the
 "assignment expression," its function is a little obscure and I'm not
 sure I would have voted for its adoption. I do trust that Guido knows
-better than me, though, and that this is not a matter of life and death, unlike a vociferous minority of Pythonistas. More on the Walrus Operator controversy [here][wal]
+better than me, though—and that this is not a matter of life and death—unlike a vociferous minority of Pythonistas. More on the Walrus Operator controversy [here][wal]
 [wal]:https://www.youtube.com/watch?v=KN2TTiGpDvM&t=13s
 
 ###232
