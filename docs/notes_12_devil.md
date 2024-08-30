@@ -14,37 +14,30 @@ knows better.
 
 ==the UK Government Digital Service, recognized as the best in
 the world at public software==:
-True. Jennifer Pahlka, who founded the USGDS, spent much time in London with "GDS", as it is known within UK
+On which they have effectively [written the Agile manual][agile]. True. Jennifer Pahlka, who founded the USGDS, spent much time in London with "GDS", as it is known within UK
 government, and still regards it as the gold standard for developers of
-inclusive public software—despite few Brits knowing it exists. In
+inclusive public software, even tears up a little as she talks about her time there—despite few Brits knowing it exists. In
 fact, the reality is worse, because most Brits know only of giant public
 sector software debacles like the failed overhaul of NHS software, which
 had to be abandoned in 2008 at a reported cost of £700m to taxpayers
 (see "[Government loses £700m NHS IT legal battle with Fujitsu][fuji].") What they—and
 "they" included *me* until very recently—won't have known is that,
 not uncommonly, the NHS job had been handed to the private sector for
-doctrinaire reasons. And the private sector fucked up (as it does no
-more nor less often than government, it seems to me). In an interview on
+doctrinaire reasons. And the private sector bollixed up (as it does no
+less often than government, it seems to me). In an interview on
 BBC Radio 4, Mike Bracken, founder of UK GDS, ridiculed government
 ministers' touting of "blockchain" as a solution to the Northern
 Ireland border problem after Brexit, noting that ministers often tout
 big tech solutions they don't understand, sold to them by interested
 private parties as solutions to social and political problems that
-require social and political action.
+require messy social and political action.
 >Like many governments in the world, in the UK we are really good at civic technology, we're good at
 developing social technologies. Like many governments, we're also
 still trapped in a decades-long era of 'big IT' where we think a big
 solution that takes many years to develop will be a panacea for problems
 that we have in society.
-He pointed out that wildly successful technologies like the NHS *Couch to 5k* app, which has helped millions
-of people to take up jogging and improve their health without recourse
-to medicine, were produced by small teams at relatively little expense.
+He pointed out that wildly successful technologies like the NHS *Couch to 5k* app, which has helped millions of people to take up jogging and improve their health without recourse to medicine, were produced by small teams at relatively little expense.
 [fuji]:https://www.bbc.com/news/uk-politics-28464002
-
-==UK Government Digital Service, recognized as the best in the
-world at public software==:
-On which they have effectively [written the
-Agile manual][agile].
 [agile]:https://www.gov.uk/service-manual/agile-delivery>
 
 ###239
