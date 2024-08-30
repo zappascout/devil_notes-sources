@@ -159,8 +159,7 @@ people seen *Silicon Valley*?"
 ###229
 ==the controversial Python Enhancement Proposal (or PEP)
 admitting the Walrus Operator into the language==:
-It may be hard for non-programmers to understand how something so small could cause so much
-trouble. As explained earlier, "operator" is the term for a symbol that performs an operation: the plus sign (+) and minus sign (-) are operators, as is the asterisk used to denote multiplication. In computing the "equals"
+It may be hard for non-programmers to understand how something so small could cause so much trouble. It is for me, too. As explained earlier, "operator" is the term for a symbol that performs an operation: the plus sign (+) and minus sign (-) are operators, as is the asterisk used to denote multiplication. In computing the "equals"
 symbol is known as the "assignment operator" because we use it to
 *assign* values to variables, as in x = 7, while "is equal to/the same as" is denoted by two standard equals signs together (==). The "Walrus Operator" gets its colloquial moniker not, per Lewis Carroll, from a penchant for
 oysters, but from its appearance (:=). Technically known as the
