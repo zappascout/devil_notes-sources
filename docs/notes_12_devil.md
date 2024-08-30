@@ -43,7 +43,7 @@ He pointed out that wildly successful technologies like the NHS *Couch to 5k* ap
 ###239
 ==almost nothing of Web 1.0 was spared when the crash came==:
 See my book *Totally Wired: The Rise and Fall of Josh Harris and the
-Great Dotcom Swindle* for a full telling of this story.
+Great Dotcom Swindle* for a full telling of this barely believable story.
 
 ###241
 ==permission from Apple arrives shortly thereafter==:
@@ -69,7 +69,7 @@ Card I've Ever Seen][giz]."
 ###251
 ==he professes to find meaning in it only as part of a
 community==:
-From the King's Day speech, "I am happiest when I am part
+From van Rossum's King's Day speech, "I am happiest when I am part
 of a community."
 
 ###253
@@ -172,7 +172,7 @@ From 2021, the Stack Overflow Survey has the web-based
 languages JavaScript and HTML/CSS, plus the database language SQL above
 Python, but none of these can be used to defend a birdfeeder from
 squirrels or make a Shakespearean insult generator. Among
-general-purpose languages only Java even comes close to Python.
+general-purpose languages only Java comes close to Python.
 
 ###261
 =="*Is it possible to smear paint on the wall without creating
@@ -183,8 +183,7 @@ way too late at night," to be answered rather brilliantly by a
 programmer asking "But is it possible to smear paint on the wall
 without creating valid Perl?" I came across this when researching
 engineers who left Google over a series of scandals including the firing
-of an important AI researcher from the company—to be examined in the
-next chapter.
+of an important AI researcher from the company—to be examined in due course.
 [mac]:https://www.mcmillen.dev/sigbovik/
 
 ==And Rabble's pitch almost works==:
