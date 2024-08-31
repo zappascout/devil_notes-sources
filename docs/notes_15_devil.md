@@ -17,7 +17,7 @@ end
 
 end
 ```
-In the first line we define the function "playseq" and initialize it
+In the first line we define the function "playseq" and initialize it (i.e. *activate it*)
 with a "do" call. The words "notes" and "durations" appear between
 goalposts at the end of this line to tell the Ruby interpreter (and us)
 to expect values for these two parameters whenever the function is
@@ -38,14 +38,14 @@ For the record, something similar in Python would look like the below,
 substituting a print function for play and sleep commands, which
 obviously have no use in a non-musical language. This function will zip
 notes to intended durations then print each pair in sequence.
-```ruby
+```python
 def playseq(notes, durations):
 
 lead_bass = zip(notes, durations)
 
 for full_note in lead_bass:
-
-print(full_note\[0\], full_note\[1\])
+    
+    print(full_note)
 ```
 ###303
 ==Ruby code is handsome, I think==:
