@@ -37,14 +37,14 @@ referred to as "subroutines" or "procedures"—and you can see why.
 For the record, something similar in Python would look like the below,
 substituting a print function for play and sleep commands, which
 obviously have no use in a non-musical language. This function will zip
-notes to intended durations then print each pair in sequence.
+notes to intended durations then print each pair in sequence, within the *for* loop.
 ```python
 def playseq(notes, durations):
 
 lead_bass = zip(notes, durations)
 
 for full_note in lead_bass:
-    
+
     print(full_note)
 ```
 ###303
@@ -55,7 +55,7 @@ which he considered an object-oriented paradigm imposter. see The Ruby
 Language FAQ, [*What is the History of Ruby?*][toy] Intriguingly, in an [ACM
 Turing Award lecture from 2003][kay], Alan Kay, generally regarded as the
 creator of Object Oriented Programming, appears to feel that his idea
-has never been fully realized, presumably even by Ruby.
+has never been completely realized, presumably even by Ruby.
 [toy]:https://www.ruby-lang.org/en/documentation/faq/1/
 [kay]:https://www.youtube.com/watch?v=ymF94cFfzUQ&list=PLn0nrSd4xjjYCkOxtYqozyDuwt-4sC2L6&index=16
 
@@ -85,7 +85,7 @@ with bells on, that can only be used with its own domain specific language (DSL.
 
 ###312
 ==what I like about Atom==:
-Alas, Atom is also doomed. In 2022 GitHub announced that it would no longer develop or support it—one
+Alas, Atom is also doomed. In 2022 GitHub announced it would no longer develop or support it—one
 thing new coders have to get used to is their favorite tools being
 deemed obsolete by the people who made them. Atom's fate was probably
 sealed by the wild success of the brilliant VS Code editor, which is
