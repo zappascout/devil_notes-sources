@@ -95,11 +95,11 @@ containing coffee, chocolate, pens, pencils and a notebook—an
 Kickbox's purpose is to stop coders being distracted by the peculiar
 demands of the machine during the gestation of an idea; to delay their
 urge to jump into code and start building, at which point an idea
-becomes fixed and they become attached to it, narrowing their purview.
+becomes fixed and they become attached to it, narrowing their view.
 
 ==the limitations and circumscriptions we need to be alert to yet
 seldom are==:
-In her digitally-themed show at the Guggenheim in the fall
+In her digitally-themed show at the Guggenheim in New York, in the fall
 of 2022, the artist Sarah Sze had a river of images flowing up the
 spiraling inner walkway toward the top of the building. In the notes she
 wrote that after reaching the top, "All of the images in the river crash
@@ -118,9 +118,5 @@ only live coder to leave the code screen blank that night.
 ==his interest arose from exposure to the German *kosmische
 musik* fountainheads Tangerine Dream==:
 For anyone interested, a good place to start with Tangerine Dream is the compilation album of their
-works with Virgin Records from the mid-1970s, *The Virgin Years*, which
-exemplifies the distinctive German form of electronic music sometimes
-called *kosmische*. That said, minus their founder, Edgar Froese, who
-died in 2015, they continue to innovate prodigiously and have written
-many film soundtracks, featuring prominently in the hit Netflix series
+works with Virgin Records from the mid-1970s, *The Virgin Years*. Their music also featured prominently in the hit Netflix series
 *Stranger Things*.
