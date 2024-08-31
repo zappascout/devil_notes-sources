@@ -13,8 +13,8 @@ Protection][fed]", *The Wall Street Journal*, August 10, 2022; "[Meta Pauses
 Purchase of 'Supernatural' Developer as FTC Suit Proceeds][ftc]", *Bloomberg*,
 August 5, 2021. On a more cautious note: "[We take a look at proposed Big
 Tech regulations in the UK: Heavy on possible fines, light on
-enforcement: Online Harms draft gets most things right, still gives
-Facebook and friends too much leeway][uk]," *The Register*, 16 December, 2020.
+enforcement (Online Harms draft gets most things right, still gives
+Facebook and friends too much leeway)][uk]," *The Register*, 16 December, 2020.
 [tech]:https://www.cnbc.com/2021/03/25/big-tech-how-europe-became-the-worlds-top-regulator.html
 [big]:https://arstechnica.com/tech-policy/2023/08/big-tech-isnt-ready-for-landmark-eu-rules-that-take-effect-tomorrow/
 [bil]:https://www.reuters.com/technology/facebook-faces-32-bln-uk-class-action-over-market-dominance-2022-01-14/
@@ -49,12 +49,12 @@ Silicon Valley==:
 This infiltration doesn't always come from the Valley
 itself. Teachers there adopt tech jargon and ideas that will obviously
 appeal to parents in the catchment area. For a glimpse of how this
-works, try *Education Week*, November 1, 2017, "Schools Take a Page From
-Silicon Valley With 'Scrum' Approach," about schools borrowing the
+works, try *Education Week*, November 1, 2017, "[Schools Take a Page From
+Silicon Valley With 'Scrum' Approach][scrum]," about schools borrowing the
 programming idea of Agile project management directly from big business.
 I could cite hundreds of similar examples, many in Silicon Valley—but (*increasingly*)
 by no means all.
-[]:https://www.edweek.org/leadership/schools-take-a-page-from-silicon-valley-with-scrum-approach/2017/11
+[scrum]:https://www.edweek.org/leadership/schools-take-a-page-from-silicon-valley-with-scrum-approach/2017/11
 
 ==how does an Amazon CEO justify earning *6,000 times* the median
 salary at his company==:
