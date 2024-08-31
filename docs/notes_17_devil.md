@@ -27,7 +27,7 @@ avoid going in there but try to limit your contact with surfaces when
 you do."
 
 ###382
-==\[ I \] decommissioned the venerable Bash command line language in
+==I decommissioned the venerable Bash command line language in
 favor of a newer rival called Zsh==:
 Two excellent online guides held my
 hand through the process. These were courtesy of [Carlos Roso][roso] and [Tom Nelson][two]. Thanks, guys: you made my world a better place for a few days. Another I've since found useful is by Remo Hoeppli and can be found [here][hope].
@@ -37,7 +37,7 @@ hand through the process. These were courtesy of [Carlos Roso][roso] and [Tom Ne
 
 ==like the blockchain, Git is a supple assemblage of established
 cryptographic ideas==:
-Here, for the first time I am struck by the extent to which our computer
+Here, for the first time, I am struck by the extent to which our computer
 operating systems mimic the form of paper. *Everything* on a hard drive
 is contained within metaphoric "files" that might contain reams of
 instruction for the machine or a single line of code redirecting to
@@ -51,5 +51,5 @@ Starlings are very broadly distributed around the world and for anyone
 who's never experienced the wonder of seeing a murmuration of them, it's
 one of the most extraordinary and beautiful sights nature has to offer.
 There are lots of videos on YouTube and they're well worth a look.
-[Here's one I like][like].
+[Here are some I like][like].
 [like]:https://www.youtube.com/results?search_query=starling+murmurations
