@@ -52,7 +52,7 @@ appeal to parents in the catchment area. For a glimpse of how this
 works, try *Education Week*, November 1, 2017, "[Schools Take a Page From
 Silicon Valley With 'Scrum' Approach][scrum]," about schools borrowing the
 programming idea of Agile project management directly from big business.
-I could cite hundreds of similar examples, many in Silicon Valley—but increasingly elsewhere too.
+I could cite many similar examples, both in Silicon Valley and (increasingly) elsewhere.
 [scrum]:https://www.edweek.org/leadership/schools-take-a-page-from-silicon-valley-with-scrum-approach/2017/11
 
 ==how does an Amazon CEO justify earning *6,000 times* the median
@@ -86,7 +86,7 @@ explaining why he and partner Mike Judge pulled the plug on their
 popular show in 2019==:
 As reported in "['Silicon Valley' Showrunners Talk
 Ending HBO Series: 'It's a Different Kind of Comedy Now,'][berg]" *The
-Hollywood Reporter*, December 8, 2019
+Hollywood Reporter*, December 8, 2019.
 [berg]:https://www.hollywoodreporter.com/tv/tv-news/silicon-valley-finale-explained-showrunners-mike-judge-alec-berg-break-down-final-episode-hbo-comedy-1260546/
 
 ==school curricula are moving this way==:
@@ -175,7 +175,7 @@ makes them laugh and helps them be better teammates, while imparting
 most of what they need to know to live a fulfilled and connected life.
 In the director's cut of this fantasy, literature students are also
 introduced to a programming language, but let's not get ahead of
-ourselves. Bad poetry never destroyed a life. Bad code can. And does.
+ourselves. Bad poetry never destroyed a life but bad code can. And does.
 
 ###402
 ==NASA announced that its next generation of Mars Rovers would
@@ -198,7 +198,7 @@ demonstrate an ability to communicate constructively. Individuals to
 whom this presents a special challenge could be offered extra help or
 mentoring. For most of the time I've been writing this book, Nicholas
 has been designing a training program modeled on the grade-based system
-using classical music teaching. One of the [*CodeGrades*][grade] innovations
+used in classical music teaching. One of the [*CodeGrades*][grade] innovations
 closest to his heart is training in productive collaboration with
 others.
 [grade]:https://www.codegrades.com/
