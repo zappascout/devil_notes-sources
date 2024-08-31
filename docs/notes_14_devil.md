@@ -66,7 +66,7 @@ can be easy for a trained ear to spot==:
 An accessible example is the percussive bassline from the Norwegian trio A-ha's huge global hit
 single *Take on Me*, which would have been hard to produce by analog
 means (as with almost everything on that tune, save the sweet melody
-line, which is analog). Fellow chin-strokers wanting more detail will find it in *Sound on
+line, which is analog). Chin-strokers craving more detail will find it in *Sound on
 Sound* magazine, March 2011, "[Classic Tracks: A-ha 'Take on Me][a2]." The song has a surprisingly dramatic story.
 [a2]:https://www.soundonsound.com/techniques/classic-tracks-ha-take-me
 
