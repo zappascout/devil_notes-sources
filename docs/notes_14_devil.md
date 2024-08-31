@@ -10,7 +10,7 @@ proportions of women and people of color had roughly doubled.
 
 ###291
 ==my poet daughter, Lotte==:
-For poetry lovers, her work is at [Red
+For poetry lovers, her and others' work is at [Red
 Herring Press][a1].
 [a1]:https://www.redherringpress.org/publications
 
@@ -19,7 +19,7 @@ There was a nice symmetry to this new
 electronic art form being based in Sheffield, one of the most notable
 centers of the UK synth-pop, still taken to define the sonic landscape
 of the early 1980s through groups like Cabaret Voltaire, The Human
-League and Heaven 17.
+League, ABC and Heaven 17.
 
 ==live coding proved to be cultish and yet impressively global==:
 On a trip to Mexico City I found a scene there, too, and even
@@ -33,8 +33,7 @@ whose sound is best known from The Beach Boys' classic "Good Vibrations" or Port
 Film buffs will also know it from the soundtrack of the 1950s sci-fi
 classic *The Day the Earth Stood Still*, which made Neil Armstrong's
 choice to take a personally-recorded cassette of theremin music by Dr.
-Samuel Hoffman to the moon with him in 1969 all the more surprising and
-delightful.
+Samuel Hoffman to the moon with him in 1969 all the more amusing.
 
 ==artists like Delia Derbyshire (arranger of the groundbreaking
 theme from *Doctor Who*)==:
@@ -45,10 +44,10 @@ excellent *Mars by 1980* and on a monthly basis in *Electronic Sound*
 magazine.
 
 ==the Dutchman Tom Dissevelt==:
-Who I first heard about from the English guitarist Jeff Beck, he recalling his friend and then
+Who I first heard about from the English guitarist Jeff Beck, when he recalled his friend and then
 (Yardbirds) bandmate Jimmy Page, later of Led Zeppelin, rushing a
-Dissevelt single to his flat in a lather of excitement in the early
-1960s, when the two guitarists were both largely unknown. David Bowie
+Dissevelt single to his flat in a fit of excitement in the early
+1960s, when the two guitarists were both unknown. David Bowie
 later cited Dissevelt and Dick Raaijmakers' 1959 LP *The Fascinating
 World of Electronic Music* as one of his 25 all-time favorite albums, in
 *Vanity Fair*.
@@ -62,17 +61,12 @@ Modulation* (or FM) synthesis owned by Stanford University since the
 following the DX7.
 
 ###294
-==almost everyone used the same sounds and records made in 1984
+==almost everyone used the same sounds, and records made in 1984
 can be easy for a trained ear to spot==:
 An accessible example is the percussive bassline from the Norwegian trio A-ha's huge global hit
 single *Take on Me*, which would have been hard to produce by analog
 means (as with almost everything on that tune, save the sweet melody
-line, which is analog). Initially recorded at the Who guitarist Pete
-Townsend's Eel Pie studio in London, this song has a surprisingly
-dramatic backstory, flopping several times as a single prior to becoming
-the hit it still is. Anyone interested in it can go to See *Sound on
-Sound* magazine, March 2011, "[Classic Tracks: A-ha 'Take on Me][a2]."
-[a2]:https://www.soundonsound.com/techniques/classic-tracks-ha-take-me
+line, which is analog.)
 
 ==it was excessively hard to program with its small digital
 display==:
