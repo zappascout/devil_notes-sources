@@ -10,7 +10,7 @@ proportions of women and people of color had roughly doubled.
 
 ###291
 ==my poet daughter, Lotte==:
-For poetry lovers, her and others' work is at [Red
+Her and others' work is at [Red
 Herring Press][a1].
 [a1]:https://www.redherringpress.org/publications
 
