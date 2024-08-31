@@ -66,7 +66,9 @@ can be easy for a trained ear to spot==:
 An accessible example is the percussive bassline from the Norwegian trio A-ha's huge global hit
 single *Take on Me*, which would have been hard to produce by analog
 means (as with almost everything on that tune, save the sweet melody
-line, which is analog.)
+line, which is analog). Anyone interested in more detail will find it in *Sound on
+Sound* magazine, March 2011, "[Classic Tracks: A-ha 'Take on Me][a2]."
+[a2]:https://www.soundonsound.com/techniques/classic-tracks-ha-take-me
 
 ==it was excessively hard to program with its small digital
 display==:
@@ -75,10 +77,9 @@ their own programmed DX7 patches is Brian Eno. Like almost everyone in
 England at that time I played in a band and owned a DX7 relatively
 early, spent weeks working out how to program it, came up with a similar
 roster of bubbly, farty, dribbly sounds to the ones Eno found. The
-difference is that where I said "Can't see much use for these" and
-moved on, he used them to make one of his best-loved albums, *Apollo:
-Atmospheres and Soundtracks* as a soundtrack for Al Reinert's stirring
-documentary *For All Mankind*. I guess this is what makes Eno *Eno*.
+difference is that where I said "Can't see much use for these," he used them to make one of his best-loved albums, *Apollo:
+Atmospheres and Soundtracks*, as a soundtrack for Al Reinert's stirring
+documentary *For All Mankind*.
 
 =="you watch the record spin and it's like you're sitting around a campfire—it's hypnotic"==:
 Jack White quoted in *Billboard*, March 6, 2015.
