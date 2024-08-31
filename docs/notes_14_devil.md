@@ -117,6 +117,6 @@ only live coder to leave the code screen blank that night.
 
 ==his interest arose from exposure to the German *kosmische
 musik* fountainheads Tangerine Dream==:
-As prominently featured in the hit Netflix series
+As also prominently featured in the hit Netflix series
 *Stranger Things*. For anyone interested, a good place to start with Tangerine Dream is the compilation album of their
 works with Virgin Records from the mid-1970s, *The Virgin Years*.
