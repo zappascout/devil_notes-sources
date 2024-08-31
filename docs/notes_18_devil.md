@@ -52,8 +52,7 @@ appeal to parents in the catchment area. For a glimpse of how this
 works, try *Education Week*, November 1, 2017, "[Schools Take a Page From
 Silicon Valley With 'Scrum' Approach][scrum]," about schools borrowing the
 programming idea of Agile project management directly from big business.
-I could cite hundreds of similar examples, many in Silicon Valley—but (*increasingly*)
-by no means all.
+I could cite hundreds of similar examples, many in Silicon Valley—but increasingly elsewhere too.
 [scrum]:https://www.edweek.org/leadership/schools-take-a-page-from-silicon-valley-with-scrum-approach/2017/11
 
 ==how does an Amazon CEO justify earning *6,000 times* the median
