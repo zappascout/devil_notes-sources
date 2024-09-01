@@ -125,7 +125,7 @@ fired at Google][email]," 3 December, 2020.
 [email]:https://www.platformer.news/the-withering-email-that-got-an-ethical/
 
 ###328
-==English contains dozens of terms for states of inebriation==:
+==(British) English contains dozens of terms for states of inebriation==:
 For the record, there's basted, wasted, hammered, smashed, minced, mashed, trashed, blasted,
 pie-eyed, plastered, cockeyed, bladdered, stewed, reeking, minging,
 soused, sozzled, squiffy, totalled, blitzed, trolleyed, blotto, newted,
