@@ -24,7 +24,7 @@ From *Understanding Media: The Extensions of Man*, 1964.
 I write about this in more
 detail in my book *Totally Wired: The Rise and Fall of Josh Harris and
 the Great Dotcom Swindle*. On the subject of McLuhan I also recommend
-Douglas Coupland's entertaining book, *Marshall McLuhan: You Know
+Douglas Coupland's entertaining biography, *Marshall McLuhan: You Know
 Nothing of My Work!*—named for the famous scene in Woody Allen's
 *Annie Hall*, where Allen produces McLuhan out of nowhere in a movie queue to set a fellow queuer straight about the Canadian thinker's ideas .
 
@@ -91,15 +91,12 @@ could have just bought Guido a beer and asked him!
 As with the mostly
 hidden *code objects*, you would never normally see bytecode, but a
 natty tool called a *disassembler* allows you to, rendering it as
-something very like the ultra-low level Assembly Code programmers like
-the great Project Apollo software team leader Margaret Hamilton used
-before they had high level languages to translate for them: long
-sequences of numbered codes and abbreviated three-letter commands.
+something very like the ultra-low level Assembly Code used by programmers on the Apollo space program, before they had high-level languages to translate for them: long sequences of numbered codes and abbreviated three-letter commands.
 
 ==a *Python virtual machine*—a simulated computer, written in
 C, that compiles to the C interpreter==:
 Another one for lovers of the
-long grass. During an extended period of trying to piece together this
+long grass. During my extended period of trying to piece together this
 process—it appears written down like this almost nowhere—I grasp for
 the first time that the Python programming language I experience exists
 independently of the particular *implementation* that interprets my own
@@ -107,7 +104,7 @@ code, and that there is more than one such implementation—i.e. more
 than one available interpreter. The standard implementation such as I
 and most people use is called CPython because it is written in C and
 compiles to the C interpreter, while Jython compiles to Java bytecode in
-order to be processed by the Java interpreter. But the source code I
+order to be processed by the Java interpreter. Yet the source code I
 write for each will look (and be) the same.
 
 ###412
@@ -115,7 +112,7 @@ write for each will look (and be) the same.
 emissions and global heating from the late 1960s on==:
 the English
 engineer Guy Stewart Callendar began to publish evidence of a link in
-1938, but thought the resultant warming would be beneficial. From the
+1938, but thought the resultant warming would be beneficial (as an Englishman might.) From the
 late 1950s scientists began to model and monitor the effects of warming,
 leading to the first serious public warnings from the late 1960s.
 Politicians and the public engaged en masse from the late 1980s.
