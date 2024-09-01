@@ -129,13 +129,13 @@ fired at Google][email]," 3 December, 2020.
 For the record, there's basted, wasted, hammered, smashed, minced, mashed, trashed, blasted,
 pie-eyed, plastered, cockeyed, bladdered, stewed, reeking, minging,
 soused, sozzled, squiffy, totalled, blitzed, trolleyed, blotto, newted,
-munted, fecked, bombed, bat faced, fannied, wellied, mullered, banjaxed,
+munted, fecked, bombed, bat-faced, fannied, wellied, mullered, banjaxed,
 bevvied, legless, ruined, wiped, pantsed, cabbaged, badgered, paggered,
 binned, potted, greased, leathered, blethered, rendered, rinsed, goosed,
 clobbered, pickled, toasted, ripped, roasted, sauced, sloshed, juiced,
 kebabbed, rat-arsed, tipsy, slaughtered, steamboats, skunked, guttered,
-Magooed, lit, crocked, cooked, blootered, legless, shit canned,
-shitfaced, bog faced, strung out, stonking, reakin', poleaxed,
+Magooed, lit, crocked, cooked, blootered, legless, shit-canned,
+shitfaced, bog-faced, strung out, stonking, reakin', poleaxed,
 scuttered, flaming, merry, spannered, tramlined, rubbered, lashed,
 frazzled, fermented, loaded, howlin' (drunk), steamin' (drunk),
 screamin' (drunk), drunk as a skunk, drunk as a fish, drunk as a bishop,
@@ -146,7 +146,7 @@ three sheets to the wind, well oiled, highly lubricated, well refreshed,
 off (your) face, off (your) head, off (your) trolley, off (your) tits,
 oot yer tree (Scotland), lagered up, fucked up, gone, messy, wankered,
 bolloxed, tit-faced, trousered, stocious, mangled, marinated, battered,
-buggered, wrote off, tanked up, crapulous, fermented, in the bag, under
+buggered, wrote off, tanked up, crapulous, thirsty, in the bag, under
 the influence, wired to the moon, (utterly) carparked, up to the gills,
 on the sauce, one over the eight, comfortably numb, chemically altered,
 Brahms & Liszt (pissed), Schindler's (List=pissed) etc. etc. etc . . .
@@ -206,17 +206,17 @@ Hao, *MIT Technology Review*, 14 June, 2021.
 
 ==Few imagined Gebru would be fired==:
 this transpired not to be an isolated incident. See "[Big tech companies cut AI ethics staff,
-raising safety concerns][ethics]," *Financial Times*, March 29, 2023
+raising safety concerns][ethics]," *Financial Times*, March 29, 2023.
 [ethics]:https://www.ft.com/content/26372287-6fb3-457b-9e9c-f722027f36b3
 
 ###330
 ==persistent public questions about whether ChatGPT and its
 "generative AI" successors . . . were conscious==:
-Indeed, a Google engineer publicly claimed that his "[AI" had crossed the threshold to
-consciousness. It hadn't, and the engineer was put on administrative
+Indeed, a Google engineer publicly claimed that his ["AI" had crossed the threshold to
+consciousness][sentience]. It hadn't, and the engineer was put on administrative
 leave. For a useful discussion of the episode and its implications, see
 "Google's AI Is Something Even Stranger Than Conscious: Machine
-sentience is overrated][sentience]," *The Atlantic*, June 19, 2022.
+sentience is overrated," *The Atlantic*, June 19, 2022.
 [sentience]:https://www.theatlantic.com/technology/archive/2022/06/google-palm-ai-artificial-consciousness/661329/
 
 ==intellectual property and copyright were suddenly more
