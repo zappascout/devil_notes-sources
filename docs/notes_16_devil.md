@@ -16,10 +16,10 @@ Its 25th Anniversary][holo]," *Scientific American*, March 1, 2023.
 ==Among an unusually racially diverse and gender-balanced
 international crowd are some colorful individuals==:
 With some commensurately surprising skill sets. One participant in our music
-session, Zan McQuade, turned out work for O'Reilly Media, but have a
+session, Zan McQuade, turned out work for O'Reilly Media but to have a
 sideline translating Latvian fiction into English, while playing piano
 to a high level and being the drummer in an all-woman Todd Rundgren
-covers bands. This kind of thing was not unusual.
+covers bands. This kind of thing was not unusual at Foo.
 
 ###322
 ==a young CS professor . . . insists on calling our discussion
@@ -40,7 +40,8 @@ already now progress is being oversold. Simple souls have been made to
 believe that we have a retail shop in Philosopher's Stones that, by
 magic, will cure all diseases; in a few years' time it will, of course,
 become apparent that there are still a few diseases uncured and then the
-same simple souls will denounce us as quacks.
+same simple souls will denounce us as quacks.  
+
 If I learnt one thing at Foo Camp, it's that—as elsewhere in
 life—tech specifics change all the time, while fundamentals remain
 pretty constant. Plus ça change, we might say: the more it changes, the
