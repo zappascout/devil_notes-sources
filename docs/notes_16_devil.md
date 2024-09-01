@@ -527,7 +527,7 @@ resources.
 [naut]:https://nautil.us/why-ai-lags-behind-the-human-brain-in-computational-power-238338/
 
 ###341
-==Larry Page's co-founder, Sergei Brin, had been "[extremely
+==Larry Page's co-founder, Sergei Brin, had been "extremely
 reluctant" to enter China==:
 from the superb "[Three Years of Misery
 Inside Google, the Happiest Company in Tech][mis]," *Wired*, May 2020.
@@ -560,7 +560,7 @@ See "[Families need $200,000 to live comfortably in S.F.][sf]," *San Francisco C
 
 ###347
 ==like eugenics, to which \[Libertarianism\] bears more than a passing conceptual resemblance==:
-In the sense that both deny the consideration of context. The key tenets of Libertarian thought, as
+In the sense that both shun the consideration of context. The key tenets of Libertarian thought, as
 elucidated in the humorless, teeth-grindingly turgid and literal-minded
 parables of the novelist Ayn Rand, are simple: (i) people exist as
 individuals and are responsible for their own fates. Accordingly (ii)
@@ -573,13 +573,13 @@ people's access to and relationship with The Market is abstracted away
 under the guise of "reason." Two things I had noticed with other Bay
 Area Libertarians of my acquaintance were that a) for people who
 trumpeted "individual freedom," they tended to have a lot of highly
-prescriptive rules about how that "freedom" should be manifested, and
-b) in fetishizing the individual as a theoretical construct, they wound
+prescriptive rules about how that "freedom" should be deployed, and
+b) in fetishizing "the individual" as a theoretical construct, they wound
 up denying individuals their individuality.
 
 ==Libertarianism didn't originate in California but found a
 fertile breeding ground here==:
-Roger MacNamee explains the appeal of
+The VC and early Facebook investor Roger MacNamee explains the appeal of
 Libertarianism to tech people very well in his book *Zucked*.
 
 ###348
@@ -587,7 +587,7 @@ Libertarianism to tech people very well in his book *Zucked*.
 to be equally reliable commissioners of action==:
 For more on this see Malcolm Gladwell, *Blink: The Power of Thinking Without Thinking*, or;
 *How Emotions Are Made: The Secret Life of the Brain* by Lisa Feldman
-Barrett; *Emotional: How Feelings Shape Our Thinking* by Leonard
+Barrett, or; *Emotional: How Feelings Shape Our Thinking* by Leonard
 Mlodinow. The excellent science journal *Nautilus* has also run a number
 of articles on our new understanding of how emotion works (and is
 related to what we think of as "rationality")—these are easily
