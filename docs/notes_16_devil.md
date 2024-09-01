@@ -829,7 +829,7 @@ interpersonal deficits, while the LH hyperfunctioning is most typical of
 the secondary psychopathy which is marked by impulsivity and antisocial
 style.  
 
-ßIn "[There are More than Two Sides to Antisocial Behavior: The
+In "[There are More than Two Sides to Antisocial Behavior: The
 Inextricable Link between Hemispheric Specialization and Environment][two],"
 a 2020 overview of studies into lateralization in people evincing
 antisocial behaviors including psychopathy/sociopathy and Antisocial
@@ -895,7 +895,7 @@ Robber Baron][robber]," *Forbes*, September 19, 2011.
 ==If you solve cancer, you'd add about three years to people's
 average life expectancy==:
 *Time*, September 18, 2013, "[TIME Talks to
-Google CEO Larry Page About Its New Venture to Extend Human Life][page]"
+Google CEO Larry Page About Its New Venture to Extend Human Life][page]."
 [page]:https://business.time.com/2013/09/18/google-extend-human-life/
 
 ###371
@@ -912,19 +912,17 @@ bar.'
 
 ==or perhaps a CEO could be found trumpeting an abrasive culture
 built on "the obligation to dissent"==:
-In their 2014 book *How Google Works,* Schmidt and co-author Jonathan Rosenberg described their idea of
-the ideal creative environment. "In our experience, most smart creatives
-have strong opinions and are itching to spout off; for them, the
-cultural obligation to dissent gives them the freedom to do just that .
-. . "
-    Even though they might be annoying, he later told *Wired*, "You
-need these aberrant geniuses because they're the ones that drive, in
+In their 2014 book *How Google Works,* Schmidt and co-author Jonathan Rosenberg described their idea of the ideal creative environment.
+
+>In our experience, most smart creatives have strong opinions and are itching to spout off; for them, the cultural obligation to dissent gives them the freedom to do just that...  
+
+Even though they might be annoying, he later told *Wired*,
+
+>You need these aberrant geniuses because they're the ones that drive, in
 most cases, the product excellence . . . they are better than other
-technical people." Franklin Foer, in his book *World Without Mind*, points out that Google did not invent
-the idea of an "obligation to dissent," having borrowed it from the
-management consulting firm McKinsey, "But it tied them together into a
-coherent, aspirational narrative about engineers as free-thinking people
-uniquely capable of reconfiguring the world from first principles."
+technical people."  
+
+Franklin Foer, in his book *World Without Mind*, points out that Google did not invent the idea of an "obligation to dissent," having borrowed it from the management consulting firm McKinsey, "But it tied them together into a coherent, aspirational narrative about engineers as free-thinking people uniquely capable of reconfiguring the world from first principles."
 
 =="If you have something that you don't want anyone to know,
 maybe you shouldn't be doing it in the first place"==:
