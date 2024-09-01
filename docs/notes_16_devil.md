@@ -966,12 +966,12 @@ Apple][trip]," *New York Times*, May 1, 2022.
 ==People who know these men speak of stunted individuals with
 limited emotional range and capacity to connect==:
 For detail on Thiel
-and his protégé Mark Zuckerberg, see *Zucked: Waking Up to the Facebook
+and his protégé Mark Zuckerberg, see the aforementioned *Zucked: Waking Up to the Facebook
 Catastrophe* by VC and early Facebook investor Roger MacNamee, and *The
 Contrarian: Peter Thiel and Silicon Valley's Pursuit of Power*, by
 *Bloomberg* editor and writer Max Chafkin. For a concise sense of who
 Thiel is, try Chakfin, "[Peter Thiel's Untold College Stories][col]," *New
-York* magazine, Sept 20, 2021, or; *The New Yorker*, "[No Death, No
+York* magazine, Sept 20, 2021, or *The New Yorker*, "[No Death, No
 Taxes][tax]," by George Packer, Nov 20, 2011.
 [col]:https://nymag.com/intelligencer/article/peter-thiel-silicon-valley-contrarian-max-chafkin.html
 [tax]:https://www.newyorker.com/magazine/2011/11/28/no-death-no-taxes
@@ -1015,17 +1015,13 @@ more successful entrepreneurs seem to be suffering from a mild form of
 Asperger's where it's like you're missing the imitation, socialization
 gene," adding that Asperger's "happens to be a plus for innovation
 and creating great companies." In his 2014 book *Zero to One* he and
-co-author Blake Masters write that, "The hazards of imitative
-competition may partially explain why individuals with an
-Asperger's-like social ineptitude seem to be at an advantage in Silicon
-Valley today. If you're less sensitive to social cues, then you're
-less likely to do the same thing as everyone else around you." Roger
-MacNamee does not agree, writing in *Zucked* that: "What I did not
-grasp was that Zuck's ambition had no limit. I did not appreciate that
-his focus on code as the solution to every problem would blind him to
-the human cost of Facebook's outsized success. And I never imagined
-that Zuck would craft a culture in which criticism and disagreement
-apparently had no place."
+co-author Blake Masters write that,
+>The hazards of imitative competition may partially explain why individuals with an Asperger's-like social ineptitude seem to be at an advantage in Silicon Valley today. If you're less sensitive to social cues, then you're
+less likely to do the same thing as everyone else around you.  
+
+Roger MacNamee does not agree, writing in *Zucked* that:
+>What I did not grasp was that Zuck's ambition had no limit. I did not appreciate that his focus on code as the solution to every problem would blind him to the human cost of Facebook's outsized success. And I never imagined that Zuck would craft a culture in which criticism and disagreement
+apparently had no place.
 
 ==history starts to make sense==:
 As one Facebook employee told
