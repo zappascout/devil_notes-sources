@@ -282,7 +282,7 @@ intelligent than us][hinton].'")
 ==as I write...browser tabs on my laptop contain articles on...==:
 "[Google Team That Keeps Services Online Rocked by Mental Health
 Crisis][mental]," *Bloomberg*, Jan 20, 2022; "[Corporations send large donations to GOP group behind abortion bans
-and voter suppression][gop]," *Popular Information*, Feb 2, 2022; and "[Seven major corporations pledge not to support GOP objectors in 2022][seven]," *Popular Information*, January 4, 2022
+and voter suppression][gop]," *Popular Information*, Feb 2, 2022; and "[Seven major corporations pledge not to support GOP objectors in 2022][seven]," *Popular Information*, January 4, 2022.
 [mental]:https://www.bloomberg.com/news/features/2022-01-20/inside-google-s-brewing-mental-health-crisis-claims-of-toxic-work-environment
 [gop]:https://popular.info/p/corporations-send-large-donations?token=eyJ1c2VyX2lkIjo1ODQxMDA1LCJwb3N0X2lkIjo0ODA3NTAxMywiXyI6IlkxZ25zIiwiaWF0IjoxNjQzODQ0NjYwLCJleHAiOjE2NDM4NDgyNjAsImlzcyI6InB1Yi0xNjY0Iiwic3ViIjoicG9zdC1yZWFjdGlvbiJ9.LwiPN4Z3PSSlX_wvSzQx4lnO8FKPg9EeHSkygCaLpOI
 [seven]:https://popular.info/p/seven-major-corporations-pledge-not?token=eyJ1c2VyX2lkIjo1ODQxMDA1LCJwb3N0X2lkIjo0NjU0Nzc2NiwiXyI6IlkxZ25zIiwiaWF0IjoxNjQzODQ1MTE3LCJleHAiOjE2NDM4NDg3MTcsImlzcyI6InB1Yi0xNjY0Iiwic3ViIjoicG9zdC1yZWFjdGlvbiJ9.MkraTrozBMtIbEylPMwWemjrwD9bZVDON8IqkzecktI
@@ -291,7 +291,7 @@ and voter suppression][gop]," *Popular Information*, Feb 2, 2022; and "[Seven ma
 ==\[Google's\] embrace of the far-right demi-monde built by the
 Machievellian industrialists, the Koch Brothers==:
 "[Google and the Koch Network: A Troubling Alliance of Convenience][koch]," *Tech Transparency
-Project*, December 20, 2019
+Project*, December 20, 2019.
 [koch]:https://www.techtransparencyproject.org/articles/google-and-koch-network-troubling-alliance-of-convenience
 
 ==the company's funding of global misinformation==:
@@ -302,7 +302,7 @@ deterioration of information ecosystems around the world."
 [fund]:https://www.technologyreview.com/2021/11/20/1039076/facebook-google-disinformation-clickbait/
 
 ==a secret agreement, codenamed "Jedi Blue"==:
-reported well [here][jedi]:
+reported well [here][jedi].
 [jedi]:https://twitter.com/patrickmcgee_/status/1451619916994396164?s=21&utm_source=Tortoise+Members&utm_campaign=018fad0aa8-EMAIL_CAMPAIGN_2021_10_27_08_20&utm_medium=email&utm_term=0_efeb5ec230-018fad0aa8-139315740&mc_cid=018fad0aa8&mc_eid=6272898850
 
 ==a Dutch company called ASML==:
@@ -334,7 +334,7 @@ forward to the future he describes==:
 When I spoke to the robotics researcher Hans Moravec, then at MIT, two decades ago, he considered
 merging with our machines to be "[our most rational, mature future][mature]." But
 where Moravec's vision cleaved to the Engelbartian notion of
-incremental "augmentation," Kurzweil's was abrupt, unnegotiable—and
+incremental "augmentation," Kurzweil's is abrupt, unnegotiable—and
 irreversible.
 [mature]:https://www.theguardian.com/theobserver/2000/dec/31/life1.lifemagazine1
 
@@ -356,11 +356,12 @@ generate computer code, and more — all with limited to no supervision.
 The model also has shortcomings. For example, it can generate racist,
 sexist, and bigoted text, as well as superficially plausible content
 that, upon further inspection, is factually inaccurate, undesirable, or
-unpredictable.
+unpredictable.  
+
 The problem, in other words, is the same as for all
 other current "AI": it's not intelligent, it just *simulates*
 intelligence. It doesn't take much imagination to see how such an
-equation might be—and is being—abused.
+equation might be—*and is being*—abused.
 [llm]:https://hai.stanford.edu/news/how-large-language-models-will-transform-science-society-and-ai
 
 ###333
