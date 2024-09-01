@@ -367,7 +367,7 @@ equation might be—*and is being*—abused.
 ###333
 ==Larry Page personally brought Ray Kurzweil to Google as
 director of engineering==:
-[SingularityHub, March 19, 2013][hub]
+[SingularityHub, March 19, 2013][hub].
 [hub]:https://singularityhub.com/2013/03/19/exclusive-interview-ray-kurzweil-discusses-his-first-two-months-at-google/
 
 ###334
@@ -392,7 +392,7 @@ complex molecular machines, while our understanding of technology is
 diminished as machines approach the complexity of living things.
 
 ==I visited leaders of a well-funded EU-ccordinated program of research into UC==:
-See "[Break the Mould][uc]," *The Sunday Times*, March 29, 2015. The *Times* has a paywall but as I write offers a free week's trial for £1.
+See "[Break the Mould][uc]," *The Sunday Times*, March 29, 2015. The *Times* has a paywall but as I write offers a week's trial for £1.
 [uc]:https://www.thetimes.com/article/break-the-mould-6hxng9pvh2g
 
 ==one researcher showed me how two chemicals, when mixed, formed
@@ -420,10 +420,10 @@ intelligent."
 
 ==The chief driver of intelligence for \[Turing\] was curiosity, so a true AI would need to make mistakes==:
 From Dyson again:
->'What we want is a machine that can learn from experience,' Turing wrote. 'The
+>"What we want is a machine that can learn from experience," Turing wrote. "The
 possibility of letting the machine alter its own instructions provides
-the mechanism for this.' Jack Good added that, 'The ultra-intelligent
-machine . . . is the machine that believes people cannot think.'
+the mechanism for this." Jack Good added that, "The ultra-intelligent
+machine . . . is the machine that believes people cannot think."
 
 ==a Dutch company called ASML has spent a reported nine billion
 dollars finding a way to continue cramming more transistors into chips==:
