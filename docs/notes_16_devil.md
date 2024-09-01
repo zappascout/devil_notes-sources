@@ -753,27 +753,20 @@ and where contradiction or anomaly is introduced will often dismiss or
 deny the discordant information rather than seek to form a synthesis,
 because its preferred truth is binary and fixed;  
 (iii) tends to see the world
-as fragmentary and composed of *things*, with the whole being a sum of
+as fragmentary and composed of *things*, with the "whole" being a sum of
 parts and always reducible back to those parts—a perspective it
 applies also to people (which is why prosody, facial expression, body
-language have little or no purchase).  
+language have little or no purchase with the left hemisphere).  
 (iv) It recognizes and is drawn to
 fixity, stasis, the inanimate ("machines and tools are alone coded in
 the left hemisphere");  
-(v)is most at home with the explicit and therefore
-struggles to recognize metaphor, myth, irony, humor, the poetic;  
-(vi) if
-offered a story with episodes jumbled, the left hemisphere will reorder
-them according to similarity rather than narrative sense;  
-(vii) it excels at
-"fine analytic sequencing" and complex linguistic syntax, with a
-larger vocabulary than the right hemisphere;  
-(viii) is preternaturally
-confident and optimistic, being disinclined to recognize its own
-limitations;  
-(ix) deals with simple rhythms, but little else of music,
-although there is evidence that as musicians learn a piece and it
-becomes grooved and familiar, the left hemisphere takes over.
+(v) is most at home with the explicit and therefore
+struggles to recognize metaphor, myth, irony, humor or the poetic.  
+(vi) If offered a story with episodes jumbled, the left hemisphere will reorder
+them according to similarity rather than narrative sense, and;  
+(vii) it excels at "fine analytic sequencing" and complex linguistic syntax, with a larger vocabulary than the right hemisphere;  
+(viii) is preternaturally confident and optimistic, being disinclined to recognize its own limitations;  
+(ix) deals with simple rhythms, but little else of music, although there is evidence that as musicians learn a piece and it becomes grooved and familiar, the left hemisphere takes over.
 
 In contrast (and complement) to the left hemisphere, the right is:
 
@@ -783,19 +776,12 @@ to it;
 (iii) is good at seeing and addressing what is new, unknown or unclear;  
 (iv) is attuned to ambiguity and able to accept and hold contradictory
 information without rush to judgement;  
-(v) is inclined to see itself as
-connected to or even part of what it observes;  
-(vi) sees not discrete objects
-but complex, irreducible relationships and processes, is drawn to the
-implicit before explicit, the animate more than inanimate;  
-(vii) is attracted
-to and good at processing narrative;  
-(viii) better understands the overall
-import and significance of a proposition or statement than the more
-syntactically sophisticated left hemisphere;  
+(v) is inclined to see itself as connected to or even part of what it observes;  
+(vi) sees not discrete objects but complex, irreducible *relationships and processes*; is drawn to the implicit before explicit, the animate more than inanimate;  
+(vii) is attracted to and good at processing narrative;  
+(viii) better understands the overall import and significance of a proposition or statement than does the more syntactically sophisticated left hemisphere;  
 (ix) processes most music;  
-(x) is
-essential to empathy and theory of mind (the ability to see another's
+(x) is essential to empathy and theory of mind (the ability to see another's
 point of view) and is in general terms more open to and expressive of
 emotion;  
 (xi) is more realistic and open to doubt and therefore tending to
@@ -806,7 +792,7 @@ advocate," McGilchrist writes, "since it acts as an anomaly detector,
 on the lookout for what might be erroneously assumed by the left
 hemisphere to be familiar. For the left hemisphere aims to narrow things
 down to a certainty, where the right hemisphere opens them up into
-possibility.
+possibility."
 
 ###366
 ==reams of academic study suggest psychopathy/sociopathy and
