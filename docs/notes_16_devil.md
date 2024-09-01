@@ -456,7 +456,7 @@ Turing!"==:
 In 1948 von Neumann mused that "If the only demerit of the
 digital expansion system were its greater logical complexity, nature
 would not, for this reason alone, have rejected it." According to
-George Dyson in *Turing's Cathedral* "template-based addressing was a
+George Dyson in *Turing's Cathedral*, "template-based addressing was a
 key element of von Neumann's overall plan." As well it might have
 been. In a 2003 talk called "Coding from Scratch," Jaron Lanier lamented
 the way hardware was constantly improving while software grew ever more
