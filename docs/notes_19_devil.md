@@ -12,11 +12,7 @@ Eclipsed,'][ec]" *New York Times*, July 13, 2023.
 ###406
 ==To illustrate the shifty concept of recursion he not only
 recruits Bach's canons==:
-Most particularly in the composer's extraordinary *Musical Offering*,
-whose (originally improvised) structure is explained early in Part One
-of the book and is among the most fascinating musical discussions I've
-ever come across. Afterwards I couldn't stop listening to the piece on
-the Hilliard Ensemble's *Ricercar* album.
+Most particularly in the composer's extraordinary fugue *Ricercar*, part of a collection of canons and fugues based on a single theme, originally improvised, called *The Musical Offering*. Hofstadter's explication of the structure of *Ricercar* early in Part One of the book and is among the most fascinating musical discussions I've ever come across. Afterwards I couldn't stop listening to the piece on the Hilliard Ensemble's *Ricercar* album.
 
 ==Marshall McLuhan's famous sixties adage, "the medium is the
 message"==:
