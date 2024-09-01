@@ -926,10 +926,12 @@ believe." He cites Eric Schmidt's comment on privacy on CNBC's "Inside
 the Mind of Google" special in 2009, that "If you have something that
 you don't want anyone to know, maybe you shouldn't be doing it in the
 first place."  
+
 >"Really?" Mr. Lanier asks. "It does give me this feeling sometimes that
 something's going wrong with our culture in Silicon Valley and maybe
 it's just that thing of power corrupting and absolute power corrupting
 absolutely, just losing perspective."  
+
 For the record, Mark Zuckerberg has made similar decrees, as when he told
 Steven Levy, in *Hackers* (p. 475-6), that "I never had this thing where
 I wanted to have information that other people didn't." Which was
