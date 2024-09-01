@@ -1,10 +1,11 @@
 
 In keeping with their parent book, these Notes were a labor of love: I compiled
 and built them myself using Material for MKdocs and various other tools. You can
-see the code in my GitHub repo [here][github]. Providing live links was
+see the code in [my GitHub repo][github]. Providing live links was
 painstaking but worth the effort, I hope, because there's a lot in *Devil*
 and now anyone who wants to explore a particular topic in more detail can do so
-easily. My fondest wish is that this becomes a live resource for readers and nonreaders alike.
+easily. My fondest wish is that this becomes a live resource for readers and
+nonreaders alike; a kind of cloud of information.
 [github]:https://github.com/zappascout
 
 The serious purpose of this page is to set out the rules for accepting sources
@@ -29,7 +30,7 @@ experience that the Edit Gremlins are cunning, so glitches can sneak in
 despite our best efforts. Readers finding any such quirks (or "quarks" for
 anyone who's read chapter 15) can flag them via
 **devil-notes@andrewsmithauthor.com**. The Edit Gremlins' close cousins the Time
-Goblins dictate that replying directly by email will probably be impossible,
+Snarks dictate that replying directly by email will probably be impossible,
 but please know that, whether a suggestion ends up being incorporated or
 not, constructive contributions have my sincerest thanks and respect. Mastodon
-and X are where these thanks are most likely to be posted. — Andrew S, August 2024
+and X are where these thanks are most likely to be posted. — asx, August 2024
