@@ -912,7 +912,7 @@ bar.'
 
 ==or perhaps a CEO could be found trumpeting an abrasive culture
 built on "the obligation to dissent"==:
-In their 2014 book *How Google Works,* Schmidt and co-author Jonathan Rosenberg described their idea of the ideal creative environment. "In our experience, most smart creatives have strong opinions and are itching to spout off; for them, the cultural obligation to dissent gives them the freedom to do just that..." Even though they might be annoying, he later told *Wired*, "You need these aberrant geniuses because they're the ones that drive, in
+In their 2014 book *How Google Works,* Schmidt and co-author Jonathan Rosenberg described their idea of the ideal creative environment. "In our experience, most smart creatives have strong opinions and are itching to spout off; for them, the cultural obligation to dissent gives them the freedom to do just that . . . " Even though they might be annoying, he later told *Wired*, "You need these aberrant geniuses because they're the ones that drive, in
 most cases, the product excellence . . . they are better than other
 technical people." Franklin Foer, in his book *World Without Mind*, points out that Google did not invent the idea of an "obligation to dissent," having borrowed it from the management consulting firm McKinsey, "But it tied them together into a coherent, aspirational narrative about engineers as free-thinking people uniquely capable of reconfiguring the world from first principles."
 
