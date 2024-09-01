@@ -1019,15 +1019,10 @@ co-author Blake Masters write that,
 >The hazards of imitative competition may partially explain why individuals with an Asperger's-like social ineptitude seem to be at an advantage in Silicon Valley today. If you're less sensitive to social cues, then you're
 less likely to do the same thing as everyone else around you.  
 
-Roger MacNamee does not agree, writing in *Zucked* that:
+Roger MacNamee strongly disagrees, writing in *Zucked* that:
 >What I did not grasp was that Zuck's ambition had no limit. I did not appreciate that his focus on code as the solution to every problem would blind him to the human cost of Facebook's outsized success. And I never imagined that Zuck would craft a culture in which criticism and disagreement
 apparently had no place.
 
 ==history starts to make sense==:
-As one Facebook employee told
-the *Washington Post* ("[How Mark Zuckerberg broke Meta's workforce][washpo],"
-April 30, 2023), "It's like they went from 'move fast and break things'
-to 'slow down, break things,' then 'maybe fix it later on a case-by-case
-basis.'" Of course they did. There's no compelling reason to think Mark
-Zuckerberg can tell the difference between these things.
+As one Facebook employee told the *Washington Post* ("[How Mark Zuckerberg broke Meta's workforce][washpo]," April 30, 2023), "It's like they went from 'move fast and break things' to 'slow down, break things,' then 'maybe fix it later on a case-by-case basis.'" Of course they did. On the available evidence, there's no reason to think Mark Zuckerberg can tell the difference between broken and not-broken things beyond a narrow focus on code.
 [washpo]:https://www.washingtonpost.com/technology/2023/04/30/mark-zuckerberg-meta-layoffs/>
