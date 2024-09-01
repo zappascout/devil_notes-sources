@@ -810,10 +810,8 @@ abundant "references" sections at the bottom of these papers.
 ###367
 ==Asperger's, which is thought to involve severe right
 hemispheric impairment==:
-See *Journal of Autism and Developmental Disorders*, "[Right Hemisphere Dysfunction and Metaphor Comprehension in
-Young Adults with Asperger Syndrome][meta]"; *Journal of Child Neurology*,
-"[Right Hemisphere Dysfunction in Asperger's Syndrome][hemis]"; *Psychology
-Today*, October 5, 2013, "[The Left Hemisphere Hypothesis for Autism][hypoth]"
+See "[Right Hemisphere Dysfunction and Metaphor Comprehension in
+Young Adults with Asperger Syndrome][meta]," *Journal of Autism and Developmental Disorders*; "[Right Hemisphere Dysfunction in Asperger's Syndrome][hemis]," *Journal of Child Neurology*; "[The Left Hemisphere Hypothesis for Autism][hypoth]," *Psychology Today*, October 5, 2013.
 [meta]:https://link.springer.com/article/10.1007/s10803-009-0930-1
 [hemis]:https://pubmed.ncbi.nlm.nih.gov/7594267/
 [hypoth]:https://www.psychologytoday.com/gb/blog/the-superhuman-mind/201310/the-left-hemisphere-hypothesis-autism
