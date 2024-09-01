@@ -827,8 +827,9 @@ within the psychopathic population, the RH hypofunctioning is more
 characteristic of primary psychopathy with its affective and
 interpersonal deficits, while the LH hyperfunctioning is most typical of
 the secondary psychopathy which is marked by impulsivity and antisocial
-style.
-In "[There are More than Two Sides to Antisocial Behavior: The
+style.  
+
+ßIn "[There are More than Two Sides to Antisocial Behavior: The
 Inextricable Link between Hemispheric Specialization and Environment][two],"
 a 2020 overview of studies into lateralization in people evincing
 antisocial behaviors including psychopathy/sociopathy and Antisocial
