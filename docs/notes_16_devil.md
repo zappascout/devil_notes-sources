@@ -236,7 +236,7 @@ Struggle Over Technology & Prosperity*, by Daron Acemoglu and Simon
 Johnson. The authors of the latter warn that:
 >Society and its powerful gatekeepers need to stop being mesmerized by tech billionaires and their agenda . . . One does not need to be an AI expert to have a say about the direction of progress and the future of our society forged by these technologies . . . We are heading toward greater inequality not inevitably but because of faulty choices about who has power in society.  
 
-An idea like Universal Basic Income, they suggest, "fully buys into the vision of the business and tech elite that they are the enlightened, talented people who should generously finance the rest." A view bolstered by the nonprofit AI Now's 2023 annual report, "[Confronting Tech Power][confront]."
+An idea like Universal Basic Income, they suggest, "fully buys into the vision of the business and tech elite that they are the enlightened, talented people who should generously finance the rest." A view tending to look consistent with the nonprofit AI Now's 2023 annual report, "[Confronting Tech Power][confront]."
 [coders]:https://nymag.com/intelligencer/2023/03/is-ai-coming-for-coders-first.html
 [lawyers]:https://www.nytimes.com/2023/04/10/technology/ai-is-coming-for-lawyers-again.html
 [decide]:https://www.technologyreview.com/2023/03/25/1070275/chatgpt-revolutionize-economy-decide-what-looks-like/
@@ -263,19 +263,21 @@ of names in tech . . . called for a six-month moratorium on new LLM
 releases==:
 And some wanted to go further, as per "[Pausing AI
 Developments Isn't Enough. We Need to Shut it All Down][shut]," *Time*, March
-29, 2023, by Eliezer Yudkowsky, lead researcher at the Machine
+29, 2023, by Eliezer Yudkowsky, lead researcher at the non-profit Machine
 Intelligence Research Unit.
 [shut]:https://time.com/6266923/ai-eliezer-yudkowsky-open-letter-not-enough/
 
 ==Instead, an "AI" goldrush began==:
-OpenAI, which had previously been a nonprofit aimed at ensuring the safety of "AI," accepted billions
-in investment from Microsoft and converted to for-profit status. A week
-after calling for a moratorium, Elon Musk, in the kind of capricious
-*volte face* we would grow used to, announced the creation of his own
-"AI" startup, X.AI. Microsoft laid off an AI ethics team, as described
-in "[Microsoft lays off team responsible for AI ethics][lays]," *TechRadar*,
-March 14, 2023.
+OpenAI, which had previously been a nonprofit aimed at ensuring the safety of "AI," accepted billions in investment from Microsoft and converted to for-profit status. A week after calling for a moratorium, Elon Musk, in the kind of capricious *volte face* we would grow used to, announced the creation of his own "AI" startup, X.AI. Microsoft laid off an AI ethics team, as described in "[Microsoft lays off team responsible for AI ethics][lays]," *TechRadar*, March 14, 2023. The British deep learning godhead Geoffrey Hinton would be perturbed enough by the sudden leap
+forward to resign from Google so he could make his fears public. "I want
+to talk about AI safety issues without having to worry about how it
+interacts with Google's business. As long as I'm paid by Google, I can't
+do that," he told *MIT Technology Review* (May 2, 2023, "[Geoffrey Hinton
+tells us why he's now scared of the tech he helped build: 'I have
+suddenly switched my views on whether these things are going to be more
+intelligent than us][hinton].'")
 [lays]:https://www.techradar.com/news/microsoft-lays-off-team-responsible-for-ai-ethics
+[hinton]:https://www.technologyreview.com/2023/05/02/1072528/geoffrey-hinton-google-why-scared-ai/
 
 ==as I write...browser tabs on my laptop contain articles on...==:
 "[Google Team That Keeps Services Online Rocked by Mental Health
@@ -284,17 +286,6 @@ and voter suppression][gop]," *Popular Information*, Feb 2, 2022; and "[Seven ma
 [mental]:https://www.bloomberg.com/news/features/2022-01-20/inside-google-s-brewing-mental-health-crisis-claims-of-toxic-work-environment
 [gop]:https://popular.info/p/corporations-send-large-donations?token=eyJ1c2VyX2lkIjo1ODQxMDA1LCJwb3N0X2lkIjo0ODA3NTAxMywiXyI6IlkxZ25zIiwiaWF0IjoxNjQzODQ0NjYwLCJleHAiOjE2NDM4NDgyNjAsImlzcyI6InB1Yi0xNjY0Iiwic3ViIjoicG9zdC1yZWFjdGlvbiJ9.LwiPN4Z3PSSlX_wvSzQx4lnO8FKPg9EeHSkygCaLpOI
 [seven]:https://popular.info/p/seven-major-corporations-pledge-not?token=eyJ1c2VyX2lkIjo1ODQxMDA1LCJwb3N0X2lkIjo0NjU0Nzc2NiwiXyI6IlkxZ25zIiwiaWF0IjoxNjQzODQ1MTE3LCJleHAiOjE2NDM4NDg3MTcsImlzcyI6InB1Yi0xNjY0Iiwic3ViIjoicG9zdC1yZWFjdGlvbiJ9.MkraTrozBMtIbEylPMwWemjrwD9bZVDON8IqkzecktI
-
-==instead, an "[AI" goldrush began==:
-The British deep learning godhead Geoffrey Hinton would be perturbed enough by the sudden leap
-forward to resign from Google so he could make his fears public. "I want
-to talk about AI safety issues without having to worry about how it
-interacts with Google's business. As long as I'm paid by Google, I can't
-do that," he told *MIT Technology Review* (May 2, 2023, "[Geoffrey Hinton
-tells us why he's now scared of the tech he helped build: 'I have
-suddenly switched my views on whether these things are going to be more
-intelligent than us][hinton].'")
-[hinton]:https://www.technologyreview.com/2023/05/02/1072528/geoffrey-hinton-google-why-scared-ai/
 
 ###331
 ==\[Google's\] embrace of the far-right demi-monde built by the
