@@ -234,9 +234,9 @@ revolutionize the economy. We need to decide what that looks like][decide]," *MI
 Technology Review*, March 25, 2023; the book *Power and Progress: Our 1000-Year
 Struggle Over Technology & Prosperity*, by Daron Acemoglu and Simon
 Johnson. The authors of the latter warn that:
->Society and its powerful gatekeepers need to stop being mesmerized by tech billionaires and their agenda . . . One does not need to be an AI expert to have a say about the direction of progress and the future of our society forged by these technologies . . . We are heading toward greater inequality not inevitably but because of faulty choices about who has power in society. Universal Basic Income fully buys into the vision of the business and tech elite that they are the enlightened, talented people who should generously finance the rest."  
+>Society and its powerful gatekeepers need to stop being mesmerized by tech billionaires and their agenda . . . One does not need to be an AI expert to have a say about the direction of progress and the future of our society forged by these technologies . . . We are heading toward greater inequality not inevitably but because of faulty choices about who has power in society.  
 
-A view bolstered by the nonprofit AI Now's 2023 annual report, "[Confronting Tech Power][confront]."
+An idea like Universal Basic Income, they suggest, "fully buys into the vision of the business and tech elite that they are the enlightened, talented people who should generously finance the rest." A view bolstered by the nonprofit AI Now's 2023 annual report, "[Confronting Tech Power][confront]."
 [coders]:https://nymag.com/intelligencer/2023/03/is-ai-coming-for-coders-first.html
 [lawyers]:https://www.nytimes.com/2023/04/10/technology/ai-is-coming-for-lawyers-again.html
 [decide]:https://www.technologyreview.com/2023/03/25/1070275/chatgpt-revolutionize-economy-decide-what-looks-like/
