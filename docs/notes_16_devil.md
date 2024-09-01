@@ -639,7 +639,7 @@ shakers of his acquaintance also had autistic children. By the time he
 wrote *NeuroTribes*, he had come to agree with most experts that any
 perceived connection between Silicon Valley and autism was illusory.
 Baron-Cohen's *The Pattern Seekers* suggests his original journalistic
-instincts were not far off. Like neuroscience, this is an especially
+instincts were not far off. Like neuroscience in general, this is an especially
 fascinating and fast-moving area of study right now.
 
 ==identifying autism with what he called "the extreme male
@@ -649,11 +649,10 @@ Brain*.
 
 ==by his assessment my own brain is highly "female"==:
 How do I know this? *The Essential Difference* contains a test. I suspect most
-writers have what Baron-Cohen identified as "female brains."
+writers, of whatever sex or gender, have what Baron-Cohen would identify as "female brains."
 
 ==Whether genderizing autism is helpful or not==:
-I confess it seems unhelpful to me on balance, a view the far more qualified (than
-me) Silberman also shares.
+I confess it seems unhelpful to me on balance, a view the far more qualified (than me) Silberman also shared.
 
 ###351
 ==while the CDC estimates that one in forty-four U.S. children
@@ -676,21 +675,20 @@ tasks like debugging code (and to many others besides.) To prove the
 point, a supervisor at Microsoft told Steve Silberman that "All of my
 top debuggers have Asperger's Syndrome," going on to explain that "They
 can hold hundreds of lines of code in their head as a visual image. They
-look for the flaws in the pattern, and that's where the bugs are." No
-more wily shift devils!
+look for the flaws in the pattern, and that's where the bugs are." Shift devils beware.
 
 ==He also states flatly that "Autism is an empathy disorder"==:
 One needs to be careful with this. One of my very closest friends has an
 autistic daughter I've known since she was young and whom I adore.
 People are surprised that, because she feels safe with me, I can joke
-with and even tease her playfully. She doesn't always understand the
-content of the joke I'm making, but she can tell and enjoy that it's an
-expression of affection. Doesn't this take a degree of empathy? The only
+with and even tease her playfully. I've noticed that, while she might not always understand the
+content of the joke I'm making, she can tell and enjoy that it's an
+expression of affection. Doesn't this involve a kind of empathy? The only
 difference between interacting with her and more neurotypical young
 people is that I'll monitor her more closely to make sure she feels safe
-with the company and environment we're in. In *The Essential Difference* Baron-Cohen explains that:
->People with autism are often the most loyal defenders of someone they perceive to be
-suffering an injustice. In this way, they are not uncaring, or
+with the company and environment we're in. In *The Essential Difference* Baron-Cohen explains that:  
+
+>People with autism are often the most loyal defenders of someone they perceive to be suffering an injustice. In this way, they are not uncaring, or
 cold-hearted psychopaths who want to hurt others. On the contrary, when
 they discover that they have inadvertently hurt another person, perhaps
 by saying something which has caused offense, they are usually shocked
