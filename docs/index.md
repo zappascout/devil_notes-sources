@@ -5,7 +5,7 @@ see the code in [my GitHub repo][github]. Providing live links was
 painstaking but worth the effort, I hope, because there's a lot in *Devil*
 and now anyone who wants to explore a particular topic in more detail can do so
 easily. My fondest wish is that this becomes a live resource for readers and
-nonreaders alike; a kind of cloud of information.
+nonreaders alike; a cloud of useful information.
 [github]:https://github.com/zappascout
 
 The serious purpose of this page is to set out the rules for accepting sources
