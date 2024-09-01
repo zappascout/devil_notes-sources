@@ -616,15 +616,14 @@ the Asperger/Autism Network==:
 There has also been a re-evaluation of the term "Asperger's" after recent claims that Hans Asperger, the Austrian
 doctor who identified and tried to help autistic children between the
 world wars, collaborated with the ruling Nazis during World War II. For
-the record, Steve Silberman tells me he is not convinced by the
-evidence, and it looks a little shaky to me, too.
+the record, the late Steve Silberman, may he rest in peace, told me he was not convinced by the evidence, and it looks a little shaky to me, too.
 
 ==Increasingly, "autistic" and other atypical traits—and
 almost everyone displays some of these==:
 As an aside, extreme care needs to be taken around the presumption of 'autistic traits,' too. Discussing
 this with a therapist friend, she points out that behavioral patterns
 that look like expressions of autism can often have roots in childhood
-experience, parenting etc., expressed as what she refers to as
+experience, parenting etc., expressed through what her profession calls
 "attachment styles," and have no connection to autism at all.
 
 ==people with isolated autistic traits are far more likely than
