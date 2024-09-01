@@ -919,23 +919,21 @@ technical people." Franklin Foer, in his book *World Without Mind*, points out t
 =="If you have something that you don't want anyone to know,
 maybe you shouldn't be doing it in the first place"==:
 From [*The New York Times* interviewing Jaron Lanier][laniery], November 8, 2017:
->He [Lanier] worries that these tech gods creating new worlds may be getting 'high on
-their own supply' . . . Mr. Lanier believes that Facebook and Google,
-with their 'top-down control schemes,' should be called 'Behavior
-Modification Empires . . . He says sometimes his peers in the Valley
-seem perfectly nice but then they will say something 'I just can't
-believe.' He cites Eric Schmidt's comment on privacy on CNBC's 'Inside
-the Mind of Google' special in 2009, that 'If you have something that
+>He [Lanier] worries that these tech gods creating new worlds may be getting "high on their own supply" . . . Mr. Lanier believes that Facebook and Google, with their "top-down control schemes," should be called "Behavior
+Modification Empires" . . . He says sometimes his peers in the Valley
+seem perfectly nice but then they will say something "I just can't
+believe." He cites Eric Schmidt's comment on privacy on CNBC's "Inside
+the Mind of Google" special in 2009, that "If you have something that
 you don't want anyone to know, maybe you shouldn't be doing it in the
-first place'
->'Really?' Mr. Lanier asks. 'It does give me this feeling sometimes that
+first place."  
+>"Really?" Mr. Lanier asks. "It does give me this feeling sometimes that
 something's going wrong with our culture in Silicon Valley and maybe
 it's just that thing of power corrupting and absolute power corrupting
-absolutely, just losing perspective.'
-For the record, Mark Zuckerberg said similar things, as when he told
+absolutely, just losing perspective."  
+For the record, Mark Zuckerberg has made similar decrees, as when he told
 Steven Levy, in *Hackers* (p. 475-6), that "I never had this thing where
 I wanted to have information that other people didn't." Which was
-true—maybe—right up to the point at which it was no longer
+true—*maybe*—right up to the point at which it was no longer
 convenient to him. He seems pretty keen on that kind of information
 these days.
 [laniery]:https://www.cnbc.com/inside-the-mind-of-google/
