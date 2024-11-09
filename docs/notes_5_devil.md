@@ -15,7 +15,7 @@ write.
 
 ###54
 ==Lord Byron's first speech on ascending to the House of Lords==:
-And guess what, through the magic of the internet you can follow this debate. From *Hansard*, [Debate on the 1812 Framework Bill][debate].
+And guess what, through the magic of the internet and the British Parliament's official record of proceedings, *Hansard*, you can follow this debate. See *Hansard*, [Debate on the 1812 Framework Bill][debate].
 [debate]:https://api.parliament.uk/historic-hansard/lords/1812/feb/27/frame-work-bill
 
 ###55
