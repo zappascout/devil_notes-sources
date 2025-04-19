@@ -1016,7 +1016,7 @@ Roger MacNamee strongly disagrees, writing in *Zucked* that:
 >What I did not grasp was that Zuck's ambition had no limit. I did not appreciate that his focus on code as the solution to every problem would blind him to the human cost of Facebook's outsized success. And I never imagined that Zuck would craft a culture in which criticism and disagreement
 apparently had no place.
 
-Of course, Elon Musk was a partner of Thiel's at PayPal and on Joe Rogan's show of 8 February, 2025 he offered his opinion that "[The fundamental weakness of western society is empathy][emp]." Interestingly, most of us would regard that as its strength, the thing without which there is little point to anything.
+Of course Elon Musk was a partner of Thiel's at PayPal and on Joe Rogan's show of 8 February, 2025 he offered his opinion that "[The fundamental weakness of western society is empathy][emp]." Interestingly, most of us would regard that as its strength, the thing without which there is little point to anything.
 [emp]:https://www.yahoo.com/news/fact-check-musk-said-fundamental-130000768.html
 
 ==history starts to make sense==:
