@@ -965,14 +965,7 @@ Apple][trip]," *New York Times*, May 1, 2022.
 ###374
 ==People who know these men speak of stunted individuals with
 limited emotional range and capacity to connect==:
-For detail on Thiel
-and his protégé Mark Zuckerberg, see the aforementioned *Zucked: Waking Up to the Facebook
-Catastrophe* by VC and early Facebook investor Roger MacNamee, and *The
-Contrarian: Peter Thiel and Silicon Valley's Pursuit of Power*, by
-*Bloomberg* editor and writer Max Chafkin. For a concise sense of who
-Thiel is, try Chakfin, "[Peter Thiel's Untold College Stories][col]," *New
-York* magazine, Sept 20, 2021, or *The New Yorker*, "[No Death, No
-Taxes][tax]," by George Packer, Nov 20, 2011.
+For detail on Thiel and his protégé Mark Zuckerberg, see the aforementioned *Zucked: Waking Up to the Facebook Catastrophe* by VC and early Facebook investor Roger MacNamee, and *The Contrarian: Peter Thiel and Silicon Valley's Pursuit of Power*, by *Bloomberg* editor and writer Max Chafkin. For a concise sense of who Thiel is, try Chakfin, "[Peter Thiel's Untold College Stories][col]," *New York* magazine, Sept 20, 2021, or *The New Yorker*, "[No Death, No Taxes][tax]," by George Packer, Nov 20, 2011.
 [col]:https://nymag.com/intelligencer/article/peter-thiel-silicon-valley-contrarian-max-chafkin.html
 [tax]:https://www.newyorker.com/magazine/2011/11/28/no-death-no-taxes
 
@@ -1003,7 +996,7 @@ look after our neighbor. My meaning, clear at the time but subsequently
 distorted beyond recognition, was that society was not an abstraction,
 separate from the men and women who composed it, but a living structure
 of individuals, families, neighbors and voluntary association.
-Not the libertarian's meaning at all.
+Not the libertarian's meaning at all. 
 
 ==Thiel has been open about his desire to blow up the very idea
 of society, rationalizing his urge to a love of freedom and efficiency==:
@@ -1017,12 +1010,13 @@ gene," adding that Asperger's "happens to be a plus for innovation
 and creating great companies." In his 2014 book *Zero to One* he and
 co-author Blake Masters write that,
 >The hazards of imitative competition may partially explain why individuals with an Asperger's-like social ineptitude seem to be at an advantage in Silicon Valley today. If you're less sensitive to social cues, then you're
-less likely to do the same thing as everyone else around you.  
+less likely to do the same thing as everyone else around you.
+Of course, Elon Musk was a partner of Thiel's at PayPal and on Joe Rogan's show of 8 February, 2025, he offered his opinion that "The fundamental weakness of western society is empathy." Interestingly, most of us would regard that as its strength, the thing without which there is little point to anything.
 
 Roger MacNamee strongly disagrees, writing in *Zucked* that:
 >What I did not grasp was that Zuck's ambition had no limit. I did not appreciate that his focus on code as the solution to every problem would blind him to the human cost of Facebook's outsized success. And I never imagined that Zuck would craft a culture in which criticism and disagreement
 apparently had no place.
 
 ==history starts to make sense==:
-As one Facebook employee told the *Washington Post* ("[How Mark Zuckerberg broke Meta's workforce][washpo]," April 30, 2023), "It's like they went from 'move fast and break things' to 'slow down, break things,' then 'maybe fix it later on a case-by-case basis.'" Of course they did. On the available evidence, there's no reason to think Mark Zuckerberg can tell the difference between broken and not-broken things beyond a narrow focus on code.
+As one Facebook employee told the *Washington Post* ("[How Mark Zuckerberg broke Meta's workforce][washpo]," April 30, 2023), "It's like they went from 'move fast and break things' to 'slow down, break things,' then 'maybe fix it later on a case-by-case basis.'" Of course they did. On the available evidence, there's no reason to think Mark Zuckerberg can tell the difference between broken and not-broken things beyond a narrow focus on code, profit and advantage to himself.
 [washpo]:https://www.washingtonpost.com/technology/2023/04/30/mark-zuckerberg-meta-layoffs/>
