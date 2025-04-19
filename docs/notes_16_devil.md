@@ -1011,6 +1011,7 @@ and creating great companies." In his 2014 book *Zero to One* he and
 co-author Blake Masters write that,
 >The hazards of imitative competition may partially explain why individuals with an Asperger's-like social ineptitude seem to be at an advantage in Silicon Valley today. If you're less sensitive to social cues, then you're
 less likely to do the same thing as everyone else around you.
+
 Of course, Elon Musk was a partner of Thiel's at PayPal and on Joe Rogan's show of 8 February, 2025, he offered his opinion that "The fundamental weakness of western society is empathy." Interestingly, most of us would regard that as its strength, the thing without which there is little point to anything.
 
 Roger MacNamee strongly disagrees, writing in *Zucked* that:
