@@ -80,25 +80,25 @@ Happily, this will work. Macbeth is doomed by his own ambition, which the civic-
 <br>
 ##**Chapter 7:** "Theories of Memory"
 ###Fig. 01
-The binary number "01" given in toast (*image to come*)
+
+![the binary number '01' in toast](assets/images/toast_01_grove.jpg){ width="400" }
 
 ###Fig. 10
 ![the decimal number '4000'](assets/images/decimal_4000.jpeg){ width="400" }
 
 ###Fig. 11
 the decimal number '42' in binary form...32+8+2=42
-![the decimal number '42' in binary](assets/images/binary_42.jpeg)
+![the decimal number '42' in binary](assets/images/binary_42_grove.jpg){ width="400" }
 
 ###Fig.100
-"42" expressed binary form through the medium of toast (*image to come*)
+!["42" expressed in binary form through the medium of toast](assets/images/toast_42_grove.jpg){ width="400" }
 
 ###Fig. 101
 the binary number 00101010 (42 decimal) stored by means of Elvis impersonators (*image to come*)
 
 ###Fig. 110
 computer built with tiny coders as memory latches
-![a computer built with tiny coder latches][tinycoders]
-[tinycoders]:assets/images/tinyCoders.jpeg
+![a computer built with tiny coder latches](assets/images/tiny-coders_grove.jpg){ width="400" }
 
 ###Boolean algebra symbols reminder
 (a) ones and zeroes, to indicate *true* and *false* or *everything* and *nothing*;<br>
@@ -107,16 +107,15 @@ computer built with tiny coders as memory latches
 
 ###Fig. 111
 circuit diagram for an AND gate<br>
-![an AND gate cicuit](assets/images/ANDgate.jpeg){ width="600" }
+![an AND gate circuit](assets/images/ANDgate_circuit_grove.jpg){ width="600" }
 
 ###Fig.1000
 An AND gate truth table. Only if both inputs are positive/true - also understood as a 1 in computing - is a positive/true output produced.<br>
-![an AND gate truth table][ANDtable]
-[ANDtable]:assets/images/ANDtable.jpeg
+![an AND gate truth table](assets/images/ANDtable.jpeg){ width="300" }
 
 ###Fig. 1001
 circuit diagram for an OR gate<br>
-![an OR gate circuit](assets/images/ORgate.jpeg){ width="600"}
+![an OR gate circuit](assets/images/ORgate_circuit_grove.jpg){ width="600"}
 
 ###Fig. 1011
 An OR gate truth table. If *either* input is positive/true then the output will be positive/true. Only if *both* are negative/false - equating to a zero in computing - will a false/negative output be produced.<br>
@@ -124,13 +123,8 @@ An OR gate truth table. If *either* input is positive/true then the output will 
 
 ###Logic Gate Symbols
 AND:<br>
-![symbol for an AND gate](assets/images/ANDsymbol.jpeg){ width="400" }<br>
-OR:<br>
-![symbol for an OR gate](assets/images/ORsymbol.jpeg){ width="400" }<br>
-NAND:<br>
-![symbol for an NAND gate](assets/images/NANDsymbol.jpeg){ width="400" }<br>
-NOR:<br>
-![symbol for an NOR gate](assets/images/NORsymbol.jpeg){ width="400" }
+![logic gate symbols](assets/images/logicGATE_symbols_grove.jpg){ width="400" }<br>
+
 
 <br>
 ##**Chapter 9:** "Catch 32"
