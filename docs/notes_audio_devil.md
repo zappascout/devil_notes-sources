@@ -81,14 +81,13 @@ Happily, this will work. Macbeth is doomed by his own ambition, which the civic-
 ##**Chapter 7:** "Theories of Memory"
 ###Fig. 01
 
-![the binary number '01' in toast](assets/images/toast_01_grove.jpg){ width="400" }
+![the binary number '01' in toast](assets/images/toast_01_grove.jpg){ width="450" }
 
 ###Fig. 10
-![the decimal number '4000'](assets/images/decimal_4000.jpeg){ width="400" }
+![the decimal number '4000'](assets/images/decimal_4000.jpeg){ width="450" }
 
 ###Fig. 11
-the decimal number '42' in binary form...32+8+2=42
-![the decimal number '42' in binary](assets/images/binary_42_grove.jpg){ width="400" }
+![the decimal number '42' in binary](assets/images/binary_42_grove.jpg){ width="600" }
 
 ###Fig.100
 !["42" expressed in binary form through the medium of toast](assets/images/toast_42_grove.jpg){ width="400" }
