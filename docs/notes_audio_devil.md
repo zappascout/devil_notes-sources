@@ -87,7 +87,7 @@ Happily, this will work. Macbeth is doomed by his own ambition, which the civic-
 ![the decimal number '4000'](assets/images/decimal_4000.jpeg){ width="450" }
 
 ###Fig. 11
-![the decimal number '42' in binary](assets/images/binary_42_grove.jpg){ width="600" }
+![the decimal number '42' in binary](assets/images/binary_42_grove.jpg){ width="800" }
 
 ###Fig.100
 !["42" expressed in binary form through the medium of toast](assets/images/toast_42_grove.jpg){ width="400" }
