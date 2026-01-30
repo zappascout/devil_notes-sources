@@ -87,17 +87,16 @@ Happily, this will work. Macbeth is doomed by his own ambition, which the civic-
 ![the decimal number '4000'](assets/images/decimal_4000.jpeg){ width="450" }
 
 ###Fig. 11
-![the decimal number '42' in binary](assets/images/binary_42_grove.jpg){ width="800" }
+![the decimal number '42' in binary](assets/images/binary_42_grove.jpg){ width="1000" }
 
 ###Fig.100
-!["42" expressed in binary form through the medium of toast](assets/images/toast_42_grove.jpg){ width="400" }
+!["42" expressed in binary form through the medium of toast](assets/images/toast_42_grove.jpg){ width="1000" }
 
 ###Fig. 101
 the binary number 00101010 (42 decimal) stored by means of Elvis impersonators (*image to come*)
 
 ###Fig. 110
-computer built with tiny coders as memory latches
-![a computer built with tiny coder latches](assets/images/tiny-coders_grove.jpg){ width="400" }
+![a computer built with tiny coder latches](assets/images/tiny-coders_grove.jpg){ width="600" }
 
 ###Boolean algebra symbols reminder
 (a) ones and zeroes, to indicate *true* and *false* or *everything* and *nothing*;<br>
@@ -110,7 +109,7 @@ circuit diagram for an AND gate<br>
 
 ###Fig.1000
 An AND gate truth table. Only if both inputs are positive/true - also understood as a 1 in computing - is a positive/true output produced.<br>
-![an AND gate truth table](assets/images/ANDtable.jpeg){ width="300" }
+![an AND gate truth table](assets/images/ANDtable.jpeg){ width="600" }
 
 ###Fig. 1001
 circuit diagram for an OR gate<br>
@@ -118,11 +117,11 @@ circuit diagram for an OR gate<br>
 
 ###Fig. 1011
 An OR gate truth table. If *either* input is positive/true then the output will be positive/true. Only if *both* are negative/false - equating to a zero in computing - will a false/negative output be produced.<br>
-![an OR gate truth table](assets/images/ORtable.jpeg){ width="300" }
+![an OR gate truth table](assets/images/ORtable.jpeg){ width="600" }
 
 ###Logic Gate Symbols
 AND:<br>
-![logic gate symbols](assets/images/logicGATE_symbols_grove.jpg){ width="400" }<br>
+![logic gate symbols](assets/images/logicGATE_symbols_grove.jpg){ width="600" }<br>
 
 
 <br>
