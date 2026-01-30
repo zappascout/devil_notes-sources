@@ -139,7 +139,7 @@ circuit diagram for an OR gate<br>
 ###Fig. 1011
 An OR gate truth table. If *either* input is positive/true then the output will be positive/true. Only if *both* are negative/false - equating to a zero in computing - will a false/negative output be produced.<br>
 <br>
-![an OR gate truth table](assets/images/ORtable.jpeg){ width="400" }
+![an OR gate truth table](assets/images/ORtable.jpeg){ width="500" }
 
 ###Logic Gate Symbols
 ![logic gate symbols](assets/images/logicGATE_symbols_grove.jpg){ width="600" }<br>
