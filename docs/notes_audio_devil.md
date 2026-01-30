@@ -80,23 +80,41 @@ Happily, this will work. Macbeth is doomed by his own ambition, which the civic-
 <br>
 ##**Chapter 7:** "Theories of Memory"
 ###Fig. 01
-
-![the binary number '01' in toast](assets/images/toast_01_grove.jpg){ width="450" }
+the binary number "01" given in toast<br>
+<br>
+![the binary number '01' in toast](assets/images/toast_01_grove.jpg){ width="600" }
 
 ###Fig. 10
-![the decimal number '4000'](assets/images/decimal_4000.jpeg){ width="450" }
+the number of holes in Blackburn, Lancashire<br>
+<br>
+![the decimal number '4000'](assets/images/decimal_4000_grove.jpg){ width="600" }
 
 ###Fig. 11
-![the decimal number '42' in binary](assets/images/binary_42_grove.jpg){ width="1000" }
+the decimal number "42" in binary form . . . 32+8+2=42<br>
+<br>
+![the decimal number '42' in binary](assets/images/binary_42_grove2.jpg){ width="600" }
 
 ###Fig.100
-!["42" expressed in binary form through the medium of toast](assets/images/toast_42_grove.jpg){ width="1000" }
+"42" expressed in binary form through the medium of toast<br>
+<br>
+!["42" expressed in binary form through the medium of toast](assets/images/toast_42_grove.jpg){ width="1200" }
 
 ###Fig. 101
-the binary number 00101010 (42 decimal) stored by means of Elvis impersonators (*image to come*)
+the binary number 00101010 (42 decimal) stored by means of Elvis impersonators<br>
+<br>
+![tiny Elvis](assets/images/elvis_back_grove.jpg){ width="110" }
+![tiny Elvis](assets/images/elvis_back_grove.jpg){ width="110" }
+![tiny Elvis](assets/images/elvis_front_grove.jpg){ width="110" }
+![tiny Elvis](assets/images/elvis_back_grove.jpg){ width="110" }
+![tiny Elvis](assets/images/elvis_front_grove.jpg){ width="110" }
+![tiny Elvis](assets/images/elvis_back_grove.jpg){ width="110" }
+![tiny Elvis](assets/images/elvis_front_grove.jpg){ width="110" }
+![tiny Elvis](assets/images/elvis_back_grove.jpg){ width="110" }
 
 ###Fig. 110
-![a computer built with tiny coder latches](assets/images/tiny-coders_grove.jpg){ width="600" }
+computer built with tiny coders as memory latches<br>
+<br>
+![a computer built with tiny coder latches](assets/images/tiny-coders_grove.jpg){ width="1200" }
 
 ###Boolean algebra symbols reminder
 (a) ones and zeroes, to indicate *true* and *false* or *everything* and *nothing*;<br>
@@ -105,22 +123,25 @@ the binary number 00101010 (42 decimal) stored by means of Elvis impersonators (
 
 ###Fig. 111
 circuit diagram for an AND gate<br>
+<br>
 ![an AND gate circuit](assets/images/ANDgate_circuit_grove.jpg){ width="600" }
 
 ###Fig.1000
 An AND gate truth table. Only if both inputs are positive/true - also understood as a 1 in computing - is a positive/true output produced.<br>
-![an AND gate truth table](assets/images/ANDtable.jpeg){ width="600" }
+<br>
+![an AND gate truth table](assets/images/AND_table_grove.jpg){ width="600" }
 
 ###Fig. 1001
 circuit diagram for an OR gate<br>
+<br>
 ![an OR gate circuit](assets/images/ORgate_circuit_grove.jpg){ width="600"}
 
 ###Fig. 1011
 An OR gate truth table. If *either* input is positive/true then the output will be positive/true. Only if *both* are negative/false - equating to a zero in computing - will a false/negative output be produced.<br>
-![an OR gate truth table](assets/images/ORtable.jpeg){ width="600" }
+<br>
+![an OR gate truth table](assets/images/ORtable.jpeg){ width="400" }
 
 ###Logic Gate Symbols
-AND:<br>
 ![logic gate symbols](assets/images/logicGATE_symbols_grove.jpg){ width="600" }<br>
 
 
