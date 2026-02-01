@@ -102,14 +102,16 @@ the decimal number "42" in binary form . . . 32+8+2=42<br>
 ###Fig. 101
 the binary number 00101010 (42 decimal) stored by means of Elvis impersonators<br>
 <br>
-![tiny Elvis](assets/images/elvis_back_grove.jpg){ width="110" }
-![tiny Elvis](assets/images/elvis_back_grove.jpg){ width="110" }
-![tiny Elvis](assets/images/elvis_front_grove.jpg){ width="110" }
-![tiny Elvis](assets/images/elvis_back_grove.jpg){ width="110" }
-![tiny Elvis](assets/images/elvis_front_grove.jpg){ width="110" }
-![tiny Elvis](assets/images/elvis_back_grove.jpg){ width="110" }
-![tiny Elvis](assets/images/elvis_front_grove.jpg){ width="110" }
-![tiny Elvis](assets/images/elvis_back_grove.jpg){ width="110" }
+<div class="image-row" aria-label="Binary bits stored by tiny Elvis impersonators">
+    <img src="../assets/images/elvis_back_grove.jpg" alt="tiny Elvis" loading="lazy">
+    <img src="../assets/images/elvis_back_grove.jpg" alt="tiny Elvis" loading="lazy">
+    <img src="../assets/images/elvis_front_grove.jpg" alt="tiny Elvis" loading="lazy">
+    <img src="../assets/images/elvis_back_grove.jpg" alt="tiny Elvis" loading="lazy">
+    <img src="../assets/images/elvis_front_grove.jpg" alt="tiny Elvis" loading="lazy">
+    <img src="../assets/images/elvis_back_grove.jpg" alt="tiny Elvis" loading="lazy">
+    <img src="../assets/images/elvis_front_grove.jpg" alt="tiny Elvis" loading="lazy">
+    <img src="../assets/images/elvis_back_grove.jpg" alt="tiny Elvis" loading="lazy">
+</div>
 
 ###Fig. 110
 computer built with tiny coders as memory latches<br>
