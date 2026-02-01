@@ -100,7 +100,7 @@ the decimal number "42" in binary form . . . 32+8+2=42<br>
 !["42" expressed in binary form through the medium of toast](assets/images/toast_42_grove.jpg){ width="1200" }
 
 ###Fig. 101
-the binary number 00101010 (42 decimal) stored by means of Elvis impersonators<br>
+the binary number 00101010 (42 decimal) stored by means of Elvis impersonators
 <br>
 <div class="image-row" aria-label="Binary bits stored by tiny Elvis impersonators">
     <img src="../assets/images/elvis_back_grove.jpg" alt="tiny Elvis" loading="lazy">
