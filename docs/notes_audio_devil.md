@@ -80,22 +80,22 @@ Happily, this will work. Macbeth is doomed by his own ambition, which the civic-
 <br>
 ##**Chapter 7:** "Theories of Memory"
 ###Fig. 01
-the binary number "01" given in toast<br>
+the binary number "01" given in toast
 <br>
 ![the binary number '01' in toast](assets/images/toast_01_grove.jpg){ width="600" }
 
 ###Fig. 10
-the number of holes in Blackburn, Lancashire<br>
+the number of holes in Blackburn, Lancashire
 <br>
 ![the decimal number '4000'](assets/images/decimal_4000_grove.jpg){ width="600" }
 
 ###Fig. 11
-the decimal number "42" in binary form . . . 32+8+2=42<br>
+the decimal number "42" in binary form . . . 32+8+2=42
 <br>
 ![the decimal number '42' in binary](assets/images/binary_42_grove2.jpg){ width="600" }
 
 ###Fig.100
-"42" expressed in binary form through the medium of toast<br>
+"42" expressed in binary form through the medium of toast
 <br>
 !["42" expressed in binary form through the medium of toast](assets/images/toast_42_grove.jpg){ width="1200" }
 
@@ -114,7 +114,7 @@ the binary number 00101010 (42 decimal) stored by means of Elvis impersonators
 </div>
 
 ###Fig. 110
-computer built with tiny coders as memory latches<br>
+computer built with tiny coders as memory latches
 <br>
 ![a computer built with tiny coder latches](assets/images/tiny-coders_grove.jpg){ width="1200" }
 
@@ -124,22 +124,22 @@ computer built with tiny coders as memory latches<br>
 (c) "variables" to which "values" could be assigned (e.g., x = dogs named "Kevin")
 
 ###Fig. 111
-circuit diagram for an AND gate<br>
+circuit diagram for an AND gate
 <br>
 ![an AND gate circuit](assets/images/ANDgate_circuit_grove.jpg){ width="600" }
 
 ###Fig.1000
-An AND gate truth table. Only if both inputs are positive/true - also understood as a 1 in computing - is a positive/true output produced.<br>
+An AND gate truth table. Only if both inputs are positive/true - also understood as a 1 in computing - is a positive/true output produced.
 <br>
 ![an AND gate truth table](assets/images/AND_table_grove.jpg){ width="600" }
 
 ###Fig. 1001
-circuit diagram for an OR gate<br>
+circuit diagram for an OR gate
 <br>
 ![an OR gate circuit](assets/images/ORgate_circuit_grove.jpg){ width="600"}
 
 ###Fig. 1011
-An OR gate truth table. If *either* input is positive/true then the output will be positive/true. Only if *both* are negative/false - equating to a zero in computing - will a false/negative output be produced.<br>
+An OR gate truth table. If *either* input is positive/true then the output will be positive/true. Only if *both* are negative/false - equating to a zero in computing - will a false/negative output be produced.
 <br>
 ![an OR gate truth table](assets/images/ORtable.jpeg){ width="450" }
 
