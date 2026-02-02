@@ -4,43 +4,43 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - main  # Adjust this to your primary branch
+      - main
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
 
-    - name: Set up Python
-      uses: actions/setup-python@v2
-      with:
-        python-version: '3.11'
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
 
-    - name: Check Python version
-      run: python --version
+      - name: Check Python version
+        run: python --version
 
-    - name: Print Python interpreter location
-      run: which python
+      - name: Print Python interpreter location
+        run: which python
 
-    - name: List installed Python packages
-      run: pip list
+      - name: List installed Python packages
+        run: pip list
 
-    - name: Install dependencies
-      run: |
-        python -m pip install --upgrade pip
-        pip install mkdocs-material
-        pip install mkdocs-open-in-new-tab
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
 
-    - name: Build MkDocs site
-      run: mkdocs build --verbose
+      - name: Build MkDocs site
+        run: mkdocs build --verbose
 
-    - name: Upload to HostGator via FTP
-      uses: SamKirkland/FTP-Deploy-Action@4.2.0
-      with:
-        server: ${{ secrets.FTP_SERVER }}
-        username: ${{ secrets.FTP_USERNAME }}
-        password: ${{ secrets.FTP_PASSWORD }}
-        local-dir: site/
-        server-dir: /devil/notes/ # Adjust this to your server's path
+      - name: Deploy via SFTP
+        uses: wlixcc/SFTP-Deploy-Action@v1.2.4
+        with:
+          server: ${{ secrets.SFTP_SERVER }}
+          port: ${{ secrets.SFTP_PORT }}
+          username: ${{ secrets.SFTP_USERNAME }}
+          password: ${{ secrets.SFTP_PASSWORD }}
+          local_path: site/*
+          remote_path: ./public_html/devil/notes
