@@ -35,14 +35,14 @@ jobs:
       - name: Build MkDocs site
         run: mkdocs build --clean
 
-      - name: Deploy via SFTP
-        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
-        with:
-          protocol: sftp
-          server: ${{ secrets.SFTP_SERVER }}
-          port: ${{ secrets.SFTP_PORT }}
-          username: ${{ secrets.SFTP_USERNAME }}
-          password: ${{ secrets.SFTP_PASSWORD }}
-          local-dir: site/
-          server-dir: public_html/devil/notes/
-          dangerous-clean-slate: true
+      - name: Install lftp
+        run: sudo apt-get install -y lftp
+
+      - name: Deploy via SFTP (mirror with delete)
+        env:
+          SFTP_SERVER: ${{ secrets.SFTP_SERVER }}
+          SFTP_PORT: ${{ secrets.SFTP_PORT }}
+          SFTP_USERNAME: ${{ secrets.SFTP_USERNAME }}
+          SFTP_PASSWORD: ${{ secrets.SFTP_PASSWORD }}
+        run: |
+          lftp -c "set sftp:auto-confirm yes; open sftp://${SFTP_USERNAME}:${SFTP_PASSWORD}@${SFTP_SERVER}:${SFTP_PORT}; mirror -R --delete site/ /public_html/devil/notes/; quit"
