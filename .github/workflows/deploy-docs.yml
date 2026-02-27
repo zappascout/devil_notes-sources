@@ -40,6 +40,6 @@ jobs:
 
       - name: Deploy via SFTP
         run: |
-          lftp -e "set sftp:connect-program 'ssh -a -x -o StrictHostKeyChecking=no'; mirror -R --delete ./site/ /public_html/devil/notes/; quit" \
+          lftp -e "set sftp:connect-program 'ssh -a -x -o StrictHostKeyChecking=no'; mkdir -p /public_html/devil/notes; mirror -R --delete ./site/ /public_html/devil/notes/; quit" \
             -u ${{ secrets.SFTP_USERNAME }},${{ secrets.SFTP_PASSWORD }} \
             sftp://${{ secrets.SFTP_SERVER }}:${{ secrets.SFTP_PORT }}
