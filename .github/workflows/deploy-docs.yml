@@ -35,6 +35,9 @@ jobs:
       - name: Build MkDocs site
         run: mkdocs build --clean
 
+      - name: Add cache-control .htaccess
+        run: cp .htaccess site/.htaccess
+
       - name: Install lftp
         run: sudo apt-get install -y lftp
 
