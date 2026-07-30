@@ -1,41 +1,47 @@
-#**CHAPTER 13**
-##**"Enter the Frankenalgorithm"**
-###p. 267
+# **CHAPTER 13**
+
+## **"Enter the Frankenalgorithm"**
+
+### p. 267
+
 ==For an early summary of the issues around the two 737 Max
 crashes==:
 See *The New York Times*, "[After a Lion Air 737 Max Crashed in
 October, Questions About the Plane Arose][max]," Feb, 3, 2019.
-[max]:https://www.nytimes.com/2019/02/03/world/asia/lion-air-plane-crash-pilots.html
+[max]: <https://www.nytimes.com/2019/02/03/world/asia/lion-air-plane-crash-pilots.html>
 
 ==When detailed reporting of the 737's fall from grace
 appeared==:
 See The Federal Aviation Administration, "[Summary of the
 FAA's Review of the Boeing 737 MAX][sum]," November 18, 2020.
-[sum]:https://www.faa.gov/sites/faa.gov/files/2022-08/737_RTS_Summary.pdf?mod=article_inline
+[sum]: <https://www.faa.gov/sites/faa.gov/files/2022-08/737_RTS_Summary.pdf?mod=article_inline>
 
 ==the FAA had grown cozy with Boeing==:
-For an early summary of the issues around the two 737 Max crashes, see *The New York Times*,
+For an early summary of the issues around the two 737 Max crashes,
+see *The New York Times*,
 "[After a Lion Air 737 Max Crashed in October, Questions About the Plane
 Arose][aft]," Feb, 3, 2019. For a careful and highly readable perspective on
 this see *The New Yorker*, "[The Case Against Boeing][the]," by Alec MacGillis,
 November 11, 2019.
-[aft]:https://www.nytimes.com/2019/02/03/world/asia/lion-air-plane-crash-pilots.html
-[the]:https://www.newyorker.com/magazine/2019/11/18/the-case-against-boeing
+[aft]: <https://www.nytimes.com/2019/02/03/world/asia/lion-air-plane-crash-pilots.html>
+[the]: <https://www.newyorker.com/magazine/2019/11/18/the-case-against-boeing>
 
 ==The Federal Aviation Authority previously stood as a beacon of
 careful software management==:
 see "[The Coming Software Apocalypse][com]," *The Atlantic*, 26 September, 2016
-[com]:https://www.theatlantic.com/technology/archive/2017/09/saving-the-world-from-code/540393/
+[com]: <https://www.theatlantic.com/technology/archive/2017/09/saving-the-world-from-code/540393/>
 
-###268
+### 268
+
 ==Boeing employees knowingly withheld information about the new
 software==:
 "[Boeing Reaches \$2.5 Billion 737 Max Settlement with U.S.][rea],"
 *New York Times*, 7 January, 2021
-[rea]:https://www.nytimes.com/2021/01/07/business/boeing-settlement-justice-department.html
+[rea]: <https://www.nytimes.com/2021/01/07/business/boeing-settlement-justice-department.html>
 
 ==A slew of books on algorithmic bias==:
-Add to these Kyle Chayka's estimable *Filterworld: How Algorithms Flattened Culture*
+Add to these Kyle Chayka's estimable
+*Filterworld: How Algorithms Flattened Culture*
 (2024). In fact, this topic has continued to be lavishly explored: see
 also *More Than a Glitch* by the NYU algorithmic bias researcher
 Meredith Broussard, from 2023, or an excellent interview with her in
@@ -43,9 +49,10 @@ Meredith Broussard, from 2023, or an excellent interview with her in
 who says we should stop using AI so much: Meredith Broussard argues that
 the application of AI to deep-rooted social problems is already
 producing disastrous results][meet]."
-[meet]:https://www.technologyreview.com/2023/03/10/1069602/meredith-broussard-interview/
+[meet]: <https://www.technologyreview.com/2023/03/10/1069602/meredith-broussard-interview/>
 
-###269
+### 269
+
 ==popular TV shows thought to have been canceled algorithmically==:
 "I was disappointed, obviously," [Lisa Hanawalt told
 *Wired*][lisa] in September 2020 after the cancellation of her show *Tuca &
@@ -58,15 +65,16 @@ happens.' The fact that people were as upset as I was felt cathartic,
 because it really did feel unfair. It was nice to have fans banging the
 drum. For months they wouldn't let up.
 With fan support Hanawalt found a new home for the show.
-[lisa]:https://www.wired.com/story/tuca-bertie-lisa-hanawalt/
+[lisa]: <https://www.wired.com/story/tuca-bertie-lisa-hanawalt/>
 
 ==Students . . . marked down for having the temerity not to go
 to a fee-paying school==:
-See "[These students figured out their tests were graded by AI—and the easy way to cheat][these]," *The Verge*, 2
-September, 2020; "[A-levels and GCSEs: How did the exam algorithm work?][a-level],"
+See "[These students figured out their tests were graded by AI—and the easy
+way to cheat][these]," *The Verge*, 2 September, 2020;
+"[A-levels and GCSEs: How did the exam algorithm work?][a-level],"
 *BBC News*, 20 August, 2020.
-[these]:https://www.theverge.com/2020/9/2/21419012/edgenuity-online-class-ai-grading-keyword-mashing-students-school-cheating-algorithm-glitch
-[a-level]:https://www.bbc.com/news/explainers-53807730
+[these]: <https://www.theverge.com/2020/9/2/21419012/edgenuity-online-class-ai-grading-keyword-mashing-students-school-cheating-algorithm-glitch>
+[a-level]: <https://www.bbc.com/news/explainers-53807730>
 
 ==citizens misidentified as criminals or terrorists and arrested
 or refused visas==:
@@ -74,25 +82,28 @@ See Eyal Weizman, "[The algorithm is watching you][weiz],"
 *London Review of Books*, 19 February 2020; *MIT Technology Review*,
 "[The new lawsuit that shows facial recognition is officially a civil
 rights issue][new]," January 9, 2020
-[weiz]:https://www.lrb.co.uk/blog/2020/february/the-algorithm-is-watching-you
-[new]:https://www.technologyreview.com/2021/04/14/1022676/robert-williams-facial-recognition-lawsuit-aclu-detroit-police/
+[weiz]: <https://www.lrb.co.uk/blog/2020/february/the-algorithm-is-watching-you>
+[new]: <https://www.technologyreview.com/2021/04/14/1022676/robert-williams-facial-recognition-lawsuit-aclu-detroit-police/>
 
  =="Have you thought about how you're making a dystopia?":
  Quoted in "[Don't End Up on This Artificial Intelligence Hall of Shame][hall],"
 *Wired*, 3 June, 2021.
-[hall]:https://www.wired.com/story/artificial-intelligence-hall-shame/
+[hall]: <https://www.wired.com/story/artificial-intelligence-hall-shame/>
 
 ==job recruitment algorithms \[MIT\] researchers had identified
 as reductive==:
-For more detail see also *MIT Technology Review*, "[LinkedIn's job-matching AI was biased. The company's solution? More
-AI][linkd]," June 23 2021, and "[Auditors are testing hiring algorithms for bias,
+For more detail see also *MIT Technology Review*,
+"[LinkedIn's job-matching AI was biased. The company's solution? More
+AI][linkd]," June 23 2021, and
+"[Auditors are testing hiring algorithms for bias,
 but there's no easy fix][fix]," 11 February, 2021.
-[linkd]:https://www.technologyreview.com/2021/06/23/1026825/linkedin-ai-bias-ziprecruiter-monster-artificial-intelligence/
-[fix]:https://www.technologyreview.com/2021/02/11/1017955/auditors-testing-ai-hiring-algorithms-bias-big-questions-remain/
+[linkd]: <https://www.technologyreview.com/2021/06/23/1026825/linkedin-ai-bias-ziprecruiter-monster-artificial-intelligence/>
+[fix]: <https://www.technologyreview.com/2021/02/11/1017955/auditors-testing-ai-hiring-algorithms-bias-big-questions-remain/>
 
 ==flung like digital spanners into the works of everything from
 healthcare to law, human rights, and real estate==:
-A lot to choose from here. "[Nobody is catching it: Algorithms used in health care nationwide
+A lot to choose from here.
+"[Nobody is catching it: Algorithms used in health care nationwide
 are rife with bias][rife]," *Stat*, June 21, 2021; "[Real-Estate Agents Look to
 AI for Sales Boost][estate]," *Wall Street Journal*, June 22, 2021;
 "[House-flipping algorithms are coming to your neighborhood: Despite
@@ -101,18 +112,21 @@ of tech-led disruption, just a fumbled beginning][flip]," *MIT Technology
 Review*, April 13, 2022; "[The World Needs Deepfake Experts to Stem This
 Chaos: A crisis over a suspicious confession video in Myanmar
 underscores why we need a coordinated response to discern fact from
-fiction][myan]," *Wired*, June 24, 2021. Governments around the world can be enthusiastic users of algorithms too. For an interesting exploration of why all this
+fiction][myan]," *Wired*, June 24, 2021.
+Governments around the world can be enthusiastic users of algorithms
+too. For an interesting exploration of why all this
 matters, see *Wired*, March 6, 2023, "[Inside the Suspicion Machine][susp]:
 Obscure government algorithms are making life-changing decisions about
 millions of people around the world. Here, for the first time, we reveal
 how one of these systems works."
-[rife]:https://www.statnews.com/2021/06/21/algorithm-bias-playbook-hospitals/
-[estate]:https://www.wsj.com/articles/real-estate-agents-look-to-ai-for-sales-boost-11624394271
-[flip]:https://www.technologyreview.com/2022/04/13/1049227/house-flipping-algorithms-are-coming-to-your-neighborhood/
-[myan]:https://www.wired.com/story/opinion-the-world-needs-deepfake-experts-to-stem-this-chaos/
-[susp]:https://pulitzercenter.org/stories/inside-suspicion-machine
+[rife]: <https://www.statnews.com/2021/06/21/algorithm-bias-playbook-hospitals/>
+[estate]: <https://www.wsj.com/articles/real-estate-agents-look-to-ai-for-sales-boost-11624394271>
+[flip]: <https://www.technologyreview.com/2022/04/13/1049227/house-flipping-algorithms-are-coming-to-your-neighborhood/>
+[myan]: <https://www.wired.com/story/opinion-the-world-needs-deepfake-experts-to-stem-this-chaos/>
+[susp]: <https://pulitzercenter.org/stories/inside-suspicion-machine>
 
-###270
+### 270
+
 ==We might call these workaday algorithms "fixed" or "dumb"==:
 And of course some are dumber than others, but this can still be fiendishly
 hard to prove. When [a driver ran off the road and was killed][ran] in a Toyota
@@ -130,21 +144,22 @@ anticipate all possible circumstances on a real-world road, they have to
 learn and receive constant updates. How do we avoid clashes in such a
 fluid code milieu, especially when the algorithms may also have to
 defend themselves from hackers?
-[ran]:https://www.safetyresearch.net/toyota-unintended-acceleration-and-the-big-bowl-of-spaghetti-code/
+[ran]: <https://www.safetyresearch.net/toyota-unintended-acceleration-and-the-big-bowl-of-spaghetti-code/>
 
-###270
 ==sometimes referred to as artificial general intelligence
 (AGI)==:
 As with most aspects of this field, consensus on definitions and
 terminology can be hard to find, but for the moment the term "AGI"
 suffices for us.
 
-###271
+### 271
+
 ==By the time language models alert the general public . . .
 "AI"-branded Machine learning algorithms at the end of 2022==:
 This was of course ChatGPT.
 
-###272
+### 272
+
 ==less generally capable than a toddler, a crow, a cuttlefish, a
 bee==:
 There's a growing body of research to support this. Try "[Small as
@@ -152,14 +167,25 @@ they are, bumblebee brains are surprisingly capable of mastering novel,
 complex tasks][bee]," *Smithsonian Magazine*; "[Bees are really highly
 intelligent: the insect IQ tests causing a buzz among scientists][intel]," *The
 Guardian*, 16 July, 2022
-[bee]:https://www.smithsonianmag.com/science-nature/bees-can-learn-play-soccer-score-one-insect-intelligence-180962292/
-[intel]:https://www.theguardian.com/environment/2022/jul/16/bees-are-really-highly-intelligent-the-insect-iq-tests-causing-a-buzz-among-scientists
+[bee]: <https://www.smithsonianmag.com/science-nature/bees-can-learn-play-soccer-score-one-insect-intelligence-180962292/>
+[intel]: <https://www.theguardian.com/environment/2022/jul/16/bees-are-really-highly-intelligent-the-insect-iq-tests-causing-a-buzz-among-scientists>
+
+==Is it overdramatic to call these code chimeras “Frankenalgorithms”?==:
+In 2026 we get an emphatic answer to this question.
+See "[OpenAI Says Its A.I. Models Went Rogue and Attacked a Digital
+Library][rogue]," *New York Times*, 21 July, 2026 and
+"[Digital arson spree by ‘AI Bonnie and Clyde’ raises fears over
+autonomous tech: Emergence AI’s experiment with AI agents shows extent
+to which programming shapes their behaviour is still unclear][spree],"
+*The Guardian*, 14 May, 2026
+[rogue]: <https://www.nytimes.com/2026/07/21/technology/openai-attack-hugging-face.html>
+[spree]: <https://www.theguardian.com/technology/2026/may/14/ai-agents-behaviour-arson-safety?mc_cid=93098036bb&mc_eid=42e32a91e2>
 
 ==an article about High Frequency Trading (HFT) on the stock
 market==:
 See "[Fast money: the battle against the high frequency
 traders][fast]," *The Guardian*, 7 June, 2014.
-[fast]:https://www.theguardian.com/business/2014/jun/07/inside-murky-world-high-frequency-trading
+[fast]: <https://www.theguardian.com/business/2014/jun/07/inside-murky-world-high-frequency-trading>
 
 ==At this time of writing no machine comes close to demonstrating
 . . . transfer learning==:
@@ -184,27 +210,31 @@ like predict rain with an accuracy no one has ever achieved before.
 Maybe that's enough? The *New Yorker* article "[Artificial Intelligence
 Goes to the Arcade][arcade]" was written a decade ago, yet the situation it
 describes has changed remarkably little since.
-[arcade]:https://www.newyorker.com/tech/annals-of-technology/deepmind-artificial-intelligence-video-games
+[arcade]: <https://www.newyorker.com/tech/annals-of-technology/deepmind-artificial-intelligence-video-games>
 
-###273
+### 273
+
 ==Johnson's paper on the subject was published in the journal
 *Nature*==:
 It's fascinating and is called "[Abrupt rise of new machine
 ecology beyond human response time][abrupt]," *Nature*, 11 September 2013.
-[abrupt]:https://www.nature.com/articles/srep02627
+[abrupt]: <https://www.nature.com/articles/srep02627>
 
-###275
+### 275
+
 ==a diverse international group of scientists and social
 scientists . . . positing its study as a "crisis discipline" like
 climate science==:
 In "[Stewardship of global collective behavior][behav],"
 *Proceedings of the National Academy of Sciences of the United States of
 America* (PNAS), 6 July, 2021.
-[behav]:https://www.pnas.org/doi/10.1073/pnas.2025764118
+[behav]: <https://www.pnas.org/doi/10.1073/pnas.2025764118>
 
-###276
+### 276
+
 ==threads from bemused sellers== on Amazon:
-Here's an unedited sample post from one of these threads, dating to October 2015.
+Here's an unedited sample post from one of these threads, dating to
+October 2015.
 >I have a spreadsheet matrix where data is recorded and weighted as needed.
 Usually pretty accurate for sales forecasts, most days in a year are
 within the boundaries on the graph. This year, this past quarter plus
@@ -215,10 +245,12 @@ expected range for say April or May. Which is muted compared to what
 expected current sales should be. Talking to the creator of the
 spreadsheet he says others are reporting similar issues. He hasn't said
 how many.
-A software package called Simularity was written (and sold on Amazon) to help manage this unpredictability.
+A software package called Simularity was written (and sold on Amazon)
+to help manage this unpredictability.
 
 ==and at least one academic paper from 2016==:
-see "[An Empirical Analysis of Algorithmic Pricing on Amazon Marketplace][pricing]."
+see "[An Empirical Analysis of Algorithmic Pricing on Amazon
+Marketplace][pricing]."
 The summarizing abstract begins:
 >While algorithmic pricing can make merchants more
 competitive, it also creates new challenges. Examples have emerged of
@@ -228,12 +260,14 @@ where algorithms were intentionally designed to implement price fixing.
 Unfortunately, the public currently lack comprehensive knowledge about
 the prevalence and behavior of algorithmic pricing algorithms
 in-the-wild.
-More recently, concern has turned to the in some ways scarier phenomenon of algorithms learning to collude with each other, as
+More recently, concern has turned to the in some ways scarier
+phenomenon of algorithms learning to collude with each other, as
 explained in papers with titles like "[Potential AI-Driven Algorithmic
-Collusion and Influential Factors in Construction Bidding][factors]" (as published
+Collusion and Influential Factors in Construction Bidding][factors]"
+(as published
 in the *Journal of Computing in Civil Engineering* on July 1, 2024.)
-[pricing]:https://dl.acm.org/doi/10.1145/2872427.2883089>
-[factors]:https://ascelibrary.org/doi/10.1061/JCCEE5.CPENG-5683
+[pricing]: <https://dl.acm.org/doi/10.1145/2872427.2883089>
+[factors]: <https://ascelibrary.org/doi/10.1061/JCCEE5.CPENG-5683>
 
 ==Facebook long knew their algorithms caused harm==:
 One especially egregious revelation was that the company knew a tyrannical
@@ -243,21 +277,24 @@ refugees and reserve special contempt for the company's deliberate
 failings in this regard. See "[Facebook knew of Honduran president's
 manipulation campaign—and let it continue for 11 months][month]," *The
 Guardian*, 13 April, 2021.
-[month]:https://www.theguardian.com/technology/2021/apr/13/facebook-honduras-juan-orlando-hernandez-fake-engagement
+[month]: <https://www.theguardian.com/technology/2021/apr/13/facebook-honduras-juan-orlando-hernandez-fake-engagement>
 
-###277
+### 277
+
 ==Unlike our old electromechanical systems, these new algorithms
 . . . are also impossible to test exhaustively==:
-Nancy Leveson, a professor of aeronautics and astronautics at MIT who has been studying
+Nancy Leveson, a professor of aeronautics and astronautics at MIT who
+has been studying
 software safety for 35 years (and is known for her report into software
 failures in a radiation therapy machine that killed six people), told
 *The Atlantic* ("[The Coming Software Apocalypse][apoc]," 26 September, 2017)
 that "We used to be able to think through all the things it could do,
 all the states it could get into." Now the problem, she notes in her book
-[*Engineering a Safer World*][safer], "is that we are attempting to build systems that are beyond our ability
+[*Engineering a Safer World*][safer], "is that we are attempting to
+build systems that are beyond our ability
 to intellectually manage."
-[apoc]:https://www.theatlantic.com/technology/archive/2017/09/saving-the-world-from-code/540393/
-[safer]:https://www.amazon.com/Engineering-Safer-World-Systems-Thinking/dp/0262533693/ref=sr_1_1?dchild=1&keywords=nancy+leveson&qid=1634473691&sr=8-1
+[apoc]: <https://www.theatlantic.com/technology/archive/2017/09/saving-the-world-from-code/540393/>
+[safer]: <https://www.amazon.com/Engineering-Safer-World-Systems-Thinking/dp/0262533693/ref=sr_1_1?dchild=1&keywords=nancy+leveson&qid=1634473691&sr=8-1>
 
 =="Many in Silicon Valley promised that self-driving cars would
 be a common sight by 2021"==:
@@ -266,55 +303,62 @@ follows a pattern set by Valley marketeers. Was something like [the
 destruction of a Waymo robocar][robo] by a crowd in San Francisco in February,
 2024 inevitable? Lord Byron, having defended the Luddites in the House
 of Lords, would probably say, "Yes."
-[robo]:https://www.theverge.com/2024/2/11/24069251/waymo-driverless-taxi-fire-vandalized-video-san-francisco-china-town
+[robo]: <https://www.theverge.com/2024/2/11/24069251/waymo-driverless-taxi-fire-vandalized-video-san-francisco-china-town>
 
 ==Dyson first told me in 2018 . . . that he doubted we would ever
 see autonomous cars roam freely through city streets==:
-Dyson is no longer alone in his doubts. See *The Guardian*, January 3, 2021, "['Peak
+Dyson is no longer alone in his doubts. See *The Guardian*, January 3,
+2021, "['Peak
 hype'][hype]: why the driverless car revolution has stalled," or "[The Costly
 Pursuit of Self-Driving Cars Continues On. And On. And On][self]: Many in
 Silicon Valley promised that self-driving cars would be a common sight
 by 2021. Now the industry is resetting expectations and settling in for
 years of more work," *The New York Times*, September 15, 2021.
-[hype]:https://www.theguardian.com/technology/2021/jan/03/peak-hype-driverless-car-revolution-uber-robotaxis-autonomous-vehicle
-[self]:https://www.nytimes.com/2021/05/24/technology/self-driving-cars-wait.html
+[hype]: <https://www.theguardian.com/technology/2021/jan/03/peak-hype-driverless-car-revolution-uber-robotaxis-autonomous-vehicle>
+[self]: <https://www.nytimes.com/2021/05/24/technology/self-driving-cars-wait.html>
 
 ==Tesla caused a stir in April 2021 by allowing for the first
 time that it may not produce self-driving cars==:
-This in the company's 2021 first quarter earnings report filing, under risk factors. Available
+This in the company's 2021 first quarter earnings report filing, under
+risk factors. Available
 on the Securities and Exchange Commission website, also reported by
 *Fast Company* on 28 April, 2021, as "[Tesla admits it may never achieve
 full-self-driving cars][tes]."
-[tes]:https://www.fastcompany.com/90630440/tesla-admits-it-may-never-achieve-full-self-driving-cars
+[tes]: <https://www.fastcompany.com/90630440/tesla-admits-it-may-never-achieve-full-self-driving-cars>
 
 ==Uber bailed in 2020==:
-See "[Uber Gives Up on the Self-Driving Dream][dream]," *Wired*, 12 July 2020 and "[Why Uber's business model is
-doomed][ubers]," *The Guardian*, by [Aaron Benanav][aaron], a researcher at Humboldt University of Berlin and author of *Automation and the Future of Work*.
-[dream]:https://www.wired.com/story/uber-gives-up-self-driving-dream/
-[ubers]:https://www.theguardian.com/commentisfree/2020/aug/24/gig-economy-uber-lyft-insecurity-crisis
-[aaron]:https://www.theguardian.com/profile/aaron-benanav
+See "[Uber Gives Up on the Self-Driving Dream][dream]," *Wired*,
+12 July 2020 and "[Why Uber's business model is
+doomed][ubers]," *The Guardian*, by [Aaron Benanav][aaron],
+a researcher at Humboldt University of Berlin and author of
+*Automation and the Future of Work*.
+[dream]: <https://www.wired.com/story/uber-gives-up-self-driving-dream/>
+[ubers]: <https://www.theguardian.com/commentisfree/2020/aug/24/gig-economy-uber-lyft-insecurity-crisis>
+[aaron]: <https://www.theguardian.com/profile/aaron-benanav>
 
 ==Amazon bought the San Francisco "autonomous taxi" startup Zoox
 in 2020==:
 *IoT News*, 19 October, 2021, "[Amazon's self-driving vehicle
 brand Zoox to begin Seattle tests][zoox]."
-[zoox]:https://www.seattletimes.com/business/amazons-autonomous-cars-unit-zoox-expands-testing-to-seattle/
+[zoox]: <https://www.seattletimes.com/business/amazons-autonomous-cars-unit-zoox-expands-testing-to-seattle/>
 
 ==Tesla . . . moving into hot water with regulators by the end of
 the year==:
 see "[Tesla Recalls 'Self-Driving' Software Update That Made
 Cars 'Undrivable][undrive],'" *Vice*, October 25, 2021.
-[undrive]:https://www.vice.com/en/article/7kbzaz/tesla-recalls-self-driving-software-update-that-made-cars-undrivable
+[undrive]: <https://www.vice.com/en/article/7kbzaz/tesla-recalls-self-driving-software-update-that-made-cars-undrivable>
 
-###278
+### 278
+
 ==allowing us to see a damaged Rembrandt as the master intended==:
 "[AI restores missing figures from Rembrandt's 'Night Watch'][missing],"
 *ArtReview*, 23 June, 2021.
-[missing]:https://artreview.com/ai-restores-missing-figures-from-rembrandt-night-watch/
+[missing]: <https://artreview.com/ai-restores-missing-figures-from-rembrandt-night-watch/>
 
 ==the emphasis on machine learning techniques (loosely) based on
 the brain's neural networks==:
-DeepMind's English founder Demis Hassabis is a truly remarkable man, something very like a genius, beloved of his
+DeepMind's English founder Demis Hassabis is a truly remarkable man,
+something very like a genius, beloved of his
 fellow students at Oxford, reportedly humble and with a very well
 developed sense of his own debt to others. Word is that when Google were
 allowed to buy the company, contractual undertakings were insisted upon
@@ -324,32 +368,40 @@ place without being an asshole. A brief search online turns up many
 reports that this undertaking has come under pressure in recent years,
 though I've seen nothing definitive on any supposed schism.
 
-###279
+### 279
+
 ==We have . . . built machines we do not understand==:
 From the annual journal *Edge*, in "[2015: What do you think about machines that
 think?][thinky]."
-[thinky]:https://www.edge.org/annual-question/what-do-you-think-about-machines-that-think
+[thinky]: <https://www.edge.org/annual-question/what-do-you-think-about-machines-that-think>
 
 ==Max Newman claimed his friend Turing was talking and thinking
 about AI from the very beginning==:
 As reported in Jack Copeland's *Turing: Pioneer of the Information Age*.
 
-###280
+### 280
+
+==“a new golden age for philosophy”==:
+Seems it's here now. See *The Atlantic*, 3 June 2026, "[Someone Finally Wants to Hire Philosophers: Silicon Valley is turning to ethicists to shape the future of AI.][phil]" 
+[phil]: <https://www.theatlantic.com/technology/2026/06/ai-companies-hiring-philosophers/687417/?utm_source=feed&mc_cid=1e1ddb3613&mc_eid=42e32a91e2>
+
 ==our existing system of tort law, which requires proof of
 intention or negligence, will need to be rethought==:
 For a deeper understanding of these issues, see *TechCrunch*, "[Artificial
 intelligence and the law][law]," by Jeremy Elman and Abel Castilla. For a more
 recent and interestingly different take on the subject, try this
-identically-titled article from [*Stanford Lawyer*][stanfd], published in December
+identically-titled article from [*Stanford Lawyer*][stanfd], published
+in December
 2023.
-[law]:https://techcrunch.com/2017/01/28/artificial-intelligence-and-the-law/
-[stanfd]:https://law.stanford.edu/stanford-lawyer/articles/artificial-intelligence-and-the-law/
+[law]: <https://techcrunch.com/2017/01/28/artificial-intelligence-and-the-law/>
+[stanfd]: <https://law.stanford.edu/stanford-lawyer/articles/artificial-intelligence-and-the-law/>
 
-###281
+### 281
+
 ==robotic Samsung SGR-A1 sharpshooters==:
 This intel from Wikipedia, no less, but for more detail and context try *Defense
 Review*, "[Samsung Techwin SGR-A1 Sentry Guard Robot][sam]."
-[sam]:https://defensereview.com/samsung-sgr-a1-armedweaponized-robot-sentry-or-sentry-robot-remote-weapons-station-rws-finally-ready-for-prime-time/
+[sam]: <https://defensereview.com/samsung-sgr-a1-armedweaponized-robot-sentry-or-sentry-robot-remote-weapons-station-rws-finally-ready-for-prime-time/>
 
 ==Russia, China and the United States all profess to be at
 various stages of developing swarms of coordinated, weaponized
@@ -359,22 +411,28 @@ no longer need to wonder about weaponized drones, which have been
 extensively used by both sides in the Ukraine war, and in Gaza. There is
 a profound difference between automated weapons guided by humans and
 those given complete autonomy and beyond human control once launched. As
-I write this entry in June 2024, the situation here is unclear, though
-by the time you read it things might be clearer. In July
-2017 *Newsweek* laid out the issues in "[Russia's Military Challenges
+I originally wrote this entry in June 2024, when the truth was still opaque. By mid-2026 it was clear: see "[Fully autonomous drones have killed human soldiers for the first time][deadly]," *New Scientist*, 10 June 2026. In July 2017 *Newsweek* laid out the issues in "[Russia's Military Challenges
 U.S. and China By Building a Missile That Makes Its Own Decisions][rus]."
-[rus]:https://www.newsweek.com/russia-military-challenge-us-china-missile-own-decisions-639926
+[rus]: <https://www.newsweek.com/russia-military-challenge-us-china-missile-own-decisions-639926>
+[deadly]: <https://www.newscientist.com/article/2529849-fully-autonomous-drones-have-killed-human-soldiers-for-the-first-time/?mc_cid=f03594424e&mc_eid=42e32a91e2>
 
 ==United Nations Security Council reported what may have been the
 first instance of AI-driven lethal autonomous military drones hunting
 down humans==:
 as reported in *New Scientist*, "[Drones may have attacked
 humans fully autonomously for the first time][drones]," 27 May 2021.
-[drones]:https://www.newscientist.com/article/2278852-drones-may-have-attacked-humans-fully-autonomously-for-the-first-time/
+[drones]: <https://www.newscientist.com/article/2278852-drones-may-have-attacked-humans-fully-autonomously-for-the-first-time/>
 
-###282
+==where the military goes, domestic law enforcement tends to follow==:
+To no one's surprise, the Trump administration has embraced this opportunity. "[Is the Pentagon allowed to surveil Americans with AI?: Artificial intelligence is supercharging surveillance, and the law has not caught up with it.][pent]," *MIT Technology Review, 26 March 2026
+[pent]: <https://www.technologyreview.com/2026/03/06/1134012/is-the-pentagon-allowed-to-surveil-americans-with-ai/?utm_source=the_download&utm_medium=email&utm_campaign=the_download.unpaid.engagement&utm_term=Active%20Qualified&utm_content=06-30-2026&mc_cid=35c0df8ab7&mc_eid=42e32a91e2>
+
+### 282
+
 ==the dangerous inefficiency of these weapons==:
-See the [*New York Times* report][york] on this incident. Professor Lucy Suchman offers me statistics that shed chilling light on this issue. According to analysis carried out on drone attacks in
+See the [*New York Times* report][york] on this incident. Professor
+Lucy Suchman offers me statistics that shed chilling light on this
+issue. According to analysis carried out on drone attacks in
 Pakistan from 2003-13, fewer than 2% of people killed in this way are
 confirmable as "high value" targets presenting a clear threat to the
 United States. In the region of 20% are held to be non-combatants,
@@ -382,18 +440,26 @@ leaving more than 75% unknown. Even if these figures were out by a
 factor of two—or three, or four—they would give any reasonable
 person pause. Easy to see why "AI" might look like a tempting quick
 fix for the Pentagon, while being a disaster for human rights.
-[york]:https://www.nytimes.com/2021/09/17/us/politics/pentagon-drone-strike-afghanistan.html
+[york]: <https://www.nytimes.com/2021/09/17/us/politics/pentagon-drone-strike-afghanistan.html>
 
 ==competitors including Amazon and Microsoft have shown no
 inclination to follow suit==:
 *Reuters*, "[The fight by Microsoft and
 Amazon for the Pentagon's cloud contract][fight]," July 6, 2021.
-[fight]:https://www.reuters.com/technology/pentagons-cloud-deal-latest-trump-move-halted-by-biden-2021-07-06/
+[fight]: <https://www.reuters.com/technology/pentagons-cloud-deal-latest-trump-move-halted-by-biden-2021-07-06/>
 
-###284
+### 283
+
+==At which Point it becomes even less accountable and open to questioning. It's a really bad idea.==:
+"[‘We should be worried’: report sheds light on ICE’s booming arsenal of hi-tech surveillance tools][surv]," *The Guardian*, 24 June 2026
+[surv]: <https://www.theguardian.com/us-news/2026/jun/24/ice-tech-surveillance-arsenal?mc_cid=35c0df8ab7&mc_eid=42e32a91e2>
+
+### 284
+
 ==algorithmic warfare muddies the water in ways we may grow to
 regret==:
-Yes, and believe it or not there was a pre-crazy-rich-guy-Twitter-troll period when even Elon Musk worried
+Yes, and believe it or not there was a pre-crazy-rich-guy-Twitter-troll
+period when even Elon Musk worried
 mightily about this issue. Back in 2017, *Vanity Fair* was reporting
 ("Elon Musk's Billion-Dollar Crusade to Stop the A.I. Apocalypse") that:
 >In a startling public reproach to his friends and fellow techies, Musk
@@ -405,11 +471,13 @@ perfectly good intentions but still 'produce something evil by
 accident'—including, possibly, 'a fleet of artificial
 intelligence-enhanced robots capable of destroying mankind.'
 
-###285
+### 285
+
 ==Paul Wilmott, a British expert in quantitative analysis (a
 "quant") who was closely involved in the battle against financial
 meltdown in 2008==:
-Anyone who wants a good fright should spend half an hour talking to Wilmott about how close we came to a complete meltdown
+Anyone who wants a good fright should spend half an hour talking to
+Wilmott about how close we came to a complete meltdown
 of global finance systems after the collapse of Lehman Brothers in 2008,
 a prospect he was closely involved in trying to avert.
 
@@ -418,4 +486,4 @@ its code of ethics along the lines of medicine's Hippocratic oath==:
 See "[Statement on Algorithmic Transparency and Accountability][acm]" by the ACM
 U.S. Public Policy Council, approved January 12, 2017 in the U.S., a few
 months later in Europe.
-[acm]:https://www.acm.org/binaries/content/assets/public-policy/2017_usacm_statement_algorithms.pdf
+[acm]: <https://www.acm.org/binaries/content/assets/public-policy/2017_usacm_statement_algorithms.pdf>
