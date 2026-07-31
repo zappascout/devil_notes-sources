@@ -152,7 +152,7 @@ technology in general with utmost caution==:
 "[Silicon Valley parents
 banning tech for their kids][beeb]", *BBC News*, 5 June 2019; "[Silicon Valley
 parents are raising their kids tech-free - and it should be a red
-flag][techfree]," *Business Insider*, Feb 18, 2018; "[Tablets out, imagination in: the schools that shun technology][tab]," *The Guardian*, 2 December, 2015. By 2026 the first thorough research was arriving to shoe why we should all follow their lead: see "[Is AI ruining our skills? Early results are in — and they’re not good][ruin]", *Nature*, 18 June 2026. And again, the tech companies' carelessness is being noticed (try) "[University of Arizona students boo Eric Schmidt’s AI cheerleading during commencement: SiIicon Valley can’t seem to read the room.][eric]" *The Verge*, 17 May 2026, or "[Resistance: A populist backlash is building against AI.][resist]" *MIT Technology Review*, 21 April 2026.
+flag][techfree]," *Business Insider*, Feb 18, 2018; "[Tablets out, imagination in: the schools that shun technology][tab]," *The Guardian*, 2 December, 2015. By 2026 the first thorough research was arriving to show why we should all follow their lead: see "[Is AI ruining our skills? Early results are in — and they’re not good][ruin]", *Nature*, 18 June 2026. And again, the tech companies' carelessness is being noticed...try "[University of Arizona students boo Eric Schmidt’s AI cheerleading during commencement: SiIicon Valley can’t seem to read the room][eric]," *The Verge*, 17 May 2026, or "[Resistance: A populist backlash is building against AI][resist]," *MIT Technology Review*, 21 April 2026.
 [beeb]: <https://www.bbc.com/news/av/world-us-canada-48533999>
 [techfree]: <https://www.businessinsider.com/silicon-valley-parents-raising-their-kids-tech-free-red-flag-2018-2?op=1>
 [tab]: <https://www.theguardian.com/teacher-network/2015/dec/02/schools-that-ban-tablets-traditional-education-silicon-valley-london>
@@ -161,7 +161,7 @@ flag][techfree]," *Business Insider*, Feb 18, 2018; "[Tablets out, imagination i
 [resist]: <https://www.technologyreview.com/2026/04/21/1135665/resistance-ai-artificial-intelligence-backlash-protests/?utm_source=the_download&utm_medium=email&utm_campaign=the_download.unpaid.engagement&utm_term=Active%20Qualified&utm_content=05-15-2026&mc_cid=850eb8e9a8&mc_eid=42e32a91e2>
 
 ==It would take a bold soul to bet that automated programming stops there==:
-As we know by now (2026), it very definitely didn't stop there. As I update these notes I find the code assistants (now integrated into my editor) incredibly useful in reducing grunt work—these are truly amazing tools. I do find, however, that I need to understand what I (and they) are doing because, impressive as they've become, the assistants are still liable to lead one up the garden path on occasion. One thing I enjoy, though, is that even for the bots the code often behaves differently to how they expected, forcing them to reconfigure. Just like me, but faster. And useless at fixing a martini.
+As we know by now (2026), it very definitely didn't stop there. As I update these notes I find the code assistants (now integrated into my editor) incredibly useful in reducing grunt work—these are truly amazing tools. I do find, however, that I need to understand what I (and they) are doing because, impressive as they've become, the assistants are still liable to lead me up the garden path on occasion. One thing I enjoy, though, is that even for the bots the code often behaves differently to how they expected, forcing them to reconfigure. Just like me, but faster. And useless at fixing a martini.
 
 ==Right now \[computer science is\] thought of . . . as basically
 vocational training with Java==:
@@ -268,7 +268,7 @@ could be the ones to benefit][psych]," *MIT Technology Review*, August 10, 2022.
 [psych]: <https://www.technologyreview.com/2022/08/10/1057146/psychedelics-scentific-research-women/>
 
 ==Technologies that work and are virtuous demand no sustained attention==:
-This one for instance: "[Dancer with MND performs on stage again through digital avatar][dance]", BBC, 10 April 2026.
+This one for instance: "[Dancer with MND performs on stage again through digital avatar][dance]," BBC, 10 April 2026.
 [dance]: <https://www.bbc.com/news/articles/cgqkz5lzvnwo?mc_cid=9f1872dc1e&mc_eid=42e32a91e2>
 
 ### 404
