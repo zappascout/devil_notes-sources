@@ -1,6 +1,9 @@
-#**CHAPTER 18**
-##**"A Cloud Lifts"**
-###p. 396
+# **CHAPTER 18**
+
+## **"A Cloud Lifts"**
+
+### p. 396
+
 ==The EU set the ball rolling with first attempts to establish
 ethical frameworks around privacy and data protection==:
 See "[How
@@ -15,12 +18,12 @@ August 5, 2021. On a more cautious note: "[We take a look at proposed Big
 Tech regulations in the UK: Heavy on possible fines, light on
 enforcement (Online Harms draft gets most things right, still gives
 Facebook and friends too much leeway)][uk]," *The Register*, 16 December, 2020.
-[tech]:https://www.cnbc.com/2021/03/25/big-tech-how-europe-became-the-worlds-top-regulator.html
-[big]:https://arstechnica.com/tech-policy/2023/08/big-tech-isnt-ready-for-landmark-eu-rules-that-take-effect-tomorrow/
-[bil]:https://www.reuters.com/technology/facebook-faces-32-bln-uk-class-action-over-market-dominance-2022-01-14/
-[fed]:https://www.wsj.com/articles/federal-trade-commission-expected-to-launch-effort-to-expand-online-privacy-protection-11660182122
-[ftc]:https://www.bloomberg.com/news/articles/2022-08-05/meta-agrees-to-pause-purchase-of-within-as-ftc-lawsuit-proceeds
-[uk]:https://www.theregister.com/2020/12/16/uk_online_harms/
+[tech]: <https://www.cnbc.com/2021/03/25/big-tech-how-europe-became-the-worlds-top-regulator.html>
+[big]: <https://arstechnica.com/tech-policy/2023/08/big-tech-isnt-ready-for-landmark-eu-rules-that-take-effect-tomorrow/>
+[bil]: <https://www.reuters.com/technology/facebook-faces-32-bln-uk-class-action-over-market-dominance-2022-01-14/>
+[fed]: <https://www.wsj.com/articles/federal-trade-commission-expected-to-launch-effort-to-expand-online-privacy-protection-11660182122>
+[ftc]: <https://www.bloomberg.com/news/articles/2022-08-05/meta-agrees-to-pause-purchase-of-within-as-ftc-lawsuit-proceeds>
+[uk]: <https://www.theregister.com/2020/12/16/uk_online_harms/>
 
 ==I expect to be doing this for the rest of my life==:
 If learning
@@ -43,7 +46,8 @@ See "F.T.C. Sues to Block Meta's Virtual
 Reality Deal as It Confronts Big Tech," *New York Times*, July 27, 2022.
 []:https://www.nytimes.com/2022/07/27/technology/meta-facebook-vr-ftc.html
 
-###397
+### 397
+
 ==it took seconds to sense the fingerprints of mainstream
 Silicon Valley==:
 This infiltration doesn't always come from the Valley
@@ -52,8 +56,9 @@ appeal to parents in the catchment area. For a glimpse of how this
 works, try *Education Week*, November 1, 2017, "[Schools Take a Page From
 Silicon Valley With 'Scrum' Approach][scrum]," about schools borrowing the
 programming idea of Agile project management directly from big business.
-I could cite many similar examples, both in Silicon Valley and (increasingly) elsewhere.
-[scrum]:https://www.edweek.org/leadership/schools-take-a-page-from-silicon-valley-with-scrum-approach/2017/11
+I could cite many similar examples, both in Silicon Valley and (increasingly)
+elsewhere.
+[scrum]: <https://www.edweek.org/leadership/schools-take-a-page-from-silicon-valley-with-scrum-approach/2017/11>
 
 ==how does an Amazon CEO justify earning *6,000 times* the median
 salary at his company==:
@@ -62,8 +67,8 @@ in 1989 and 21 in 1965) . . . mindboggling details in "[Amazon CEO Andy
 Jassy earned 6,474 times the median Amazon employee's salary][jassy],"
 *Fortune*, June 2, 2022; Economic Policy Institute, "[CEO pay has
 skyrocketed 1,322% since 1978][pay]", August 10, 2021.
-[jassy]:https://fortune.com/2022/06/02/fortune-500-amazon-ceo-andy-jassy-compensation/
-[pay]:https://www.epi.org/publication/ceo-pay-in-2020/
+[jassy]: <https://fortune.com/2022/06/02/fortune-500-amazon-ceo-andy-jassy-compensation/>
+[pay]: <https://www.epi.org/publication/ceo-pay-in-2020/>
 
 ==at the end of 2022 Google and Twitter featured prominently in a
 roster of companies trumpeting support for democracy, sex, gender and
@@ -76,18 +81,19 @@ corporate cash could help make an extremist the next governor of
 Pennsylvania][cash]," from the same source on July 28, 2022, along with "[These
 25 rainbow-flag waving companies donated $13 million to anti-gay
 politicians since 2021][gay]," June 2, 2022.
-[twit]:https://popular.info/p/twitter-donates-25000-to-anti-abortion?utm_source=publication-search
-[cash]:https://popular.info/p/how-corporate-cash-could-help-make
-[gay]:https://popular.info/p/lgbtq2022?utm_source=publication-search
+[twit]: <https://popular.info/p/twitter-donates-25000-to-anti-abortion?utm_source=publication-search>
+[cash]: <https://popular.info/p/how-corporate-cash-could-help-make>
+[gay]: <https://popular.info/p/lgbtq2022?utm_source=publication-search>
 
-###398
+### 398
+
 ==as the *Silicon Valley* showrunner Alec Berg noted in
 explaining why he and partner Mike Judge pulled the plug on their
 popular show in 2019==:
 As reported in "['Silicon Valley' Showrunners Talk
 Ending HBO Series: 'It's a Different Kind of Comedy Now,'][berg]" *The
 Hollywood Reporter*, December 8, 2019.
-[berg]:https://www.hollywoodreporter.com/tv/tv-news/silicon-valley-finale-explained-showrunners-mike-judge-alec-berg-break-down-final-episode-hbo-comedy-1260546/
+[berg]: <https://www.hollywoodreporter.com/tv/tv-news/silicon-valley-finale-explained-showrunners-mike-judge-alec-berg-break-down-final-episode-hbo-comedy-1260546/>
 
 ==school curricula are moving this way==:
 "[A new curriculum for
@@ -95,9 +101,9 @@ the Netherlands including Computational Thinking][neth]", *LearnTechLib*, June
 24, 2019; "[Paving the Way for Computer Science in German Schools][sci]",
 *Researchgate*, August 2018; "[National curriculum in England: computing
 programmes of study][eng]."
-[neth]:https://academicexperts.org/conf/glearn/2019/papers/55328/
-[sci]:https://www.semanticscholar.org/paper/Paving-the-Way-for-Computer-Science-in-German-Schroeder-Bergner/24e1576c12347fba5c36dd3e104f09494b71077e
-[eng]:https://www.gov.uk/government/publications/national-curriculum-in-england-computing-programmes-of-study
+[neth]: <https://academicexperts.org/conf/glearn/2019/papers/55328/>
+[sci]: <https://www.semanticscholar.org/paper/Paving-the-Way-for-Computer-Science-in-German-Schroeder-Bergner/24e1576c12347fba5c36dd3e104f09494b71077e>
+[eng]: <https://www.gov.uk/government/publications/national-curriculum-in-england-computing-programmes-of-study>
 
 ==Calls for kids to be taught programming from as young as three
 grow by the year==:
@@ -113,17 +119,19 @@ the earliest possible age, as young as three—an idea repeated many
 times and with escalating urgency since. See "[Dame Stephanie Shirley:
 'we were part of a crusade to get women into business][dame],'" *The
 Guardian*, 8 March, 2017.
-[dame]:https://www.theguardian.com/small-business-network/2017/mar/08/dame-stephanie-shirley-flexible-remote-working-glass-ceiling
+[dame]: <https://www.theguardian.com/small-business-network/2017/mar/08/dame-stephanie-shirley-flexible-remote-working-glass-ceiling>
 
-###399
+### 399
+
 ==most continental European educators introduce these skills
 later than is conventional in the Anglosphere==:
 For a good digest of
 this issue see "[Are We Teaching Children to Read Too Early?][chil]," Teachers
 College Press, Teachers College, Columbia University.
-[chil]:https://www.tcpress.com/blog/literacy-in-early-childhood/
+[chil]: <https://www.tcpress.com/blog/literacy-in-early-childhood/>
 
-###400
+### 400
+
 ==You are preparing them to write code==:
 Having raised two
 children, I couldn't agree more with Morgan when he adds:
@@ -137,17 +145,23 @@ hobby, in every life. When we force kids to learn syntax, we reinforce
 the idea that if something is not a blatantly employable skill, it's not
 valuable.
 
-###401
+### 401
+
 ==many Silicon Valley tech parents . . . treat code, screens,
 technology in general with utmost caution==:
 "[Silicon Valley parents
-banning tech for their kids][beeb]", BBC News, 5 June 2019; "[Silicon Valley
-parents are raising their kids tech-free - and it should be a red flag][techfree],"
-*Business Insider*, Feb 18, 2018; "[Tablets out, imagination in: the
-schools that shun technology][tab]," *The Guardian*, 2 December, 2015.
-[beeb]:https://www.bbc.com/news/av/world-us-canada-48533999
-[techfree]:https://www.businessinsider.com/silicon-valley-parents-raising-their-kids-tech-free-red-flag-2018-2?op=1
-[tab]:https://www.theguardian.com/teacher-network/2015/dec/02/schools-that-ban-tablets-traditional-education-silicon-valley-london
+banning tech for their kids][beeb]", *BBC News*, 5 June 2019; "[Silicon Valley
+parents are raising their kids tech-free - and it should be a red
+flag][techfree]," *Business Insider*, Feb 18, 2018; "[Tablets out, imagination in: the schools that shun technology][tab]," *The Guardian*, 2 December, 2015. By 2026 the first thorough research was arriving to shoe why we should all follow their lead: see "[Is AI ruining our skills? Early results are in — and they’re not good][ruin]", *Nature*, 18 June 2026. And again, the tech companies' carelessness is being noticed (try) "[University of Arizona students boo Eric Schmidt’s AI cheerleading during commencement: SiIicon Valley can’t seem to read the room.][eric]" *The Verge*, 17 May 2026, or "[Resistance: A populist backlash is building against AI.][resist]" *MIT Technology Review*, 21 April 2026.
+[beeb]: <https://www.bbc.com/news/av/world-us-canada-48533999>
+[techfree]: <https://www.businessinsider.com/silicon-valley-parents-raising-their-kids-tech-free-red-flag-2018-2?op=1>
+[tab]: <https://www.theguardian.com/teacher-network/2015/dec/02/schools-that-ban-tablets-traditional-education-silicon-valley-london>
+[ruin]: <https://www.nature.com/articles/d41586-026-01947-1?mc_cid=214de050c5&mc_eid=42e32a91e2>
+[eric]: <https://www.theverge.com/ai-artificial-intelligence/932203/university-of-arizona-students-boo-eric-schmidt-ai-commencement?mc_cid=3927d80133&mc_eid=42e32a91e2>
+[resist]: <https://www.technologyreview.com/2026/04/21/1135665/resistance-ai-artificial-intelligence-backlash-protests/?utm_source=the_download&utm_medium=email&utm_campaign=the_download.unpaid.engagement&utm_term=Active%20Qualified&utm_content=05-15-2026&mc_cid=850eb8e9a8&mc_eid=42e32a91e2>
+
+==It would take a bold soul to bet that automated programming stops there==:
+As we know by now (2026), it very definitely didn't stop there. As I update these notes I find the code assistants (now integrated into my editor) incredibly useful in reducing grunt work—these are truly amazing tools. I do find, however, that I need to understand what I (and they) are doing because, impressive as they've become, the assistants are still liable to lead one up the garden path on occasion. One thing I enjoy, though, is that even for the bots the code often behaves differently to how they expected, forcing them to reconfigure. Just like me, but faster. And useless at fixing a martini.
 
 ==Right now \[computer science is\] thought of . . . as basically
 vocational training with Java==:
@@ -166,7 +180,8 @@ alternative and sent on a different programming track (perhaps
 specializing in debugging, for instance.) And when this is found to
 produce better, more thoughtful and collaborative coders; to halt the
 leach of good people from open source, then business schools adopt the
-same model, fostering empathy and ethical sense among their students. Some students complain, while others express delight, but
+same model, fostering empathy and ethical sense among their students. Some
+students complain, while others express delight, but
 any blowback is recognized as a small price to pay for the survival of
 humankind. Would-be open source contributors are given the additional
 pleasure of reading *Congratulations, By the Way*, George Saunders'
@@ -177,18 +192,19 @@ In the director's cut of this fantasy, literature students are also
 introduced to a programming language, but let's not get ahead of
 ourselves. Bad poetry never destroyed a life but bad code can. And does.
 
-###402
+### 402
+
 ==NASA announced that its next generation of Mars Rovers would
 run open source software==:
 "[NASA's next lunar rover will run open-source
 software][nasa]," *MIT Technology Review*, April 12, 2021; "[Meet the
 Open-Source Software Powering NASA's Ingenuity Mars Helicopter][heli]," NASA
 Mars Exploration Program website.
-[nasa]:https://www.technologyreview.com/2021/04/12/1022420/nasa-lunar-rover-viper-open-source-software/
-[heli]:https://www.nasa.gov/solar-system/meet-the-open-source-software-powering-nasas-ingenuity-mars-helicopter/
+[nasa]: <https://www.technologyreview.com/2021/04/12/1022420/nasa-lunar-rover-viper-open-source-software/>
+[heli]: <https://www.nasa.gov/solar-system/meet-the-open-source-software-powering-nasas-ingenuity-mars-helicopter/>
 
 ![An artist's image of the Viper rover][rover]
-[rover]:https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.VZqOvli86pdim9JTFTgWqgHaEK%26pid%3DApi&f=1&ipt=d83926b48bf56b2beefa02c767e7deb666d3130b594f6e9f998c11de009cfe14&ipo=images
+[rover]: <https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.VZqOvli86pdim9JTFTgWqgHaEK%26pid%3DApi&f=1&ipt=d83926b48bf56b2beefa02c767e7deb666d3130b594f6e9f998c11de009cfe14&ipo=images>
 
 ==a basic training certificate in collaborative communication==:
 The open source community may need to introduce an educational process
@@ -201,56 +217,62 @@ has been designing a training program modeled on the grade-based system
 used in classical music teaching. One of the [*CodeGrades*][grade] innovations
 closest to his heart is training in productive collaboration with
 others.
-[grade]:https://www.codegrades.com/
+[grade]: <https://www.codegrades.com/>
 
-###403
+### 403
+
 ==Psychologists say humans are springloaded to linger on
 negatives because focus on danger keeps us safe==:
 "[Our Brain's Negative
 Bias: Why our brains are more highly attuned to negative news][neg],"
 *Psychology Today*, June 20, 2003.
-[neg]:https://www.psychologytoday.com/us/articles/200306/our-brains-negative-bias
+[neg]: <https://www.psychologytoday.com/us/articles/200306/our-brains-negative-bias>
 
 ==Uber's criminality and cant exceeded even the direst imaginings
 of critics==:
 See "[The Uber whistleblower: I'm exposing a system that
 sold people a lie][whis],'" *The Guardian*, 11 July 2022.
-[whis]:https://www.theguardian.com/news/2022/jul/11/uber-files-whistleblower-lobbyist-mark-macgann
+[whis]: <https://www.theguardian.com/news/2022/jul/11/uber-files-whistleblower-lobbyist-mark-macgann>
 
 ==AI pricing algorithms are learning to collude==:
 *MIT Technology
 Review* podcast, October 27, 2021, "[How Pricing Algorithms Learn to
 Collude: AI could learn to form cartels in an effort to maximize
 profits][cart]."
-[cart]:https://www.technologyreview.com/2021/10/27/1038835/podcast-how-pricing-algorithms-learn-to-collude/
+[cart]: <https://www.technologyreview.com/2021/10/27/1038835/podcast-how-pricing-algorithms-learn-to-collude/>
 
 ==TikTok algorithms bombard young men with misogynistic posts==:
 "[How TikTok bombards young men with misogynistic videos][tik]," *The
 Guardian*, 6 August, 2022.
-[tik]:https://www.theguardian.com/technology/2022/aug/06/revealed-how-tiktok-bombards-young-men-with-misogynistic-videos-andrew-tate
+[tik]: <https://www.theguardian.com/technology/2022/aug/06/revealed-how-tiktok-bombards-young-men-with-misogynistic-videos-andrew-tate>
 
 ==the Chinese government using its equivalent of Microsoft 365 to
 censor books before they've even left their authors' laptops==:
 "[A
 million-word novel got censored before it was even shared. Now Chinese
 users want answers.][chin]" *MIT Technology Review*, July 15, 2022.
-[chin]:https://www.technologyreview.com/2022/07/15/1056042/chinese-novel-censored-before-shared/
+[chin]: <https://www.technologyreview.com/2022/07/15/1056042/chinese-novel-censored-before-shared/>
 
 ==an ambitious French plan to democratize Large Language Model
 "AI"==:
 "[Inside a radical new project to democratize AI][fra]," *MIT Technology
 Review*, July 12, 2022.
-[fra]:https://www.technologyreview.com/2022/07/12/1055817/inside-a-radical-new-project-to-democratize-ai/
+[fra]: <https://www.technologyreview.com/2022/07/12/1055817/inside-a-radical-new-project-to-democratize-ai/>
 
 ==a virtual reality program called "Isness-D"==:
 "[VR is as good as
 psychedelics at helping people reach transcendence][vr]," *MIT Technology
 Review*, August 8, 2022; "[Psychedelics are having a moment and women
 could be the ones to benefit][psych]," *MIT Technology Review*, August 10, 2022.
-[vr]:https://www.technologyreview.com/2022/08/06/1056727/vr-virtual-reality-psychedelics-transcendence/
-[psych]:https://www.technologyreview.com/2022/08/10/1057146/psychedelics-scentific-research-women/
+[vr]: <https://www.technologyreview.com/2022/08/06/1056727/vr-virtual-reality-psychedelics-transcendence/>
+[psych]: <https://www.technologyreview.com/2022/08/10/1057146/psychedelics-scentific-research-women/>
 
-###404
+==Technologies that work and are virtuous demand no sustained attention==:
+This one for instance: "[Dancer with MND performs on stage again through digital avatar][dance]", BBC, 10 April 2026.
+[dance]: <https://www.bbc.com/news/articles/cgqkz5lzvnwo?mc_cid=9f1872dc1e&mc_eid=42e32a91e2>
+
+### 404
+
 ==a Machine Learning-propelled medical revolution in diagnosis,
 treatment and drug design==:
 See "[The next healthcare revolution will
@@ -265,18 +287,18 @@ oncologist][skep]," *MIT Technology Review*, October 23, 2018 and "[Medicine's
 Machine Learning Problem: As Big Data tools reshape health care, biased
 datasets and unaccountable algorithms threaten to further disempower
 patients][med]," *Boston Review*, January 4, 2021.
-[healt]:https://techcrunch.com/2021/09/20/the-next-healthcare-revolution-will-have-ai-at-its-center/
-[biot]:https://www.technologyreview.com/2022/06/28/1054260/2022-innovators-biotechnology/?utm_source=LinkedIn&utm_campaign=site_visitor.unpaid.engagement&utm_medium=tr_social
-[hepa]:https://www.nursinginpractice.com/latest-news/nhse-to-use-ai-to-identify-patients-at-risk-of-hepatitis-c/
-[skep]:https://www.technologyreview.com/2018/10/23/139408/the-skeptic-what-precision-medicine-revolution/
-[med]:https://www.bostonreview.net/articles/rachel-thomas-medicines-machine-learning-problem/
+[healt]: <https://techcrunch.com/2021/09/20/the-next-healthcare-revolution-will-have-ai-at-its-center/>
+[biot]: <https://www.technologyreview.com/2022/06/28/1054260/2022-innovators-biotechnology/?utm_source=LinkedIn&utm_campaign=site_visitor.unpaid.engagement&utm_medium=tr_social>
+[hepa]: <https://www.nursinginpractice.com/latest-news/nhse-to-use-ai-to-identify-patients-at-risk-of-hepatitis-c/>
+[skep]: <https://www.technologyreview.com/2018/10/23/139408/the-skeptic-what-precision-medicine-revolution/>
+[med]: <https://www.bostonreview.net/articles/rachel-thomas-medicines-machine-learning-problem/>
 
 ==the conservative political analyst and academic Yuval Levin has
 opened a discussion on what to do about it==:
 "[It Was a Mistake to Let
 Kids Onto Social Media Sites. Here's What to Do Now][yuv]," *New York Times*,
 August 5, 2022.
-[yuv]:https://www.nytimes.com/2022/08/05/opinion/social-media-parents-children.html
+[yuv]: <https://www.nytimes.com/2022/08/05/opinion/social-media-parents-children.html>
 
 ==Big Tech companies who recognize their power and try to use it
 well, like Slack and Salesforce==:
@@ -286,5 +308,5 @@ at Slack][sla]", *Candor*, 2020, and "[The Gospel of Wealth According
 to Marc Benioff: The Salesforce founder has donated a fortune to right
 capitalism's wrongs, and he thinks his fellow billionaires should too.
 Why can't we just be grateful?][benio]," *Wired*, December 11, 2019.
-[sla]:https://candor.co/articles/tech-careers/what-s-it-like-to-work-at-slack
-[benio]:https://www.wired.com/story/gospel-of-wealth-according-to-marc-benioff/
+[sla]: <https://candor.co/articles/tech-careers/what-s-it-like-to-work-at-slack>
+[benio]: <https://www.wired.com/story/gospel-of-wealth-according-to-marc-benioff/>
