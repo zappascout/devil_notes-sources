@@ -410,7 +410,7 @@ Sadly, anyone who follows the news will realize we
 no longer need to wonder about weaponized drones, which have been
 extensively used by both sides in the Ukraine war, and in Gaza. There is
 a profound difference between automated weapons guided by humans and
-those given complete autonomy and beyond human control once launched. As
+those given complete autonomy, therefore being beyond human control once launched. As
 I originally wrote this entry in June 2024, when the truth was still opaque. By mid-2026 it was clear: see "[Fully autonomous drones have killed human soldiers for the first time][deadly]," *New Scientist*, 10 June 2026. In July 2017 *Newsweek* laid out the issues in "[Russia's Military Challenges
 U.S. and China By Building a Missile That Makes Its Own Decisions][rus]."
 [rus]: <https://www.newsweek.com/russia-military-challenge-us-china-missile-own-decisions-639926>
@@ -424,7 +424,7 @@ humans fully autonomously for the first time][drones]," 27 May 2021.
 [drones]: <https://www.newscientist.com/article/2278852-drones-may-have-attacked-humans-fully-autonomously-for-the-first-time/>
 
 ==where the military goes, domestic law enforcement tends to follow==:
-To no one's surprise, the Trump administration has embraced this opportunity. "[Is the Pentagon allowed to surveil Americans with AI?: Artificial intelligence is supercharging surveillance, and the law has not caught up with it.][pent]," *MIT Technology Review, 26 March 2026
+To no one's surprise, the Trump administration has embraced this opportunity. "[Is the Pentagon allowed to surveil Americans with AI?: Artificial intelligence is supercharging surveillance, and the law has not caught up with it][pent]," *MIT Technology Review*, 26 March 2026
 [pent]: <https://www.technologyreview.com/2026/03/06/1134012/is-the-pentagon-allowed-to-surveil-americans-with-ai/?utm_source=the_download&utm_medium=email&utm_campaign=the_download.unpaid.engagement&utm_term=Active%20Qualified&utm_content=06-30-2026&mc_cid=35c0df8ab7&mc_eid=42e32a91e2>
 
 ### 282
